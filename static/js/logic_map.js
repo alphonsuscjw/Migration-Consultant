@@ -80,7 +80,7 @@ fetch(countries_url_1)
             };
         });
         createCountryMarkers(mergedData);
-
+        console.log(mergedData)
     });
 });
 
@@ -89,7 +89,13 @@ function createCountryMarkers(data) {
     
     // Initialise an array to hold the country markers.
     let countryBorders = L.geoJson(data, {
-        
+        style: function(feature) {
+            return {
+              fillColor: "#cedaee",
+              fillOpacity: 0.2,
+              weight: 1.5
+            };
+        },
         onEachFeature: function(feature, layer) {
 
             // Add an event listener to display the popup when hovering over the country marker
@@ -97,14 +103,17 @@ function createCountryMarkers(data) {
                 mouseover: function(event) {
                     layer = event.target;
                     layer.setStyle({
-                        fillOpacity: 0.5
+                        fillOpacity: 0.5,
+                        fillColor: getColor(feature["Human Development Index (HDI) "])                  
                     });
                 },
                 // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 0%.
                 mouseout: function(event) {
                     layer = event.target;
                     layer.setStyle({
-                      fillOpacity: 0.2
+                        fillOpacity: 0.2,
+                        fillColor: "#cedaee",
+                        weight: 1.5
                     });
                 },
                 // // When a feature (country) is clicked, it zooms to fit the screen.
@@ -121,8 +130,8 @@ function createCountryMarkers(data) {
             else {
                 popupHtml += `<h3>HDI Ranking 2021: N/A</h3>`;
             }
-            if (feature["Human Development Index (HDI)"]){
-                popupHtml += `<h3>HDI 2021: ${feature["Human Development Index (HDI)"]}</h3>`;
+            if (feature["Human Development Index (HDI) "]){
+                popupHtml += `<h3>HDI 2021: ${feature["Human Development Index (HDI) "]}</h3>`;
             }
             else {
                 popupHtml += `<h3>HDI 2021: N/A</h3>`;
@@ -163,4 +172,22 @@ function createCountryMarkers(data) {
     
     myMap.addLayer(countryBorders);
 
+}
+
+function getColor(hdi) {
+    
+    var lowColor = 'red';
+    var mediumColor = 'orange';
+    var highColor = 'yellow';
+    var veryHighColor = 'green';
+
+    if (hdi < "0.550") {
+        return lowColor;
+    } else if (hdi >= "0.550" && hdi < "0.700") {
+        return mediumColor;
+    } else if (hdi >= "0.700" && hdi < "0.800") {
+        return highColor;
+    } else {
+        return veryHighColor;
+    }
 }
