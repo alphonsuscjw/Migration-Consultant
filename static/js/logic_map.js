@@ -10,7 +10,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 // Perform an API call to the USGS API to get the earthquake information. Call createMarkers when it completes.
-let city_url = "../../Data/output/cities_final.json"
+let city_url = "../../Data/output/cities_final2.json"
 d3.json(city_url).then(function(city_data) {
     createCityMarkers(city_data);
 });
@@ -32,13 +32,22 @@ function createCityMarkers(city_response) {
         if (cities[i].LPP_index) {
             popupHtml += `<h3>LPP index: ${cities[i].LPP_index}</h3>`;
         }
+        else {
+            popupHtml += `<h3>LPP index: N/A</h3>`;
+        }
 
         if (cities[i].crime_index) {
             popupHtml += `<h3>Crime index: ${cities[i].crime_index}</h3>`;
         }
+        else {
+            popupHtml += `<h3>Crime index: N/A</h3>`;
+        }
 
         if (cities[i].healthcare_index) {
             popupHtml += `<h3>Healthcare index: ${cities[i].healthcare_index}</h3>`;
+        }
+        else {
+            popupHtml += `<h3>Healthcare index: N/A</h3>`;
         }
 
         // For each feature, create a circle marker, and bind a popup with the earthquake's magnitude, depth, place and time.
@@ -54,58 +63,104 @@ function createCityMarkers(city_response) {
 // Load the countries data and add it to the map as a GeoJSON layer.
 let countries_url_1 = "../../Data/output/countries_final.json";
 let countries_url_2 = "../../Data/output/countries.geojson";
+// Load JSON file
+fetch(countries_url_1)
+.then(response => response.json())
+.then(jsonData => {
+    // Load GeoJSON file
+    fetch(countries_url_2)
+    .then(response => response.json())
+    .then(geojsonData => {
+        // Merge JSON and GeoJSON files based on the country code
+        const mergedData = jsonData.map(data => {
+            const matchingFeature = geojsonData.features.find(feature => feature.properties.ISO_A3 === data["alpha-3"]);
+            return {
+              ...data,
+              ...matchingFeature.geometry
+            };
+        });
+        createCountryMarkers(mergedData);
 
-Promise.all([countries_url_1, countries_url_2]).then(function(data){
-    createCountryMarkers(data[0],data[1]);
+    });
 });
 
 // Create the createCountryMarkers function.
-function createCountryMarkers(countries_data, countries_borders) {
-
+function createCountryMarkers(data) {
+    
     // Initialise an array to hold the country markers.
-    let countryMarkers = L.geoJson(countries_borders, {
-        
-        style: function(feature) {
-            return {
-              color: "blue",
-              fillColor: "blue",
-              weight: 1.5
-            };
-        },
+    let countryBorders = L.geoJson(data, {
         
         onEachFeature: function(feature, layer) {
-            // Create an empty string to store the HTML for the popup
-            // let popupHtml = `<h2>${feature.Countries}</h2>`;
-            
-            // // Add the GDP and population data to the popup
-            // popupHtml += `<h3>HDI Ranking 2021: ${feature["HDI Rank (2021)"]}</h3>`;
-
-            // // Bind the popup to the country layer
-            // layer.bindPopup(popupHtml);
 
             // Add an event listener to display the popup when hovering over the country marker
             layer.on({
                 mouseover: function(event) {
                     layer = event.target;
                     layer.setStyle({
-                      fillOpacity: 0.5
+                        fillOpacity: 0.5
                     });
                 },
-                  // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 50%.
+                // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 0%.
                 mouseout: function(event) {
                     layer = event.target;
                     layer.setStyle({
-                      fillOpacity: 0
+                      fillOpacity: 0.2
                     });
                 },
-                // When a feature (neighbourhood) is clicked, it enlarges to fit the screen.
-                click: function(event) {
-                    myMap.fitBounds(event.target.getBounds());
-                }
+                // // When a feature (country) is clicked, it zooms to fit the screen.
+                // click: function(event) {
+                //     myMap.fitBounds(event.target.getBounds());
+                // }
             });
+            let popupHtml = `<h2>${feature.Countries}</h2>`;
+            
+            // Add the data to the popup if it is not empty
+            if (feature["HDI Rank (2021)"]) {
+                popupHtml += `<h3>HDI Ranking 2021: ${feature["HDI Rank (2021)"]}</h3>`;
+            }
+            else {
+                popupHtml += `<h3>HDI Ranking 2021: N/A</h3>`;
+            }
+            if (feature["Human Development Index (HDI)"]){
+                popupHtml += `<h3>HDI 2021: ${feature["Human Development Index (HDI)"]}</h3>`;
+            }
+            else {
+                popupHtml += `<h3>HDI 2021: N/A</h3>`;
+            }
+            if (feature["Education Index"]){
+                popupHtml += `<h3>Education index: ${feature["Education Index"]}</h3>`;
+            }
+            else {
+                popupHtml += `<h3>Education index: N/A</h3>`;
+            }
+
+            if (feature["crime_index"]) {
+                popupHtml += `<h3>Crime index: ${feature["crime_index"]}</h3>`;
+            }
+            else {
+                popupHtml += `<h3>Crime index: N/A</h3>`;
+            }
+
+            if (feature["LPP_index"]){
+                popupHtml += `<h3>LPP index: ${feature["LPP_index"]}</h3>`;
+            }
+            else {
+                popupHtml += `<h3>LPP index: N/A</h3>`;
+            }
+
+            if (feature["healthcare_index"]) {
+                popupHtml += `<h3>Healthcare index: ${feature["healthcare_index"]}</h3>`;
+            }
+            else {
+                popupHtml += `<h3>Healthcare index: N/A</h3>`;
+            }
+
+            // Bind the popup to the country layer
+            layer.bindPopup(popupHtml);
         }
 
     });
+    
+    myMap.addLayer(countryBorders);
 
-    myMap.addLayer(countryMarkers);
 }

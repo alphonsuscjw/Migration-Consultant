@@ -2,7 +2,7 @@
     {
         "HDI Rank (2021)": "1",
         "Countries": "Switzerland",
-        "Human Development Index (HDI) ": "0.962",
+        "Human Development Index (HDI)": "0.962",
         "Life expectancy at birth": "83.9872",
         "Expected years of schooling": "16.50029945",
         "Mean years of schooling": "13.85966015",
@@ -23,7 +23,7 @@
     {
         "HDI Rank (2021)": "2",
         "Countries": "Norway",
-        "Human Development Index (HDI) ": "0.961",
+        "Human Development Index (HDI)": "0.961",
         "Life expectancy at birth": "83.2339",
         "Expected years of schooling": "18.18519974",
         "Mean years of schooling": "13.00362968",
@@ -44,7 +44,7 @@
     {
         "HDI Rank (2021)": "3",
         "Countries": "Iceland",
-        "Human Development Index (HDI) ": "0.959",
+        "Human Development Index (HDI)": "0.959",
         "Life expectancy at birth": "82.6782",
         "Expected years of schooling": "19.16305923",
         "Mean years of schooling": "13.76716995",
@@ -65,7 +65,7 @@
     {
         "HDI Rank (2021)": "5",
         "Countries": "Australia",
-        "Human Development Index (HDI) ": "0.951",
+        "Human Development Index (HDI)": "0.951",
         "Life expectancy at birth": "84.5265",
         "Expected years of schooling": "21.05459023",
         "Mean years of schooling": "12.72681999",
@@ -86,7 +86,7 @@
     {
         "HDI Rank (2021)": "6",
         "Countries": "Denmark",
-        "Human Development Index (HDI) ": "0.948",
+        "Human Development Index (HDI)": "0.948",
         "Life expectancy at birth": "81.3753",
         "Expected years of schooling": "18.71479988",
         "Mean years of schooling": "12.96049023",
@@ -107,7 +107,7 @@
     {
         "HDI Rank (2021)": "7",
         "Countries": "Sweden",
-        "Human Development Index (HDI) ": "0.947",
+        "Human Development Index (HDI)": "0.947",
         "Life expectancy at birth": "82.9833",
         "Expected years of schooling": "19.41852951",
         "Mean years of schooling": "12.60972023",
@@ -128,7 +128,7 @@
     {
         "HDI Rank (2021)": "8",
         "Countries": "Ireland",
-        "Human Development Index (HDI) ": "0.945",
+        "Human Development Index (HDI)": "0.945",
         "Life expectancy at birth": "81.9976",
         "Expected years of schooling": "18.94522095",
         "Mean years of schooling": "11.58222303",
@@ -149,7 +149,7 @@
     {
         "HDI Rank (2021)": "9",
         "Countries": "Germany",
-        "Human Development Index (HDI) ": "0.942",
+        "Human Development Index (HDI)": "0.942",
         "Life expectancy at birth": "80.6301",
         "Expected years of schooling": "17.01013947",
         "Mean years of schooling": "14.09096691",
@@ -170,7 +170,7 @@
     {
         "HDI Rank (2021)": "10",
         "Countries": "Netherlands",
-        "Human Development Index (HDI) ": "0.941",
+        "Human Development Index (HDI)": "0.941",
         "Life expectancy at birth": "81.6873",
         "Expected years of schooling": "18.69316522",
         "Mean years of schooling": "12.58162975",
@@ -191,7 +191,7 @@
     {
         "HDI Rank (2021)": "11",
         "Countries": "Finland",
-        "Human Development Index (HDI) ": "0.94",
+        "Human Development Index (HDI)": "0.94",
         "Life expectancy at birth": "82.0381",
         "Expected years of schooling": "19.05192947",
         "Mean years of schooling": "12.87362003",
@@ -212,7 +212,7 @@
     {
         "HDI Rank (2021)": "12",
         "Countries": "Singapore",
-        "Human Development Index (HDI) ": "0.939",
+        "Human Development Index (HDI)": "0.939",
         "Life expectancy at birth": "82.7545",
         "Expected years of schooling": "16.5243206",
         "Mean years of schooling": "11.92488003",
@@ -233,7 +233,7 @@
     {
         "HDI Rank (2021)": "13",
         "Countries": "Belgium",
-        "Human Development Index (HDI) ": "0.937",
+        "Human Development Index (HDI)": "0.937",
         "Life expectancy at birth": "81.8787",
         "Expected years of schooling": "19.60421944",
         "Mean years of schooling": "12.37567997",
@@ -254,7 +254,7 @@
     {
         "HDI Rank (2021)": "13",
         "Countries": "New Zealand",
-        "Human Development Index (HDI) ": "0.937",
+        "Human Development Index (HDI)": "0.937",
         "Life expectancy at birth": "82.4513",
         "Expected years of schooling": "20.28388977",
         "Mean years of schooling": "12.94468975",
@@ -275,7 +275,7 @@
     {
         "HDI Rank (2021)": "15",
         "Countries": "Canada",
-        "Human Development Index (HDI) ": "0.936",
+        "Human Development Index (HDI)": "0.936",
         "Life expectancy at birth": "82.6565",
         "Expected years of schooling": "16.39625931",
         "Mean years of schooling": "13.83442722",
@@ -296,7 +296,7 @@
     {
         "HDI Rank (2021)": "16",
         "Countries": "Liechtenstein",
-        "Human Development Index (HDI) ": "0.935",
+        "Human Development Index (HDI)": "0.935",
         "Life expectancy at birth": "83.2575",
         "Expected years of schooling": "15.18157005",
         "Mean years of schooling": "12.53854",
@@ -317,7 +317,7 @@
     {
         "HDI Rank (2021)": "17",
         "Countries": "Luxembourg",
-        "Human Development Index (HDI) ": "0.93",
+        "Human Development Index (HDI)": "0.93",
         "Life expectancy at birth": "82.6287",
         "Expected years of schooling": "14.39813995",
         "Mean years of schooling": "13.01519217",
@@ -338,7 +338,7 @@
     {
         "HDI Rank (2021)": "18",
         "Countries": "United Kingdom",
-        "Human Development Index (HDI) ": "0.929",
+        "Human Development Index (HDI)": "0.929",
         "Life expectancy at birth": "80.7422",
         "Expected years of schooling": "17.30971909",
         "Mean years of schooling": "13.4061203",
@@ -359,7 +359,7 @@
     {
         "HDI Rank (2021)": "19",
         "Countries": "Japan",
-        "Human Development Index (HDI) ": "0.925",
+        "Human Development Index (HDI)": "0.925",
         "Life expectancy at birth": "84.7839",
         "Expected years of schooling": "15.22162588",
         "Mean years of schooling": "13.36610034",
@@ -380,7 +380,7 @@
     {
         "HDI Rank (2021)": "19",
         "Countries": "Korea (Republic of)",
-        "Human Development Index (HDI) ": "0.925",
+        "Human Development Index (HDI)": "0.925",
         "Life expectancy at birth": "83.6978",
         "Expected years of schooling": "16.52173996",
         "Mean years of schooling": "12.51293027",
@@ -401,7 +401,7 @@
     {
         "HDI Rank (2021)": "21",
         "Countries": "United States",
-        "Human Development Index (HDI) ": "0.921",
+        "Human Development Index (HDI)": "0.921",
         "Life expectancy at birth": "77.1982",
         "Expected years of schooling": "16.28097916",
         "Mean years of schooling": "13.68342972",
@@ -422,7 +422,7 @@
     {
         "HDI Rank (2021)": "22",
         "Countries": "Israel",
-        "Human Development Index (HDI) ": "0.919",
+        "Human Development Index (HDI)": "0.919",
         "Life expectancy at birth": "82.255",
         "Expected years of schooling": "16.05088997",
         "Mean years of schooling": "13.3448664",
@@ -443,7 +443,7 @@
     {
         "HDI Rank (2021)": "23",
         "Countries": "Malta",
-        "Human Development Index (HDI) ": "0.918",
+        "Human Development Index (HDI)": "0.918",
         "Life expectancy at birth": "83.7769",
         "Expected years of schooling": "16.83856964",
         "Mean years of schooling": "12.21026039",
@@ -464,7 +464,7 @@
     {
         "HDI Rank (2021)": "23",
         "Countries": "Slovenia",
-        "Human Development Index (HDI) ": "0.918",
+        "Human Development Index (HDI)": "0.918",
         "Life expectancy at birth": "80.6904",
         "Expected years of schooling": "17.65492058",
         "Mean years of schooling": "12.80368042",
@@ -485,7 +485,7 @@
     {
         "HDI Rank (2021)": "25",
         "Countries": "Austria",
-        "Human Development Index (HDI) ": "0.916",
+        "Human Development Index (HDI)": "0.916",
         "Life expectancy at birth": "81.5797",
         "Expected years of schooling": "16.00795937",
         "Mean years of schooling": "12.25669003",
@@ -506,7 +506,7 @@
     {
         "HDI Rank (2021)": "26",
         "Countries": "United Arab Emirates",
-        "Human Development Index (HDI) ": "0.911",
+        "Human Development Index (HDI)": "0.911",
         "Life expectancy at birth": "78.7104",
         "Expected years of schooling": "15.71769047",
         "Mean years of schooling": "12.69402981",
@@ -527,7 +527,7 @@
     {
         "HDI Rank (2021)": "27",
         "Countries": "Spain",
-        "Human Development Index (HDI) ": "0.905",
+        "Human Development Index (HDI)": "0.905",
         "Life expectancy at birth": "83.01",
         "Expected years of schooling": "17.91690063",
         "Mean years of schooling": "10.60540009",
@@ -548,7 +548,7 @@
     {
         "HDI Rank (2021)": "28",
         "Countries": "France",
-        "Human Development Index (HDI) ": "0.903",
+        "Human Development Index (HDI)": "0.903",
         "Life expectancy at birth": "82.4988",
         "Expected years of schooling": "15.81206989",
         "Mean years of schooling": "11.61005974",
@@ -569,7 +569,7 @@
     {
         "HDI Rank (2021)": "29",
         "Countries": "Cyprus",
-        "Human Development Index (HDI) ": "0.896",
+        "Human Development Index (HDI)": "0.896",
         "Life expectancy at birth": "81.2033",
         "Expected years of schooling": "15.64826965",
         "Mean years of schooling": "12.44017029",
@@ -590,7 +590,7 @@
     {
         "HDI Rank (2021)": "30",
         "Countries": "Italy",
-        "Human Development Index (HDI) ": "0.895",
+        "Human Development Index (HDI)": "0.895",
         "Life expectancy at birth": "82.8502",
         "Expected years of schooling": "16.22678947",
         "Mean years of schooling": "10.7401104",
@@ -611,7 +611,7 @@
     {
         "HDI Rank (2021)": "31",
         "Countries": "Estonia",
-        "Human Development Index (HDI) ": "0.89",
+        "Human Development Index (HDI)": "0.89",
         "Life expectancy at birth": "77.1436",
         "Expected years of schooling": "15.92895985",
         "Mean years of schooling": "13.54843044",
@@ -632,7 +632,7 @@
     {
         "HDI Rank (2021)": "32",
         "Countries": "Czechia",
-        "Human Development Index (HDI) ": "0.889",
+        "Human Development Index (HDI)": "0.889",
         "Life expectancy at birth": "77.7283",
         "Expected years of schooling": "16.21968079",
         "Mean years of schooling": "12.86931038",
@@ -653,7 +653,7 @@
     {
         "HDI Rank (2021)": "33",
         "Countries": "Greece",
-        "Human Development Index (HDI) ": "0.887",
+        "Human Development Index (HDI)": "0.887",
         "Life expectancy at birth": "80.1106",
         "Expected years of schooling": "20.02878952",
         "Mean years of schooling": "11.40853024",
@@ -674,7 +674,7 @@
     {
         "HDI Rank (2021)": "34",
         "Countries": "Poland",
-        "Human Development Index (HDI) ": "0.876",
+        "Human Development Index (HDI)": "0.876",
         "Life expectancy at birth": "76.4572",
         "Expected years of schooling": "16.0271492",
         "Mean years of schooling": "13.1647501",
@@ -695,7 +695,7 @@
     {
         "HDI Rank (2021)": "35",
         "Countries": "Bahrain",
-        "Human Development Index (HDI) ": "0.875",
+        "Human Development Index (HDI)": "0.875",
         "Life expectancy at birth": "78.7605",
         "Expected years of schooling": "16.29755974",
         "Mean years of schooling": "11.04658985",
@@ -716,7 +716,7 @@
     {
         "HDI Rank (2021)": "35",
         "Countries": "Lithuania",
-        "Human Development Index (HDI) ": "0.875",
+        "Human Development Index (HDI)": "0.875",
         "Life expectancy at birth": "73.7201",
         "Expected years of schooling": "16.28506088",
         "Mean years of schooling": "13.49810028",
@@ -737,7 +737,7 @@
     {
         "HDI Rank (2021)": "35",
         "Countries": "Saudi Arabia",
-        "Human Development Index (HDI) ": "0.875",
+        "Human Development Index (HDI)": "0.875",
         "Life expectancy at birth": "76.936",
         "Expected years of schooling": "16.13549042",
         "Mean years of schooling": "11.31052971",
@@ -758,7 +758,7 @@
     {
         "HDI Rank (2021)": "38",
         "Countries": "Portugal",
-        "Human Development Index (HDI) ": "0.866",
+        "Human Development Index (HDI)": "0.866",
         "Life expectancy at birth": "81.0443",
         "Expected years of schooling": "16.87122917",
         "Mean years of schooling": "9.575940132",
@@ -779,7 +779,7 @@
     {
         "HDI Rank (2021)": "39",
         "Countries": "Latvia",
-        "Human Development Index (HDI) ": "0.863",
+        "Human Development Index (HDI)": "0.863",
         "Life expectancy at birth": "73.5786",
         "Expected years of schooling": "16.20252991",
         "Mean years of schooling": "13.25271988",
@@ -800,7 +800,7 @@
     {
         "HDI Rank (2021)": "40",
         "Countries": "Andorra",
-        "Human Development Index (HDI) ": "0.858",
+        "Human Development Index (HDI)": "0.858",
         "Life expectancy at birth": "80.3684",
         "Expected years of schooling": "13.30023874",
         "Mean years of schooling": "10.55511952",
@@ -821,7 +821,7 @@
     {
         "HDI Rank (2021)": "40",
         "Countries": "Croatia",
-        "Human Development Index (HDI) ": "0.858",
+        "Human Development Index (HDI)": "0.858",
         "Life expectancy at birth": "77.5804",
         "Expected years of schooling": "15.11209965",
         "Mean years of schooling": "12.19108434",
@@ -842,7 +842,7 @@
     {
         "HDI Rank (2021)": "42",
         "Countries": "Chile",
-        "Human Development Index (HDI) ": "0.855",
+        "Human Development Index (HDI)": "0.855",
         "Life expectancy at birth": "78.9435",
         "Expected years of schooling": "16.73130035",
         "Mean years of schooling": "10.9349663",
@@ -863,7 +863,7 @@
     {
         "HDI Rank (2021)": "42",
         "Countries": "Qatar",
-        "Human Development Index (HDI) ": "0.855",
+        "Human Development Index (HDI)": "0.855",
         "Life expectancy at birth": "79.2716",
         "Expected years of schooling": "12.63722038",
         "Mean years of schooling": "9.99601145",
@@ -884,7 +884,7 @@
     {
         "HDI Rank (2021)": "44",
         "Countries": "San Marino",
-        "Human Development Index (HDI) ": "0.853",
+        "Human Development Index (HDI)": "0.853",
         "Life expectancy at birth": "80.8786",
         "Expected years of schooling": "12.26613998",
         "Mean years of schooling": "10.80146027",
@@ -905,7 +905,7 @@
     {
         "HDI Rank (2021)": "45",
         "Countries": "Slovakia",
-        "Human Development Index (HDI) ": "0.848",
+        "Human Development Index (HDI)": "0.848",
         "Life expectancy at birth": "74.9101",
         "Expected years of schooling": "14.51303959",
         "Mean years of schooling": "12.91141987",
@@ -926,7 +926,7 @@
     {
         "HDI Rank (2021)": "46",
         "Countries": "Hungary",
-        "Human Development Index (HDI) ": "0.846",
+        "Human Development Index (HDI)": "0.846",
         "Life expectancy at birth": "74.5301",
         "Expected years of schooling": "15.0336281",
         "Mean years of schooling": "12.24958992",
@@ -947,7 +947,7 @@
     {
         "HDI Rank (2021)": "47",
         "Countries": "Argentina",
-        "Human Development Index (HDI) ": "0.842",
+        "Human Development Index (HDI)": "0.842",
         "Life expectancy at birth": "75.3899",
         "Expected years of schooling": "17.8748703",
         "Mean years of schooling": "11.14726927",
@@ -968,7 +968,7 @@
     {
         "HDI Rank (2021)": "49",
         "Countries": "Montenegro",
-        "Human Development Index (HDI) ": "0.832",
+        "Human Development Index (HDI)": "0.832",
         "Life expectancy at birth": "76.3426",
         "Expected years of schooling": "15.08160973",
         "Mean years of schooling": "12.17648306",
@@ -989,7 +989,7 @@
     {
         "HDI Rank (2021)": "50",
         "Countries": "Kuwait",
-        "Human Development Index (HDI) ": "0.831",
+        "Human Development Index (HDI)": "0.831",
         "Life expectancy at birth": "78.6729",
         "Expected years of schooling": "15.32443332",
         "Mean years of schooling": "7.328022618",
@@ -1010,7 +1010,7 @@
     {
         "HDI Rank (2021)": "51",
         "Countries": "Brunei Darussalam",
-        "Human Development Index (HDI) ": "0.829",
+        "Human Development Index (HDI)": "0.829",
         "Life expectancy at birth": "74.6424",
         "Expected years of schooling": "13.95178032",
         "Mean years of schooling": "9.18",
@@ -1031,7 +1031,7 @@
     {
         "HDI Rank (2021)": "52",
         "Countries": "Russian Federation",
-        "Human Development Index (HDI) ": "0.822",
+        "Human Development Index (HDI)": "0.822",
         "Life expectancy at birth": "69.419",
         "Expected years of schooling": "15.76636982",
         "Mean years of schooling": "12.77428805",
@@ -1052,7 +1052,7 @@
     {
         "HDI Rank (2021)": "53",
         "Countries": "Romania",
-        "Human Development Index (HDI) ": "0.821",
+        "Human Development Index (HDI)": "0.821",
         "Life expectancy at birth": "74.1847",
         "Expected years of schooling": "14.22990036",
         "Mean years of schooling": "11.27511978",
@@ -1073,7 +1073,7 @@
     {
         "HDI Rank (2021)": "54",
         "Countries": "Oman",
-        "Human Development Index (HDI) ": "0.816",
+        "Human Development Index (HDI)": "0.816",
         "Life expectancy at birth": "72.5406",
         "Expected years of schooling": "14.57349014",
         "Mean years of schooling": "11.65404034",
@@ -1094,7 +1094,7 @@
     {
         "HDI Rank (2021)": "55",
         "Countries": "Bahamas",
-        "Human Development Index (HDI) ": "0.812",
+        "Human Development Index (HDI)": "0.812",
         "Life expectancy at birth": "71.5983",
         "Expected years of schooling": "12.89945",
         "Mean years of schooling": "12.64192386",
@@ -1115,7 +1115,7 @@
     {
         "HDI Rank (2021)": "56",
         "Countries": "Kazakhstan",
-        "Human Development Index (HDI) ": "0.811",
+        "Human Development Index (HDI)": "0.811",
         "Life expectancy at birth": "69.3622",
         "Expected years of schooling": "15.76500034",
         "Mean years of schooling": "12.34756189",
@@ -1136,7 +1136,7 @@
     {
         "HDI Rank (2021)": "57",
         "Countries": "Trinidad and Tobago",
-        "Human Development Index (HDI) ": "0.81",
+        "Human Development Index (HDI)": "0.81",
         "Life expectancy at birth": "72.9709",
         "Expected years of schooling": "14.53545292",
         "Mean years of schooling": "11.61062419",
@@ -1157,7 +1157,7 @@
     {
         "HDI Rank (2021)": "58",
         "Countries": "Costa Rica",
-        "Human Development Index (HDI) ": "0.809",
+        "Human Development Index (HDI)": "0.809",
         "Life expectancy at birth": "77.0232",
         "Expected years of schooling": "16.54577065",
         "Mean years of schooling": "8.804059982",
@@ -1178,7 +1178,7 @@
     {
         "HDI Rank (2021)": "58",
         "Countries": "Uruguay",
-        "Human Development Index (HDI) ": "0.809",
+        "Human Development Index (HDI)": "0.809",
         "Life expectancy at birth": "75.4356",
         "Expected years of schooling": "16.83259964",
         "Mean years of schooling": "8.982549667",
@@ -1199,7 +1199,7 @@
     {
         "HDI Rank (2021)": "60",
         "Countries": "Belarus",
-        "Human Development Index (HDI) ": "0.808",
+        "Human Development Index (HDI)": "0.808",
         "Life expectancy at birth": "72.438",
         "Expected years of schooling": "15.16996956",
         "Mean years of schooling": "12.14358044",
@@ -1220,7 +1220,7 @@
     {
         "HDI Rank (2021)": "61",
         "Countries": "Panama",
-        "Human Development Index (HDI) ": "0.805",
+        "Human Development Index (HDI)": "0.805",
         "Life expectancy at birth": "76.2233",
         "Expected years of schooling": "13.05787868",
         "Mean years of schooling": "10.54059029",
@@ -1241,7 +1241,7 @@
     {
         "HDI Rank (2021)": "62",
         "Countries": "Malaysia",
-        "Human Development Index (HDI) ": "0.803",
+        "Human Development Index (HDI)": "0.803",
         "Life expectancy at birth": "74.8839",
         "Expected years of schooling": "13.34304047",
         "Mean years of schooling": "10.64505959",
@@ -1262,7 +1262,7 @@
     {
         "HDI Rank (2021)": "63",
         "Countries": "Georgia",
-        "Human Development Index (HDI) ": "0.802",
+        "Human Development Index (HDI)": "0.802",
         "Life expectancy at birth": "71.694",
         "Expected years of schooling": "15.56851959",
         "Mean years of schooling": "12.82221985",
@@ -1283,7 +1283,7 @@
     {
         "HDI Rank (2021)": "63",
         "Countries": "Mauritius",
-        "Human Development Index (HDI) ": "0.802",
+        "Human Development Index (HDI)": "0.802",
         "Life expectancy at birth": "73.5552",
         "Expected years of schooling": "15.17352977",
         "Mean years of schooling": "10.42791048",
@@ -1304,7 +1304,7 @@
     {
         "HDI Rank (2021)": "63",
         "Countries": "Serbia",
-        "Human Development Index (HDI) ": "0.802",
+        "Human Development Index (HDI)": "0.802",
         "Life expectancy at birth": "74.1923",
         "Expected years of schooling": "14.40009022",
         "Mean years of schooling": "11.36987019",
@@ -1325,7 +1325,7 @@
     {
         "HDI Rank (2021)": "66",
         "Countries": "Thailand",
-        "Human Development Index (HDI) ": "0.8",
+        "Human Development Index (HDI)": "0.8",
         "Life expectancy at birth": "78.7154",
         "Expected years of schooling": "15.88221913",
         "Mean years of schooling": "8.697119713",
@@ -1346,7 +1346,7 @@
     {
         "HDI Rank (2021)": "67",
         "Countries": "Albania",
-        "Human Development Index (HDI) ": "0.796",
+        "Human Development Index (HDI)": "0.796",
         "Life expectancy at birth": "76.4626",
         "Expected years of schooling": "14.44799995",
         "Mean years of schooling": "11.28645502",
@@ -1367,7 +1367,7 @@
     {
         "HDI Rank (2021)": "68",
         "Countries": "Bulgaria",
-        "Human Development Index (HDI) ": "0.795",
+        "Human Development Index (HDI)": "0.795",
         "Life expectancy at birth": "71.798",
         "Expected years of schooling": "13.89729023",
         "Mean years of schooling": "11.41318035",
@@ -1388,7 +1388,7 @@
     {
         "HDI Rank (2021)": "68",
         "Countries": "Grenada",
-        "Human Development Index (HDI) ": "0.795",
+        "Human Development Index (HDI)": "0.795",
         "Life expectancy at birth": "74.9362",
         "Expected years of schooling": "18.66202035",
         "Mean years of schooling": "9.032104",
@@ -1409,7 +1409,7 @@
     {
         "HDI Rank (2021)": "70",
         "Countries": "Barbados",
-        "Human Development Index (HDI) ": "0.79",
+        "Human Development Index (HDI)": "0.79",
         "Life expectancy at birth": "77.5714",
         "Expected years of schooling": "15.71338458",
         "Mean years of schooling": "9.852700596",
@@ -1430,7 +1430,7 @@
     {
         "HDI Rank (2021)": "71",
         "Countries": "Antigua and Barbuda",
-        "Human Development Index (HDI) ": "0.788",
+        "Human Development Index (HDI)": "0.788",
         "Life expectancy at birth": "78.4968",
         "Expected years of schooling": "14.18462641",
         "Mean years of schooling": "9.293740746",
@@ -1451,7 +1451,7 @@
     {
         "HDI Rank (2021)": "72",
         "Countries": "Seychelles",
-        "Human Development Index (HDI) ": "0.785",
+        "Human Development Index (HDI)": "0.785",
         "Life expectancy at birth": "71.2945",
         "Expected years of schooling": "13.94161034",
         "Mean years of schooling": "10.28312",
@@ -1472,7 +1472,7 @@
     {
         "HDI Rank (2021)": "73",
         "Countries": "Sri Lanka",
-        "Human Development Index (HDI) ": "0.782",
+        "Human Development Index (HDI)": "0.782",
         "Life expectancy at birth": "76.3991",
         "Expected years of schooling": "14.13990486",
         "Mean years of schooling": "10.82730007",
@@ -1493,7 +1493,7 @@
     {
         "HDI Rank (2021)": "74",
         "Countries": "Bosnia and Herzegovina",
-        "Human Development Index (HDI) ": "0.78",
+        "Human Development Index (HDI)": "0.78",
         "Life expectancy at birth": "75.3003",
         "Expected years of schooling": "13.8",
         "Mean years of schooling": "10.53631973",
@@ -1514,7 +1514,7 @@
     {
         "HDI Rank (2021)": "75",
         "Countries": "Saint Kitts and Nevis",
-        "Human Development Index (HDI) ": "0.777",
+        "Human Development Index (HDI)": "0.777",
         "Life expectancy at birth": "71.6822",
         "Expected years of schooling": "15.42769157",
         "Mean years of schooling": "8.662745",
@@ -1535,7 +1535,7 @@
     {
         "HDI Rank (2021)": "76",
         "Countries": "Iran (Islamic Republic of)",
-        "Human Development Index (HDI) ": "0.774",
+        "Human Development Index (HDI)": "0.774",
         "Life expectancy at birth": "73.8749",
         "Expected years of schooling": "14.61524963",
         "Mean years of schooling": "10.63645314",
@@ -1556,7 +1556,7 @@
     {
         "HDI Rank (2021)": "77",
         "Countries": "Ukraine",
-        "Human Development Index (HDI) ": "0.773",
+        "Human Development Index (HDI)": "0.773",
         "Life expectancy at birth": "71.624",
         "Expected years of schooling": "14.95656854",
         "Mean years of schooling": "11.13142043",
@@ -1577,7 +1577,7 @@
     {
         "HDI Rank (2021)": "78",
         "Countries": "North Macedonia",
-        "Human Development Index (HDI) ": "0.77",
+        "Human Development Index (HDI)": "0.77",
         "Life expectancy at birth": "73.8415",
         "Expected years of schooling": "13.62443234",
         "Mean years of schooling": "10.22815037",
@@ -1598,7 +1598,7 @@
     {
         "HDI Rank (2021)": "79",
         "Countries": "China",
-        "Human Development Index (HDI) ": "0.768",
+        "Human Development Index (HDI)": "0.768",
         "Life expectancy at birth": "78.2107",
         "Expected years of schooling": "14.2361149",
         "Mean years of schooling": "7.600118446",
@@ -1619,7 +1619,7 @@
     {
         "HDI Rank (2021)": "80",
         "Countries": "Dominican Republic",
-        "Human Development Index (HDI) ": "0.767",
+        "Human Development Index (HDI)": "0.767",
         "Life expectancy at birth": "72.6146",
         "Expected years of schooling": "14.46655802",
         "Mean years of schooling": "9.306864107",
@@ -1640,7 +1640,7 @@
     {
         "HDI Rank (2021)": "80",
         "Countries": "Palau",
-        "Human Development Index (HDI) ": "0.767",
+        "Human Development Index (HDI)": "0.767",
         "Life expectancy at birth": "66.0204",
         "Expected years of schooling": "15.78432",
         "Mean years of schooling": "12.49143",
@@ -1661,7 +1661,7 @@
     {
         "HDI Rank (2021)": "83",
         "Countries": "Cuba",
-        "Human Development Index (HDI) ": "0.764",
+        "Human Development Index (HDI)": "0.764",
         "Life expectancy at birth": "73.6829",
         "Expected years of schooling": "14.44305992",
         "Mean years of schooling": "12.49773438",
@@ -1682,7 +1682,7 @@
     {
         "HDI Rank (2021)": "84",
         "Countries": "Peru",
-        "Human Development Index (HDI) ": "0.762",
+        "Human Development Index (HDI)": "0.762",
         "Life expectancy at birth": "72.3769",
         "Expected years of schooling": "15.38773354",
         "Mean years of schooling": "9.885518863",
@@ -1703,7 +1703,7 @@
     {
         "HDI Rank (2021)": "85",
         "Countries": "Armenia",
-        "Human Development Index (HDI) ": "0.759",
+        "Human Development Index (HDI)": "0.759",
         "Life expectancy at birth": "72.0431",
         "Expected years of schooling": "13.11676025",
         "Mean years of schooling": "11.33030033",
@@ -1724,7 +1724,7 @@
     {
         "HDI Rank (2021)": "86",
         "Countries": "Mexico",
-        "Human Development Index (HDI) ": "0.758",
+        "Human Development Index (HDI)": "0.758",
         "Life expectancy at birth": "70.2127",
         "Expected years of schooling": "14.86443996",
         "Mean years of schooling": "9.221050262",
@@ -1745,7 +1745,7 @@
     {
         "HDI Rank (2021)": "87",
         "Countries": "Brazil",
-        "Human Development Index (HDI) ": "0.754",
+        "Human Development Index (HDI)": "0.754",
         "Life expectancy at birth": "72.7504",
         "Expected years of schooling": "15.59906006",
         "Mean years of schooling": "8.128813955",
@@ -1766,7 +1766,7 @@
     {
         "HDI Rank (2021)": "88",
         "Countries": "Colombia",
-        "Human Development Index (HDI) ": "0.752",
+        "Human Development Index (HDI)": "0.752",
         "Life expectancy at birth": "72.8296",
         "Expected years of schooling": "14.44274998",
         "Mean years of schooling": "8.862859726",
@@ -1787,7 +1787,7 @@
     {
         "HDI Rank (2021)": "89",
         "Countries": "Saint Vincent and the Grenadines",
-        "Human Development Index (HDI) ": "0.751",
+        "Human Development Index (HDI)": "0.751",
         "Life expectancy at birth": "69.6291",
         "Expected years of schooling": "14.67220567",
         "Mean years of schooling": "10.83343029",
@@ -1808,7 +1808,7 @@
     {
         "HDI Rank (2021)": "90",
         "Countries": "Maldives",
-        "Human Development Index (HDI) ": "0.747",
+        "Human Development Index (HDI)": "0.747",
         "Life expectancy at birth": "79.9182",
         "Expected years of schooling": "12.63560963",
         "Mean years of schooling": "7.322",
@@ -1829,7 +1829,7 @@
     {
         "HDI Rank (2021)": "91",
         "Countries": "Algeria",
-        "Human Development Index (HDI) ": "0.745",
+        "Human Development Index (HDI)": "0.745",
         "Life expectancy at birth": "76.3767",
         "Expected years of schooling": "14.62689602",
         "Mean years of schooling": "8.069284397",
@@ -1850,7 +1850,7 @@
     {
         "HDI Rank (2021)": "91",
         "Countries": "Azerbaijan",
-        "Human Development Index (HDI) ": "0.745",
+        "Human Development Index (HDI)": "0.745",
         "Life expectancy at birth": "69.3658",
         "Expected years of schooling": "13.49689007",
         "Mean years of schooling": "10.5429697",
@@ -1871,7 +1871,7 @@
     {
         "HDI Rank (2021)": "91",
         "Countries": "Tonga",
-        "Human Development Index (HDI) ": "0.745",
+        "Human Development Index (HDI)": "0.745",
         "Life expectancy at birth": "70.9857",
         "Expected years of schooling": "16.04857063",
         "Mean years of schooling": "11.392594",
@@ -1892,7 +1892,7 @@
     {
         "HDI Rank (2021)": "91",
         "Countries": "Turkmenistan",
-        "Human Development Index (HDI) ": "0.745",
+        "Human Development Index (HDI)": "0.745",
         "Life expectancy at birth": "69.2644",
         "Expected years of schooling": "13.21039963",
         "Mean years of schooling": "11.26139",
@@ -1913,7 +1913,7 @@
     {
         "HDI Rank (2021)": "95",
         "Countries": "Ecuador",
-        "Human Development Index (HDI) ": "0.74",
+        "Human Development Index (HDI)": "0.74",
         "Life expectancy at birth": "73.67",
         "Expected years of schooling": "14.62423038",
         "Mean years of schooling": "8.817119598",
@@ -1934,7 +1934,7 @@
     {
         "HDI Rank (2021)": "96",
         "Countries": "Mongolia",
-        "Human Development Index (HDI) ": "0.739",
+        "Human Development Index (HDI)": "0.739",
         "Life expectancy at birth": "70.9754",
         "Expected years of schooling": "14.98034954",
         "Mean years of schooling": "9.423700333",
@@ -1955,7 +1955,7 @@
     {
         "HDI Rank (2021)": "97",
         "Countries": "Egypt",
-        "Human Development Index (HDI) ": "0.731",
+        "Human Development Index (HDI)": "0.731",
         "Life expectancy at birth": "70.2207",
         "Expected years of schooling": "13.78649972",
         "Mean years of schooling": "9.573026174",
@@ -1976,7 +1976,7 @@
     {
         "HDI Rank (2021)": "97",
         "Countries": "Tunisia",
-        "Human Development Index (HDI) ": "0.731",
+        "Human Development Index (HDI)": "0.731",
         "Life expectancy at birth": "73.7719",
         "Expected years of schooling": "15.42538224",
         "Mean years of schooling": "7.431598614",
@@ -1997,7 +1997,7 @@
     {
         "HDI Rank (2021)": "99",
         "Countries": "Fiji",
-        "Human Development Index (HDI) ": "0.73",
+        "Human Development Index (HDI)": "0.73",
         "Life expectancy at birth": "67.114",
         "Expected years of schooling": "14.73679",
         "Mean years of schooling": "10.92154799",
@@ -2018,7 +2018,7 @@
     {
         "HDI Rank (2021)": "99",
         "Countries": "Suriname",
-        "Human Development Index (HDI) ": "0.73",
+        "Human Development Index (HDI)": "0.73",
         "Life expectancy at birth": "70.2743",
         "Expected years of schooling": "13.03564357",
         "Mean years of schooling": "9.77680063",
@@ -2039,7 +2039,7 @@
     {
         "HDI Rank (2021)": "101",
         "Countries": "Uzbekistan",
-        "Human Development Index (HDI) ": "0.727",
+        "Human Development Index (HDI)": "0.727",
         "Life expectancy at birth": "70.8616",
         "Expected years of schooling": "12.47714043",
         "Mean years of schooling": "11.89558983",
@@ -2060,7 +2060,7 @@
     {
         "HDI Rank (2021)": "102",
         "Countries": "Dominica",
-        "Human Development Index (HDI) ": "0.72",
+        "Human Development Index (HDI)": "0.72",
         "Life expectancy at birth": "72.814",
         "Expected years of schooling": "13.3191862",
         "Mean years of schooling": "8.142186",
@@ -2081,7 +2081,7 @@
     {
         "HDI Rank (2021)": "102",
         "Countries": "Jordan",
-        "Human Development Index (HDI) ": "0.72",
+        "Human Development Index (HDI)": "0.72",
         "Life expectancy at birth": "74.2563",
         "Expected years of schooling": "10.64655972",
         "Mean years of schooling": "10.44668007",
@@ -2102,7 +2102,7 @@
     {
         "HDI Rank (2021)": "104",
         "Countries": "Libya",
-        "Human Development Index (HDI) ": "0.718",
+        "Human Development Index (HDI)": "0.718",
         "Life expectancy at birth": "71.9112",
         "Expected years of schooling": "12.85428",
         "Mean years of schooling": "7.599985",
@@ -2123,7 +2123,7 @@
     {
         "HDI Rank (2021)": "105",
         "Countries": "Paraguay",
-        "Human Development Index (HDI) ": "0.717",
+        "Human Development Index (HDI)": "0.717",
         "Life expectancy at birth": "70.2617",
         "Expected years of schooling": "12.98799113",
         "Mean years of schooling": "8.861840248",
@@ -2144,7 +2144,7 @@
     {
         "HDI Rank (2021)": "106",
         "Countries": "Palestine, State of",
-        "Human Development Index (HDI) ": "0.715",
+        "Human Development Index (HDI)": "0.715",
         "Life expectancy at birth": "73.4727",
         "Expected years of schooling": "13.35801029",
         "Mean years of schooling": "9.938480377",
@@ -2165,7 +2165,7 @@
     {
         "HDI Rank (2021)": "106",
         "Countries": "Saint Lucia",
-        "Human Development Index (HDI) ": "0.715",
+        "Human Development Index (HDI)": "0.715",
         "Life expectancy at birth": "71.1114",
         "Expected years of schooling": "12.86610985",
         "Mean years of schooling": "8.545040131",
@@ -2186,7 +2186,7 @@
     {
         "HDI Rank (2021)": "108",
         "Countries": "Guyana",
-        "Human Development Index (HDI) ": "0.714",
+        "Human Development Index (HDI)": "0.714",
         "Life expectancy at birth": "65.6734",
         "Expected years of schooling": "12.50272216",
         "Mean years of schooling": "8.617477",
@@ -2207,7 +2207,7 @@
     {
         "HDI Rank (2021)": "109",
         "Countries": "South Africa",
-        "Human Development Index (HDI) ": "0.713",
+        "Human Development Index (HDI)": "0.713",
         "Life expectancy at birth": "62.341",
         "Expected years of schooling": "13.64371014",
         "Mean years of schooling": "11.37316036",
@@ -2228,7 +2228,7 @@
     {
         "HDI Rank (2021)": "110",
         "Countries": "Jamaica",
-        "Human Development Index (HDI) ": "0.709",
+        "Human Development Index (HDI)": "0.709",
         "Life expectancy at birth": "70.5003",
         "Expected years of schooling": "13.40492042",
         "Mean years of schooling": "9.154628661",
@@ -2249,7 +2249,7 @@
     {
         "HDI Rank (2021)": "111",
         "Countries": "Samoa",
-        "Human Development Index (HDI) ": "0.707",
+        "Human Development Index (HDI)": "0.707",
         "Life expectancy at birth": "72.7675",
         "Expected years of schooling": "12.41885948",
         "Mean years of schooling": "11.4038",
@@ -2270,7 +2270,7 @@
     {
         "HDI Rank (2021)": "112",
         "Countries": "Gabon",
-        "Human Development Index (HDI) ": "0.706",
+        "Human Development Index (HDI)": "0.706",
         "Life expectancy at birth": "65.821",
         "Expected years of schooling": "12.97731",
         "Mean years of schooling": "9.436",
@@ -2291,7 +2291,7 @@
     {
         "HDI Rank (2021)": "112",
         "Countries": "Lebanon",
-        "Human Development Index (HDI) ": "0.706",
+        "Human Development Index (HDI)": "0.706",
         "Life expectancy at birth": "75.0472",
         "Expected years of schooling": "11.28587",
         "Mean years of schooling": "8.718636",
@@ -2312,7 +2312,7 @@
     {
         "HDI Rank (2021)": "114",
         "Countries": "Indonesia",
-        "Human Development Index (HDI) ": "0.705",
+        "Human Development Index (HDI)": "0.705",
         "Life expectancy at birth": "67.5703",
         "Expected years of schooling": "13.74889386",
         "Mean years of schooling": "8.556509972",
@@ -2333,7 +2333,7 @@
     {
         "HDI Rank (2021)": "115",
         "Countries": "Viet Nam",
-        "Human Development Index (HDI) ": "0.703",
+        "Human Development Index (HDI)": "0.703",
         "Life expectancy at birth": "73.6181",
         "Expected years of schooling": "12.9519325",
         "Mean years of schooling": "8.370280266",
@@ -2354,7 +2354,7 @@
     {
         "HDI Rank (2021)": "116",
         "Countries": "Philippines",
-        "Human Development Index (HDI) ": "0.699",
+        "Human Development Index (HDI)": "0.699",
         "Life expectancy at birth": "69.2664",
         "Expected years of schooling": "13.12656975",
         "Mean years of schooling": "8.969099998",
@@ -2375,7 +2375,7 @@
     {
         "HDI Rank (2021)": "117",
         "Countries": "Botswana",
-        "Human Development Index (HDI) ": "0.693",
+        "Human Development Index (HDI)": "0.693",
         "Life expectancy at birth": "61.1409",
         "Expected years of schooling": "12.26513765",
         "Mean years of schooling": "10.34",
@@ -2396,7 +2396,7 @@
     {
         "HDI Rank (2021)": "118",
         "Countries": "Bolivia (Plurinational State of)",
-        "Human Development Index (HDI) ": "0.692",
+        "Human Development Index (HDI)": "0.692",
         "Life expectancy at birth": "63.6304",
         "Expected years of schooling": "14.94697094",
         "Mean years of schooling": "9.827750206",
@@ -2417,7 +2417,7 @@
     {
         "HDI Rank (2021)": "118",
         "Countries": "Kyrgyzstan",
-        "Human Development Index (HDI) ": "0.692",
+        "Human Development Index (HDI)": "0.692",
         "Life expectancy at birth": "69.9774",
         "Expected years of schooling": "13.1953001",
         "Mean years of schooling": "11.37410556",
@@ -2438,7 +2438,7 @@
     {
         "HDI Rank (2021)": "120",
         "Countries": "Venezuela (Bolivarian Republic of)",
-        "Human Development Index (HDI) ": "0.691",
+        "Human Development Index (HDI)": "0.691",
         "Life expectancy at birth": "70.5536",
         "Expected years of schooling": "12.81608",
         "Mean years of schooling": "11.10727736",
@@ -2459,7 +2459,7 @@
     {
         "HDI Rank (2021)": "121",
         "Countries": "Iraq",
-        "Human Development Index (HDI) ": "0.686",
+        "Human Development Index (HDI)": "0.686",
         "Life expectancy at birth": "70.3779",
         "Expected years of schooling": "12.08747317",
         "Mean years of schooling": "7.905593489",
@@ -2480,7 +2480,7 @@
     {
         "HDI Rank (2021)": "122",
         "Countries": "Tajikistan",
-        "Human Development Index (HDI) ": "0.685",
+        "Human Development Index (HDI)": "0.685",
         "Life expectancy at birth": "71.5942",
         "Expected years of schooling": "11.65303618",
         "Mean years of schooling": "11.3333938",
@@ -2501,7 +2501,7 @@
     {
         "HDI Rank (2021)": "123",
         "Countries": "Belize",
-        "Human Development Index (HDI) ": "0.683",
+        "Human Development Index (HDI)": "0.683",
         "Life expectancy at birth": "70.4697",
         "Expected years of schooling": "12.99168968",
         "Mean years of schooling": "8.847599983",
@@ -2522,7 +2522,7 @@
     {
         "HDI Rank (2021)": "123",
         "Countries": "Morocco",
-        "Human Development Index (HDI) ": "0.683",
+        "Human Development Index (HDI)": "0.683",
         "Life expectancy at birth": "74.0419",
         "Expected years of schooling": "14.15190983",
         "Mean years of schooling": "5.916",
@@ -2543,7 +2543,7 @@
     {
         "HDI Rank (2021)": "125",
         "Countries": "El Salvador",
-        "Human Development Index (HDI) ": "0.675",
+        "Human Development Index (HDI)": "0.675",
         "Life expectancy at birth": "70.7479",
         "Expected years of schooling": "12.67134767",
         "Mean years of schooling": "7.150929928",
@@ -2564,7 +2564,7 @@
     {
         "HDI Rank (2021)": "126",
         "Countries": "Nicaragua",
-        "Human Development Index (HDI) ": "0.667",
+        "Human Development Index (HDI)": "0.667",
         "Life expectancy at birth": "73.8368",
         "Expected years of schooling": "12.64135783",
         "Mean years of schooling": "7.144",
@@ -2585,7 +2585,7 @@
     {
         "HDI Rank (2021)": "127",
         "Countries": "Bhutan",
-        "Human Development Index (HDI) ": "0.666",
+        "Human Development Index (HDI)": "0.666",
         "Life expectancy at birth": "71.815",
         "Expected years of schooling": "13.22500478",
         "Mean years of schooling": "5.170262283",
@@ -2606,7 +2606,7 @@
     {
         "HDI Rank (2021)": "128",
         "Countries": "Cabo Verde",
-        "Human Development Index (HDI) ": "0.662",
+        "Human Development Index (HDI)": "0.662",
         "Life expectancy at birth": "74.0518",
         "Expected years of schooling": "12.55461444",
         "Mean years of schooling": "6.287719287",
@@ -2627,7 +2627,7 @@
     {
         "HDI Rank (2021)": "129",
         "Countries": "Bangladesh",
-        "Human Development Index (HDI) ": "0.661",
+        "Human Development Index (HDI)": "0.661",
         "Life expectancy at birth": "72.3811",
         "Expected years of schooling": "12.44198036",
         "Mean years of schooling": "7.379059792",
@@ -2648,7 +2648,7 @@
     {
         "HDI Rank (2021)": "130",
         "Countries": "Tuvalu",
-        "Human Development Index (HDI) ": "0.641",
+        "Human Development Index (HDI)": "0.641",
         "Life expectancy at birth": "64.5466",
         "Expected years of schooling": "9.40443",
         "Mean years of schooling": "10.57310772",
@@ -2669,7 +2669,7 @@
     {
         "HDI Rank (2021)": "131",
         "Countries": "Marshall Islands",
-        "Human Development Index (HDI) ": "0.639",
+        "Human Development Index (HDI)": "0.639",
         "Life expectancy at birth": "65.2688",
         "Expected years of schooling": "10.2393198",
         "Mean years of schooling": "10.88313961",
@@ -2690,7 +2690,7 @@
     {
         "HDI Rank (2021)": "132",
         "Countries": "India",
-        "Human Development Index (HDI) ": "0.633",
+        "Human Development Index (HDI)": "0.633",
         "Life expectancy at birth": "67.2398",
         "Expected years of schooling": "11.87462044",
         "Mean years of schooling": "6.655109195",
@@ -2711,7 +2711,7 @@
     {
         "HDI Rank (2021)": "133",
         "Countries": "Ghana",
-        "Human Development Index (HDI) ": "0.632",
+        "Human Development Index (HDI)": "0.632",
         "Life expectancy at birth": "63.7954",
         "Expected years of schooling": "12.04778004",
         "Mean years of schooling": "8.329886695",
@@ -2732,7 +2732,7 @@
     {
         "HDI Rank (2021)": "134",
         "Countries": "Micronesia (Federated States of)",
-        "Human Development Index (HDI) ": "0.628",
+        "Human Development Index (HDI)": "0.628",
         "Life expectancy at birth": "70.71",
         "Expected years of schooling": "11.54947988",
         "Mean years of schooling": "7.804956",
@@ -2753,7 +2753,7 @@
     {
         "HDI Rank (2021)": "135",
         "Countries": "Guatemala",
-        "Human Development Index (HDI) ": "0.627",
+        "Human Development Index (HDI)": "0.627",
         "Life expectancy at birth": "69.2368",
         "Expected years of schooling": "10.56245041",
         "Mean years of schooling": "5.681300163",
@@ -2774,7 +2774,7 @@
     {
         "HDI Rank (2021)": "136",
         "Countries": "Kiribati",
-        "Human Development Index (HDI) ": "0.624",
+        "Human Development Index (HDI)": "0.624",
         "Life expectancy at birth": "67.4172",
         "Expected years of schooling": "11.801993",
         "Mean years of schooling": "7.984461822",
@@ -2795,7 +2795,7 @@
     {
         "HDI Rank (2021)": "137",
         "Countries": "Honduras",
-        "Human Development Index (HDI) ": "0.621",
+        "Human Development Index (HDI)": "0.621",
         "Life expectancy at birth": "70.1229",
         "Expected years of schooling": "10.13281417",
         "Mean years of schooling": "7.088479996",
@@ -2816,7 +2816,7 @@
     {
         "HDI Rank (2021)": "138",
         "Countries": "Sao Tome and Principe",
-        "Human Development Index (HDI) ": "0.618",
+        "Human Development Index (HDI)": "0.618",
         "Life expectancy at birth": "67.5912",
         "Expected years of schooling": "13.36538506",
         "Mean years of schooling": "6.215599435",
@@ -2837,7 +2837,7 @@
     {
         "HDI Rank (2021)": "139",
         "Countries": "Namibia",
-        "Human Development Index (HDI) ": "0.615",
+        "Human Development Index (HDI)": "0.615",
         "Life expectancy at birth": "59.269",
         "Expected years of schooling": "11.92720692",
         "Mean years of schooling": "7.192013277",
@@ -2858,7 +2858,7 @@
     {
         "HDI Rank (2021)": "140",
         "Countries": "Lao People's Democratic Republic",
-        "Human Development Index (HDI) ": "0.607",
+        "Human Development Index (HDI)": "0.607",
         "Life expectancy at birth": "68.0608",
         "Expected years of schooling": "10.13611031",
         "Mean years of schooling": "5.374",
@@ -2879,7 +2879,7 @@
     {
         "HDI Rank (2021)": "140",
         "Countries": "Timor-Leste",
-        "Human Development Index (HDI) ": "0.607",
+        "Human Development Index (HDI)": "0.607",
         "Life expectancy at birth": "67.7369",
         "Expected years of schooling": "12.616098",
         "Mean years of schooling": "5.43679",
@@ -2900,7 +2900,7 @@
     {
         "HDI Rank (2021)": "140",
         "Countries": "Vanuatu",
-        "Human Development Index (HDI) ": "0.607",
+        "Human Development Index (HDI)": "0.607",
         "Life expectancy at birth": "70.449",
         "Expected years of schooling": "11.53531503",
         "Mean years of schooling": "7.064846",
@@ -2921,7 +2921,7 @@
     {
         "HDI Rank (2021)": "143",
         "Countries": "Nepal",
-        "Human Development Index (HDI) ": "0.602",
+        "Human Development Index (HDI)": "0.602",
         "Life expectancy at birth": "68.4495",
         "Expected years of schooling": "12.88694954",
         "Mean years of schooling": "5.121792742",
@@ -2942,7 +2942,7 @@
     {
         "HDI Rank (2021)": "145",
         "Countries": "Equatorial Guinea",
-        "Human Development Index (HDI) ": "0.596",
+        "Human Development Index (HDI)": "0.596",
         "Life expectancy at birth": "60.5943",
         "Expected years of schooling": "9.73494",
         "Mean years of schooling": "5.910863",
@@ -2963,7 +2963,7 @@
     {
         "HDI Rank (2021)": "146",
         "Countries": "Cambodia",
-        "Human Development Index (HDI) ": "0.593",
+        "Human Development Index (HDI)": "0.593",
         "Life expectancy at birth": "69.5835",
         "Expected years of schooling": "11.46772",
         "Mean years of schooling": "5.088",
@@ -2984,7 +2984,7 @@
     {
         "HDI Rank (2021)": "146",
         "Countries": "Zimbabwe",
-        "Human Development Index (HDI) ": "0.593",
+        "Human Development Index (HDI)": "0.593",
         "Life expectancy at birth": "59.2531",
         "Expected years of schooling": "12.11096904",
         "Mean years of schooling": "8.710908501",
@@ -3005,7 +3005,7 @@
     {
         "HDI Rank (2021)": "148",
         "Countries": "Angola",
-        "Human Development Index (HDI) ": "0.586",
+        "Human Development Index (HDI)": "0.586",
         "Life expectancy at birth": "61.6434",
         "Expected years of schooling": "12.1721",
         "Mean years of schooling": "5.417390823",
@@ -3026,7 +3026,7 @@
     {
         "HDI Rank (2021)": "149",
         "Countries": "Myanmar",
-        "Human Development Index (HDI) ": "0.585",
+        "Human Development Index (HDI)": "0.585",
         "Life expectancy at birth": "65.6716",
         "Expected years of schooling": "10.90913752",
         "Mean years of schooling": "6.37680006",
@@ -3047,7 +3047,7 @@
     {
         "HDI Rank (2021)": "150",
         "Countries": "Syrian Arab Republic",
-        "Human Development Index (HDI) ": "0.577",
+        "Human Development Index (HDI)": "0.577",
         "Life expectancy at birth": "72.0627",
         "Expected years of schooling": "9.164219856",
         "Mean years of schooling": "5.1",
@@ -3068,7 +3068,7 @@
     {
         "HDI Rank (2021)": "151",
         "Countries": "Cameroon",
-        "Human Development Index (HDI) ": "0.576",
+        "Human Development Index (HDI)": "0.576",
         "Life expectancy at birth": "60.3334",
         "Expected years of schooling": "13.10859922",
         "Mean years of schooling": "6.15131",
@@ -3089,7 +3089,7 @@
     {
         "HDI Rank (2021)": "152",
         "Countries": "Kenya",
-        "Human Development Index (HDI) ": "0.575",
+        "Human Development Index (HDI)": "0.575",
         "Life expectancy at birth": "61.427",
         "Expected years of schooling": "10.69855835",
         "Mean years of schooling": "6.652",
@@ -3110,7 +3110,7 @@
     {
         "HDI Rank (2021)": "153",
         "Countries": "Congo",
-        "Human Development Index (HDI) ": "0.571",
+        "Human Development Index (HDI)": "0.571",
         "Life expectancy at birth": "63.5187",
         "Expected years of schooling": "12.33081527",
         "Mean years of schooling": "6.166",
@@ -3131,7 +3131,7 @@
     {
         "HDI Rank (2021)": "154",
         "Countries": "Zambia",
-        "Human Development Index (HDI) ": "0.565",
+        "Human Development Index (HDI)": "0.565",
         "Life expectancy at birth": "61.2234",
         "Expected years of schooling": "10.92876021",
         "Mean years of schooling": "7.187091494",
@@ -3152,7 +3152,7 @@
     {
         "HDI Rank (2021)": "155",
         "Countries": "Solomon Islands",
-        "Human Development Index (HDI) ": "0.564",
+        "Human Development Index (HDI)": "0.564",
         "Life expectancy at birth": "70.3477",
         "Expected years of schooling": "10.32869027",
         "Mean years of schooling": "5.711848",
@@ -3173,7 +3173,7 @@
     {
         "HDI Rank (2021)": "156",
         "Countries": "Comoros",
-        "Human Development Index (HDI) ": "0.558",
+        "Human Development Index (HDI)": "0.558",
         "Life expectancy at birth": "63.4174",
         "Expected years of schooling": "11.92432393",
         "Mean years of schooling": "5.078649",
@@ -3194,7 +3194,7 @@
     {
         "HDI Rank (2021)": "156",
         "Countries": "Papua New Guinea",
-        "Human Development Index (HDI) ": "0.558",
+        "Human Development Index (HDI)": "0.558",
         "Life expectancy at birth": "65.3506",
         "Expected years of schooling": "10.36077074",
         "Mean years of schooling": "4.74",
@@ -3215,7 +3215,7 @@
     {
         "HDI Rank (2021)": "158",
         "Countries": "Mauritania",
-        "Human Development Index (HDI) ": "0.556",
+        "Human Development Index (HDI)": "0.556",
         "Life expectancy at birth": "64.3636",
         "Expected years of schooling": "9.376159668",
         "Mean years of schooling": "4.918804891",
@@ -3236,7 +3236,7 @@
     {
         "HDI Rank (2021)": "159",
         "Countries": "C\u00c3\u00b4te d'Ivoire",
-        "Human Development Index (HDI) ": "0.55",
+        "Human Development Index (HDI)": "0.55",
         "Life expectancy at birth": "58.5983",
         "Expected years of schooling": "10.67558002",
         "Mean years of schooling": "5.199138977",
@@ -3257,7 +3257,7 @@
     {
         "HDI Rank (2021)": "161",
         "Countries": "Pakistan",
-        "Human Development Index (HDI) ": "0.544",
+        "Human Development Index (HDI)": "0.544",
         "Life expectancy at birth": "66.0979",
         "Expected years of schooling": "8.658349991",
         "Mean years of schooling": "4.536330223",
@@ -3278,7 +3278,7 @@
     {
         "HDI Rank (2021)": "162",
         "Countries": "Togo",
-        "Human Development Index (HDI) ": "0.539",
+        "Human Development Index (HDI)": "0.539",
         "Life expectancy at birth": "61.6194",
         "Expected years of schooling": "12.95049378",
         "Mean years of schooling": "5.016807367",
@@ -3299,7 +3299,7 @@
     {
         "HDI Rank (2021)": "163",
         "Countries": "Haiti",
-        "Human Development Index (HDI) ": "0.535",
+        "Human Development Index (HDI)": "0.535",
         "Life expectancy at birth": "63.1924",
         "Expected years of schooling": "9.7",
         "Mean years of schooling": "5.554",
@@ -3320,7 +3320,7 @@
     {
         "HDI Rank (2021)": "163",
         "Countries": "Nigeria",
-        "Human Development Index (HDI) ": "0.535",
+        "Human Development Index (HDI)": "0.535",
         "Life expectancy at birth": "52.676",
         "Expected years of schooling": "10.12758388",
         "Mean years of schooling": "7.181074153",
@@ -3341,7 +3341,7 @@
     {
         "HDI Rank (2021)": "165",
         "Countries": "Rwanda",
-        "Human Development Index (HDI) ": "0.534",
+        "Human Development Index (HDI)": "0.534",
         "Life expectancy at birth": "66.0722",
         "Expected years of schooling": "11.23097038",
         "Mean years of schooling": "4.425292358",
@@ -3362,7 +3362,7 @@
     {
         "HDI Rank (2021)": "166",
         "Countries": "Benin",
-        "Human Development Index (HDI) ": "0.525",
+        "Human Development Index (HDI)": "0.525",
         "Life expectancy at birth": "59.821",
         "Expected years of schooling": "10.76667976",
         "Mean years of schooling": "4.304786445",
@@ -3383,7 +3383,7 @@
     {
         "HDI Rank (2021)": "166",
         "Countries": "Uganda",
-        "Human Development Index (HDI) ": "0.525",
+        "Human Development Index (HDI)": "0.525",
         "Life expectancy at birth": "62.7048",
         "Expected years of schooling": "10.14986994",
         "Mean years of schooling": "5.730941566",
@@ -3404,7 +3404,7 @@
     {
         "HDI Rank (2021)": "168",
         "Countries": "Lesotho",
-        "Human Development Index (HDI) ": "0.514",
+        "Human Development Index (HDI)": "0.514",
         "Life expectancy at birth": "53.062",
         "Expected years of schooling": "12.04087801",
         "Mean years of schooling": "6.010184707",
@@ -3425,7 +3425,7 @@
     {
         "HDI Rank (2021)": "169",
         "Countries": "Malawi",
-        "Human Development Index (HDI) ": "0.512",
+        "Human Development Index (HDI)": "0.512",
         "Life expectancy at birth": "62.9044",
         "Expected years of schooling": "12.67898523",
         "Mean years of schooling": "4.489695385",
@@ -3446,7 +3446,7 @@
     {
         "HDI Rank (2021)": "170",
         "Countries": "Senegal",
-        "Human Development Index (HDI) ": "0.511",
+        "Human Development Index (HDI)": "0.511",
         "Life expectancy at birth": "67.0926",
         "Expected years of schooling": "8.963749886",
         "Mean years of schooling": "2.937938258",
@@ -3467,7 +3467,7 @@
     {
         "HDI Rank (2021)": "171",
         "Countries": "Djibouti",
-        "Human Development Index (HDI) ": "0.509",
+        "Human Development Index (HDI)": "0.509",
         "Life expectancy at birth": "62.3049",
         "Expected years of schooling": "7.43298",
         "Mean years of schooling": "4.1",
@@ -3488,7 +3488,7 @@
     {
         "HDI Rank (2021)": "172",
         "Countries": "Sudan",
-        "Human Development Index (HDI) ": "0.508",
+        "Human Development Index (HDI)": "0.508",
         "Life expectancy at birth": "65.2667",
         "Expected years of schooling": "7.945187858",
         "Mean years of schooling": "3.82",
@@ -3509,7 +3509,7 @@
     {
         "HDI Rank (2021)": "173",
         "Countries": "Madagascar",
-        "Human Development Index (HDI) ": "0.501",
+        "Human Development Index (HDI)": "0.501",
         "Life expectancy at birth": "64.4853",
         "Expected years of schooling": "10.13499142",
         "Mean years of schooling": "5.120468534",
@@ -3530,7 +3530,7 @@
     {
         "HDI Rank (2021)": "174",
         "Countries": "Gambia",
-        "Human Development Index (HDI) ": "0.5",
+        "Human Development Index (HDI)": "0.5",
         "Life expectancy at birth": "62.083",
         "Expected years of schooling": "9.418626299",
         "Mean years of schooling": "4.637487411",
@@ -3551,7 +3551,7 @@
     {
         "HDI Rank (2021)": "175",
         "Countries": "Ethiopia",
-        "Human Development Index (HDI) ": "0.498",
+        "Human Development Index (HDI)": "0.498",
         "Life expectancy at birth": "64.9748",
         "Expected years of schooling": "9.651071421",
         "Mean years of schooling": "3.201520681",
@@ -3572,7 +3572,7 @@
     {
         "HDI Rank (2021)": "176",
         "Countries": "Eritrea",
-        "Human Development Index (HDI) ": "0.492",
+        "Human Development Index (HDI)": "0.492",
         "Life expectancy at birth": "66.5358",
         "Expected years of schooling": "8.064524628",
         "Mean years of schooling": "4.8872352",
@@ -3593,7 +3593,7 @@
     {
         "HDI Rank (2021)": "177",
         "Countries": "Guinea-Bissau",
-        "Human Development Index (HDI) ": "0.483",
+        "Human Development Index (HDI)": "0.483",
         "Life expectancy at birth": "59.6523",
         "Expected years of schooling": "10.61306278",
         "Mean years of schooling": "3.583719",
@@ -3614,7 +3614,7 @@
     {
         "HDI Rank (2021)": "178",
         "Countries": "Liberia",
-        "Human Development Index (HDI) ": "0.481",
+        "Human Development Index (HDI)": "0.481",
         "Life expectancy at birth": "60.7472",
         "Expected years of schooling": "10.42078972",
         "Mean years of schooling": "5.082",
@@ -3635,7 +3635,7 @@
     {
         "HDI Rank (2021)": "180",
         "Countries": "Afghanistan",
-        "Human Development Index (HDI) ": "0.478",
+        "Human Development Index (HDI)": "0.478",
         "Life expectancy at birth": "61.9824",
         "Expected years of schooling": "10.26384398",
         "Mean years of schooling": "2.98506999",
@@ -3656,7 +3656,7 @@
     {
         "HDI Rank (2021)": "181",
         "Countries": "Sierra Leone",
-        "Human Development Index (HDI) ": "0.477",
+        "Human Development Index (HDI)": "0.477",
         "Life expectancy at birth": "60.0624",
         "Expected years of schooling": "9.57339109",
         "Mean years of schooling": "4.576081285",
@@ -3677,7 +3677,7 @@
     {
         "HDI Rank (2021)": "182",
         "Countries": "Guinea",
-        "Human Development Index (HDI) ": "0.465",
+        "Human Development Index (HDI)": "0.465",
         "Life expectancy at birth": "58.8922",
         "Expected years of schooling": "9.805297465",
         "Mean years of schooling": "2.202125952",
@@ -3698,7 +3698,7 @@
     {
         "HDI Rank (2021)": "183",
         "Countries": "Yemen",
-        "Human Development Index (HDI) ": "0.455",
+        "Human Development Index (HDI)": "0.455",
         "Life expectancy at birth": "63.7534",
         "Expected years of schooling": "9.09871006",
         "Mean years of schooling": "3.2",
@@ -3719,7 +3719,7 @@
     {
         "HDI Rank (2021)": "184",
         "Countries": "Burkina Faso",
-        "Human Development Index (HDI) ": "0.449",
+        "Human Development Index (HDI)": "0.449",
         "Life expectancy at birth": "59.2696",
         "Expected years of schooling": "9.142100334",
         "Mean years of schooling": "2.114962259",
@@ -3740,7 +3740,7 @@
     {
         "HDI Rank (2021)": "185",
         "Countries": "Mozambique",
-        "Human Development Index (HDI) ": "0.446",
+        "Human Development Index (HDI)": "0.446",
         "Life expectancy at birth": "59.3247",
         "Expected years of schooling": "10.2191516",
         "Mean years of schooling": "3.197641838",
@@ -3761,7 +3761,7 @@
     {
         "HDI Rank (2021)": "186",
         "Countries": "Mali",
-        "Human Development Index (HDI) ": "0.428",
+        "Human Development Index (HDI)": "0.428",
         "Life expectancy at birth": "58.9414",
         "Expected years of schooling": "7.423037617",
         "Mean years of schooling": "2.31",
@@ -3782,7 +3782,7 @@
     {
         "HDI Rank (2021)": "187",
         "Countries": "Burundi",
-        "Human Development Index (HDI) ": "0.426",
+        "Human Development Index (HDI)": "0.426",
         "Life expectancy at birth": "61.6627",
         "Expected years of schooling": "10.72272189",
         "Mean years of schooling": "3.129266883",
@@ -3803,7 +3803,7 @@
     {
         "HDI Rank (2021)": "188",
         "Countries": "Central African Republic",
-        "Human Development Index (HDI) ": "0.404",
+        "Human Development Index (HDI)": "0.404",
         "Life expectancy at birth": "53.8947",
         "Expected years of schooling": "8.040171714",
         "Mean years of schooling": "4.334",
@@ -3824,7 +3824,7 @@
     {
         "HDI Rank (2021)": "189",
         "Countries": "Niger",
-        "Human Development Index (HDI) ": "0.4",
+        "Human Development Index (HDI)": "0.4",
         "Life expectancy at birth": "61.5763",
         "Expected years of schooling": "6.957111988",
         "Mean years of schooling": "2.116717299",
@@ -3845,7 +3845,7 @@
     {
         "HDI Rank (2021)": "190",
         "Countries": "Chad",
-        "Human Development Index (HDI) ": "0.394",
+        "Human Development Index (HDI)": "0.394",
         "Life expectancy at birth": "52.5254",
         "Expected years of schooling": "8.035914334",
         "Mean years of schooling": "2.57377421",
@@ -3866,7 +3866,7 @@
     {
         "HDI Rank (2021)": "191",
         "Countries": "South Sudan",
-        "Human Development Index (HDI) ": "0.385",
+        "Human Development Index (HDI)": "0.385",
         "Life expectancy at birth": "54.9752",
         "Expected years of schooling": "5.54251",
         "Mean years of schooling": "5.726140022",

@@ -1,4 +1,4 @@
-HDI Rank (2021),Countries,Human Development Index (HDI) ,Life expectancy at birth,Expected years of schooling,Mean years of schooling,Gross national income (GNI) per capita (2017 PPP $),GNI per capita rank minus HDI rank,HDI rank (2020),HDI Category,Education Index,alpha-3,region,sub-region,Lat,Lon
+HDI Rank (2021),Countries,Human Development Index (HDI),Life expectancy at birth,Expected years of schooling,Mean years of schooling,Gross national income (GNI) per capita (2017 PPP $),GNI per capita rank minus HDI rank,HDI rank (2020),HDI Category,Education Index,alpha-3,region,sub-region,Lat,Lon
 1,Switzerland,0.962,83.9872,16.50029945,13.85966015,66933.00454,5,3,1,0.9203303230555555,CHE,Europe,Western Europe,47,8
 2,Norway,0.961,83.2339,18.18519974,13.00362968,64660.10622,6,1,1,0.938598759888889,NOR,Europe,Northern Europe,62,10
 3,Iceland,0.959,82.6782,19.16305923,13.76716995,55782.04981,11,2,1,0.9912128658333333,ISL,Europe,Northern Europe,65,-18

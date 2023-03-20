@@ -1,8 +1,8 @@
 import csv
 import json
 
-csv_file_path_cities = "output/cities_final.csv"
-json_file_path_cities = "output/cities_final.json"
+csv_file_path_cities = "output/cities_final2.csv"
+json_file_path_cities = "output/cities_final2.json"
 
 csv_file_path_countries = "output/countries_final.csv"
 json_file_path_countries = "output/countries_final.json"
