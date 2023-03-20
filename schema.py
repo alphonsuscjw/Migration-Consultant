@@ -1,13 +1,14 @@
-from pathlib import Path
 import sqlite3
 import pandas as pd
 import os 
+
 
 conn = sqlite3.connect('HDI_db.sqlite')
 c = conn.cursor()
 
 countries_df = pd.read_csv(os.path.join("output", "countries_final.csv"),header=0)
 cities_df = pd.read_csv(os.path.join("output", "cities_final2.csv"),header=0)
+
 
 country_columns_map = {
     "HDI Rank (2021)":"HDI_rank_2021",
@@ -27,7 +28,8 @@ c.execute('DROP table IF EXISTS countries')
 c.execute('DROP table IF EXISTS cities')
 
 c.execute('''CREATE TABLE IF NOT EXISTS countries 
-         ("HDI_rank_2021" INT, 
+         (id INTEGER PRIMARY KEY,
+         "HDI_rank_2021" INT, 
          "Countries" TEXT,
          "HDI_index" REAL, 
          "life_exp_birth" REAL,
@@ -51,7 +53,8 @@ c.execute('''CREATE TABLE IF NOT EXISTS countries
 )
 
 c.execute('''CREATE TABLE IF NOT EXISTS cities
-         ("city_country" TEXT,
+         (id INTEGER PRIMARY KEY,
+         "city_country" TEXT,
          "LPP_index" REAL,
          "crime_index" REAL,
          "healthcare_index" REAL,
@@ -62,8 +65,14 @@ c.execute('''CREATE TABLE IF NOT EXISTS cities
           '''
 )
 
-countries_df.to_sql('countries', conn, if_exists='append', index=False)
-cities_df.to_sql('cities', conn, if_exists='append', index=False)
+countries_df.to_sql('countries', con=conn, if_exists='append', index=False)
+cities_df.to_sql('cities', con=conn, if_exists='append', index=False)
+
+c.execute("SELECT COUNT(*) FROM countries")
+print("Countries table row count:", c.fetchone()[0])
+
+c.execute("SELECT COUNT(*) FROM cities")
+print("Cities table row count:", c.fetchone()[0])
 
 conn.commit()
 
