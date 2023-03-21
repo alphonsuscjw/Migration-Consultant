@@ -60,10 +60,10 @@ c.execute('''CREATE TABLE IF NOT EXISTS cities
          "healthcare_index" REAL,
          "lat" REAL,
          "lon" REAL,
-         "alpha-3" TEXT
-         "Countries" TEXT
-         "region" TEXT
-         'sub-region" TEXT
+         "alpha-3" TEXT,
+         "Countries" TEXT,
+         "region" TEXT,
+         "sub-region" TEXT
          )
           '''
 )
