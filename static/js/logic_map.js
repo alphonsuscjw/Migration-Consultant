@@ -104,7 +104,7 @@ function createCountryMarkers(data) {
                     layer = event.target;
                     layer.setStyle({
                         fillOpacity: 0.5,
-                        fillColor: getColor(feature["Human Development Index (HDI) "])                  
+                        fillColor: getColor(feature["Human Development Index (HDI)"])                  
                     });
                 },
                 // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 0%.
@@ -130,8 +130,8 @@ function createCountryMarkers(data) {
             else {
                 popupHtml += `<h3>HDI Ranking 2021: N/A</h3>`;
             }
-            if (feature["Human Development Index (HDI) "]){
-                popupHtml += `<h3>HDI 2021: ${feature["Human Development Index (HDI) "]}</h3>`;
+            if (feature["Human Development Index (HDI)"]){
+                popupHtml += `<h3>HDI 2021: ${feature["Human Development Index (HDI)"]}</h3>`;
             }
             else {
                 popupHtml += `<h3>HDI 2021: N/A</h3>`;
@@ -172,6 +172,9 @@ function createCountryMarkers(data) {
     
     myMap.addLayer(countryBorders);
 
+    // Set up the legend for the different colours
+    setLegend(myMap);
+
 }
 
 function getColor(hdi) {
@@ -187,7 +190,38 @@ function getColor(hdi) {
         return mediumColor;
     } else if (hdi >= "0.700" && hdi < "0.800") {
         return highColor;
-    } else {
+    } else if (hdi >= "0.800") {
         return veryHighColor;
     }
+}
+
+// Function to set up the legend
+function setLegend(myMap) {
+    
+    let legend = L.control({ position: "bottomright" });
+    legend.onAdd = function() {
+        let div = L.DomUtil.create("div", "info legend");
+        let depths = [0.000,0.550, 0.700, 0.800, 1.000];
+        let colors = ["red", "orange", "yellow", "green"];
+        let labels = [];
+
+        div.innerHTML = "<h3>Human Development Index (HDI)</h3>";
+
+        // Set the labels
+        for (let i = 0; i < depths.length - 1; i++) {
+            let label = depths[i] + (i == depths.length - 2 ? " - " + depths[i+1]: " - " + (depths[i+1] - 0.001));
+            labels.push(label);
+        }
+        
+        // Set up the coloured boxes with their corresponding labels
+        for (let i = 0; i < labels.length; i++) {
+            let item = `<div><li style="background:${colors[i]}"></li> ${labels[i]}</div>`;
+            div.innerHTML += "<ul>" + item + "</ul>";
+        }
+
+        return div;
+    };
+
+    // Adding the legend to the map
+    legend.addTo(myMap);
 }
