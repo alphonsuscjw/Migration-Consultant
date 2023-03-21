@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Bellybutton Biodiversity</title>
+  <title>The Best Migration Page</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 
@@ -18,7 +18,6 @@
         <h2>Look no further!</h2>
         <h3>Use the interactive charts below to explore your perfect country</h3>
       </div>
-      
       <div class="col-md-12 text-center">
           <h4>View the detailed data for each country and city:
             <a class="btn btn-primary" href="index_map.html">View Map</a>
@@ -31,6 +30,10 @@
           <h5>Please select your preferred continent:</h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
+        <!-- <div class="well">
+          <h5>Please select your preferred subregion:</h5>
+          <select id="selDataset2" onchange="optionChanged(this.value)"></select>
+        </div> -->
         <!-- <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Demographic Info</h3>
@@ -47,14 +50,15 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <div id="scatter"></div>
+        <div id="radar"></div>
       </div>
     </div>
   </div>
 
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="./static/js/app_dashboard.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script type="module" src="./static/js/app_dashboard.js"></script>
   
 </body>
 

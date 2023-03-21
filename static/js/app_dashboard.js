@@ -25,6 +25,10 @@ d3.json(countries_url).then(function(data_response) {
 
 // Function to append options to the dropdown menu and assign each name as option text and to the "value" property for each option
 function appendOptions () {
+    
+    // Create an object to hold subregions by region
+    // let subregionsByRegion = {};
+
     for (let i = 0; i < data.length; i++) {
         // check if the region already exists
         let existingOption = d3.selectAll("#selDataset option").filter(function() {
@@ -35,9 +39,52 @@ function appendOptions () {
             let option = d3.select("#selDataset").append("option");
             option.text(data[i].region);
             option.attr("value", data[i].region);
+
+            // Initialize subregions array for the new region
+            // subregionsByRegion[data[i].region] = [];
         }
+
+        // Add subregion to its parent region's array
+        // subregionsByRegion[data[i].region].push(data[i]["sub-region"]);
     }
+
+//     // Create subregion dropdown menus for each region
+//     for (let region in subregionsByRegion) {
+//         let subregionSelect = d3.select("#selDataset2" + region.replace(/\s+/g, '-'));
+//         subregionSelect.selectAll("option").remove();
+//         subregionSelect.append("option").text("All");
+//         for (let subregion of subregionsByRegion[region]) {
+//             // check if the region already exists
+//             let existingOption = d3.selectAll("#selDataset2 option").filter(function() {
+//                 return d3.select(this).text() === data[i]["sub-region"];
+//             });
+//             if (existingOption.empty()) {
+//                 let subregionOption = subregionSelect.append("option");
+//                 subregionOption.text(subregion);
+//                 subregionOption.attr("value", subregion);
+//             }
+//         }
+//         // Set up event listener to trigger when the region select menu changes
+//         let regionSelect = d3.select("#selDataset");
+//         regionSelect.on("change", function() {
+//             updateSubregionOptions(subregionsByRegion);
+//         });
+//     }
+//     console.log(subregionsByRegion)
 };
+
+// // Function to update subregion options based on the selected region
+// function updateSubregionOptions(subregionsByRegion) {
+//     let selectedRegion = d3.select("#selDataset").node().value;
+//     for (let region in subregionsByRegion) {
+//         let subregionSelect = d3.select("#selDataset2" + region.replace(/\s+/g, '-'));
+//         if (region === selectedRegion) {
+//             subregionSelect.style("display", "block");
+//         } else {
+//             subregionSelect.style("display", "none");
+//         }
+//     }
+// }
 
 // This function is called when the user selects a new option from the dropdown menu (the trigger event)
 function optionChanged(selectedOption) {
@@ -45,11 +92,9 @@ function optionChanged(selectedOption) {
     //Call the drawBarChart function to draw the horizontal bar chart for the selected option
     drawBarChart(selectedOption, data);
 
-    // //Call the drawBubbleChart function to draw the bubble chart for the selected option
-    // drawBubbleChart(selectedOption, data);
+    // Call the drawBubbleChart function to draw the bubble chart for the selected option
+    drawRadarChart(selectedOption, data);
 
-    // //Call the showMetadata function to show the metadata for the selected option
-    // showMetadata(selectedOption, data);
 }
 
 // Initialises the page with the data for ID = 940
@@ -60,11 +105,9 @@ function init() {
     //Call the drawBarChart function to draw the horizontal bar chart for the default ID
     drawBarChart(defaultRegion, data);
 
-    // //Call the drawBubbleChart function to draw the bubble chart for the default ID
-    // drawBubbleChart(defaultRegion, data);
+    //Call the drawBubbleChart function to draw the bubble chart for the default ID
+    drawRadarChart(defaultRegion, data);
 
-    // //Call the showMetadata function to show the metadata for the default ID
-    // showMetadata(defaultRegion, data);
 }
 
 // Function to draw the horizontal bar chart
@@ -104,50 +147,17 @@ function drawBarChart(region, data_js) {
 
 }
 
-// Function to draw the bubble chart
-function drawBubbleChart(ID, data_js) {
+// Function to draw the radar chart
+function drawRadarChart(region, data_js) {
 
     // Filter the data samples to get the sample data for the input ID
-    let inputSample = data_js.samples.filter(sample => sample.id === ID);
+    let inputRegion = data_js.filter(country => country.region === region);
+
+    // Sort the inputSample by sample_values in the descending order
+    inputRegion.sort((a, b) => b["Human Development Index (HDI)"] - a["Human Development Index (HDI)"]);
     
-    let trace = {
-        x: inputSample[0].otu_ids,
-        y: inputSample[0].sample_values,
-        text: inputSample[0].otu_labels,
-        mode: "markers",
-        marker: {
-            size: inputSample[0].sample_values,
-            color: inputSample[0].otu_ids
-        }
-    };
-
-    let traceData = [trace];
-
-    let layout = {
-        hovermode: "closest",
-        xaxis: {title: "OTU ID"},
-    };
-
-    Plotly.newPlot("bubble", traceData, layout);
+    top_country = inputRegion[0];
+    
+    
 
 }
-
-// // Function to show the metadata
-// function showMetadata(ID, data_js) {
-    
-//     // Filter the data samples to get the metadata for the input ID
-//     let inputDemographic = data_js.metadata.filter(individual => individual.id == ID);
-
-//     // Select the div with "sample-metadata" as its id
-//     let demographicInfo = d3.select("#sample-metadata");
-
-//     // Clear out any pre-existing metadata
-//     demographicInfo.html("");
-
-//     // Use Object.entries to iterate over the key-value pairs of the first object in the inputDemographic array
-//     // and then append an h5 element to the sample-metadata div for each key-value pair, with the key and value concatenated into a string.
-//     Object.entries(inputDemographic[0]).forEach(([key, value]) => {
-//         demographicInfo.append("h5").text(`${key}: ${value}`);
-//     });
-
-// }
