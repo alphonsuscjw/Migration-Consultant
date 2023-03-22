@@ -1,6 +1,5 @@
-// Get the url endpoints
+// Get the url endpoint
 const countries_url = "http://localhost:5000/api/v1/countries";
-const cities_url = "http://localhost:5000/api/v1/cities"
 
 // Initialize a data variable to hold JSON data here so that it can be used by various functions
 let data;
@@ -38,37 +37,7 @@ function appendOptions() {
         }
     });
 
-    // Append options for the sub-region dropdown menu based on the selected region
-    // let subRegions = [];
-    // let selectedRegion = d3.select("#selRegion").property("value");
-    // data.filter(d => d.region === selectedRegion).forEach(function(d) {
-    //   if (!subRegions.includes(d["sub-region"])) {
-    //     let option = d3.select("#selSubRegion").append("option");
-    //     option.text(d["sub-region"]);
-    //     option.attr("value", d["sub-region"]);
-    //     subRegions.push(d["sub-region"]);
-    //   }
-    // }); 
 }
-
-// function sub_regionChanged() {
-//     // Add event listener to update sub-region options when region changes
-//     d3.select("#selRegion").on(function() {
-//         // Remove existing options
-//         d3.selectAll("#selSubRegion option").remove();
-//         // Append new options based on selected region
-//         let subRegions = [];
-//         let selectedRegion = d3.select("#selRegion").property("value");
-//         data.filter(d => d.region === selectedRegion).forEach(function(d) {
-//             if (!subRegions.includes(d["sub-region"])) {
-//                 let option = d3.select("#selSubRegion").append("option");
-//                 option.text(d["sub-region"]);
-//                 option.attr("value", d["sub-region"]);
-//                 subRegions.push(d["sub-region"]);
-//             }
-//         });
-//     });
-// }
 
 // This function is called when the user selects a new option from the dropdown menu (the trigger event)
 function optionChanged(selectedOption) {
@@ -85,7 +54,6 @@ function optionChanged(selectedOption) {
 function init() {
     
     let defaultRegion = "Europe";
-    // let defaultSubRegion = "All";
     
     //Call the drawScatterPlot function to draw the scatter plot for the default region
     drawScatterPlot(defaultRegion, data);
@@ -93,39 +61,10 @@ function init() {
     //Call the drawRadarChart function to draw the radar chart for the default region
     drawRadarChart(defaultRegion, data);
 
-    // // Set the default values for the dropdown menus
-    // d3.select("#selRegion").property("value", defaultRegion);
-    // d3.select("#selSubRegion").property("value", defaultSubRegion);
-    
-    // // Call the updateData function to update the data based on the default selections
-    // updateData(defaultRegion, defaultSubRegion, "country");
-    // d3.select("#selRegion").on("change", function () {
-    //     updateData(this.value, d3.select("#selSubRegion").property("value"), getDisplayMode());
-    // });
-    
-    // d3.select("#selSubRegion").on("change", function () {
-    //     updateData(d3.select("#selRegion").property("value"), this.value, getDisplayMode());
-    // });
-    
-    // d3.select("#btnCountry").on("click", function () {
-    //     updateData(d3.select("#selRegion").property("value"), d3.select("#selSubRegion").property("value"), "country");
-    // });
-    
-    // d3.select("#btnCity").on("click", function () {
-    //     updateData(d3.select("#selRegion").property("value"), d3.select("#selSubRegion").property("value"), "city");
-    // });
-
 }
 
-function getDisplayMode() {
-    if (d3.select("#btnCountry").classed("active")) {
-        return "country";
-    } else {
-        return "city";
-    }
-}
 // Function to draw the scatter plot
-function drawScatterPlot(region, data_js, displayMode) {
+function drawScatterPlot(region, data_js) {
     
     // Filter the data to get only the countries for the input region
     let inputRegion = data_js.filter(country => country.region === region);
@@ -158,18 +97,8 @@ function drawScatterPlot(region, data_js, displayMode) {
     Plotly.newPlot("scatter", traceData, layout);
 }
 
-function updateData(selectedRegion, selectedSubRegion, displayMode) {
-    // Fetch new data based on the selected region, sub-region, and display mode (country or city)
-    // You will need to modify this part to fetch the correct data for cities as well
-    let filteredData = data.filter(item => (item.region === selectedRegion) && (selectedSubRegion === "All" || item["sub-region"] === selectedSubRegion));
-
-    // Update the charts with the new data
-    drawScatterPlot(selectedRegion, filteredData, displayMode);
-    drawRadarChart(selectedRegion, filteredData, displayMode);
-}
-
 // Function to draw the radar chart
-function drawRadarChart(region, data_js, displayMode) {
+function drawRadarChart(region, data_js) {
 
     // Filter the data to get only the countries for the input region
     let inputRegion = data_js.filter(country => country.region === region);
