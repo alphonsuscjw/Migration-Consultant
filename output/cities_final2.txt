@@ -1,0 +1,541 @@
+city_country,LPP_index,crime_index,healthcare_index,lat,lon,alpha-3
+"Hamilton, Bermuda",83.9,,,32.2942,-64.7839,BMU
+"Basel, Switzerland",121,21.6,,47.5606,7.5906,CHE
+"Zurich, Switzerland",122.9,18.3,74.1,47.3744,8.5411,CHE
+"Lausanne, Switzerland",103.6,26.2,73.8,46.5333,6.6333,CHE
+"Zug, Switzerland",128.1,,,47.1681,8.5169,CHE
+"Bern, Switzerland",132.4,17.7,,46.948,7.4474,CHE
+"Santa Barbara, CA, United States",71,,,34.4285,-119.7202,USA
+"George Town, Cayman Islands",76.2,,,19.2866,-81.3744,CYM
+"Geneva, Switzerland",112.9,29.7,72.7,46.2,6.15,CHE
+"Honolulu, HI, United States",83.1,47.3,72.5,21.3294,-157.846,USA
+"New York, NY, United States",100,49.1,62.3,40.6943,-73.9249,USA
+"San Francisco, CA, United States",104,61.1,63.9,37.7562,-122.443,USA
+"Nassau, Bahamas",41.3,,,25.0667,-77.3333,BHS
+"Oslo, Norway",95.2,34.1,77.7,59.9111,10.7528,NOR
+"Seattle, WA, United States",126.2,52.8,72.2,47.6211,-122.3244,USA
+"Stavanger, Norway",89.8,23.3,73.3,58.9701,5.7333,NOR
+"Oakland, CA, United States",90.9,67.4,,37.7903,-122.2165,USA
+"Bergen, Norway",86.1,25.7,76,60.3925,5.3233,NOR
+"Anchorage, AK, United States",103.6,62.3,,61.1508,-149.1091,USA
+"Trondheim, Norway",113.6,19.1,82.6,63.44,10.4,NOR
+"Tromso, Norway",100,,,69.6546,18.9637,NOR
+"Saint Helier, Jersey",68.1,,,49.1858,-2.11,JEY
+"Singapore, Singapore",95.6,29.2,70.9,1.3,103.8,SGP
+"Reykjavik, Iceland",92.6,23.8,67.8,64.1475,-21.935,ISL
+"Odense, Denmark",88.5,,,55.4004,10.3833,DNK
+"Sacramento, CA, United States",114.5,49.4,68.4,38.5667,-121.4683,USA
+"Boston, MA, United States",111.1,39.4,74.5,42.3188,-71.0846,USA
+"Irvine, CA, United States",129.4,22.3,,33.6772,-117.7738,USA
+"Washington, DC, United States",127.9,60.1,69.9,38.9047,-77.0163,USA
+"San Jose, CA, United States",139.1,47.7,71.9,37.3019,-121.8486,USA
+"San Diego, CA, United States",118.3,40.4,68.9,32.8312,-117.1225,USA
+"Brisbane, Australia",100,35.5,75.9,-27.4678,153.0281,AUS
+"Copenhagen, Denmark",97,26.5,78,55.6805,12.5615,DNK
+"Nashville, TN, United States",114,,63.9,36.1715,-86.7843,USA
+"Miami, FL, United States",89.2,52.6,63.7,25.7839,-80.2102,USA
+"Denver, CO, United States",138.3,45.3,69.5,39.7621,-104.8759,USA
+"Sydney, Australia",110.6,33.9,77,-33.865,151.2094,AUS
+"Canberra, Australia",101,23.2,77.6,-35.2931,149.1269,AUS
+"Adelaide, Australia",90.3,31.1,78.3,-34.9275,138.6,AUS
+"Portland, OR, United States",118.3,54.6,73.2,45.5372,-122.65,USA
+"Arhus, Denmark",101.4,,,56.1572,10.2107,DNK
+"Netanya, Israel",70.2,,,32.3328,34.86,ISR
+"New Orleans, LA, United States",95.8,67.6,,30.0687,-89.9288,USA
+"Ramat Gan, Israel",74.8,,,32.07,34.8235,ISR
+"Perth, Australia",99.7,41.7,72.9,-31.9522,115.8589,AUS
+"Beirut, Lebanon",10.1,46.3,65.2,33.8869,35.5131,LBN
+"Tel Aviv-Yafo, Israel",81,27,74.4,32.08,34.78,ISR
+"Raleigh, NC, United States",110.1,38.3,67.7,35.8325,-78.6435,USA
+"Philadelphia, PA, United States",127.6,64.9,68.8,40.0077,-75.1339,USA
+"Chicago, IL, United States",121.3,66.1,64.8,41.8373,-87.6862,USA
+"Seoul, South Korea",80.9,24.7,82.6,37.56,126.99,KOR
+"Los Angeles, CA, United States",116,52.2,62.5,34.1139,-118.4068,USA
+"Auckland, New Zealand",97.9,48.2,71.7,-36.85,174.7833,NZL
+"Wellington, New Zealand",74.6,32.4,66.9,-41.2889,174.7772,NZL
+"Melbourne, Australia",111.8,44,75.1,-37.8136,144.9631,AUS
+"Pittsburgh, PA, United States",118.9,38.5,75.6,40.4396,-79.9762,USA
+"Charlotte, NC, United States",117.4,46.7,69.5,35.208,-80.8304,USA
+"Cleveland, OH, United States",133.9,64,79.8,41.4767,-81.6804,USA
+"Espoo, Finland",93.7,,,60.21,24.66,FIN
+"Dallas, TX, United States",137,51.1,66.2,32.7936,-96.7662,USA
+"Buffalo, NY, United States",116.2,,,42.9016,-78.8487,USA
+"Dublin, Ireland",77.6,52.1,51.2,53.3497,-6.2603,IRL
+"Nice, France",78.2,60.1,,43.7034,7.2663,FRA
+"Aalborg, Denmark",117.3,24.8,,57.0337,9.9166,DNK
+"Indianapolis, IN, United States",133.2,58.9,73.6,39.7771,-86.1458,USA
+"Baltimore, MD, United States",135.2,75.5,77.3,39.3051,-76.6144,USA
+"Haarlem, Netherlands",80,,,52.3803,4.6406,NLD
+"Tampa, FL, United States",127.8,46.3,66.4,27.9942,-82.4451,USA
+"Paris, France",77.9,56.9,79.1,48.8566,2.3522,FRA
+"Omaha, NE, United States",117.6,,,41.2627,-96.0522,USA
+"Petah Tikva, Israel",76.5,,,32.0833,34.8833,ISR
+"Hong Kong, Hong Kong (China)",67.7,21.5,65.8,22.3069,114.1831,HKG
+"Birmingham, AL, United States",86.5,,,33.5277,-86.7987,USA
+"Victoria, Canada",87.9,39.6,66.9,48.4283,-123.3647,CAN
+"Fort Worth, TX, United States",126.6,,,32.7811,-97.3473,USA
+"Minneapolis, MN, United States",133.8,55.3,78.5,44.9635,-93.2678,USA
+"Haifa, Israel",90.7,,73.3,32.8,34.9833,ISR
+"Nanaimo, BC, Canada",83.1,50.9,68.6,49.1642,-123.9364,CAN
+"Luxembourg, Luxembourg",118.2,28.7,77,49.6106,6.1328,LUX
+"Utrecht, Netherlands",99,,,52.0889,5.1156,NLD
+"Lyon, France",92.6,52.8,,45.76,4.84,FRA
+"London, United Kingdom",88.1,53.8,70.2,51.5072,-0.1275,GBR
+"Phoenix, AZ, United States",140.8,53.6,66.6,33.5722,-112.0891,USA
+"Detroit, MI, United States",116.9,74.1,62.4,42.3834,-83.1024,USA
+"Chattanooga, TN, United States",125,,,35.0657,-85.2488,USA
+"Atlanta, GA, United States",126.5,63.5,69.6,33.7627,-84.4224,USA
+"Tokyo, Japan",90,24.6,79.9,35.6839,139.7744,JPN
+"Milan, Italy",55.4,48.7,71.7,45.4669,9.19,ITA
+"Jerusalem, Israel",84.2,36.8,70.5,31.7833,35.2167,ISR
+"Austin, TX, United States",128.3,40.3,67.6,30.3004,-97.7522,USA
+"Munich, Germany",101.6,18.8,76.6,48.1375,11.575,DEU
+"Columbus, OH, United States",125.2,47.2,68.4,39.9862,-82.985,USA
+"Toronto, Canada",91,42.2,75.6,43.7417,-79.3733,CAN
+"Fort Lauderdale, FL, United States",122.4,,,26.1412,-80.1464,USA
+"Nijmegen, Netherlands",96.3,,,51.8475,5.8625,NLD
+"Spokane, WA, United States",113.9,,,47.6671,-117.433,USA
+"Las Vegas, NV, United States",118.5,55.2,55.3,36.2333,-115.2654,USA
+"Reno, NV, United States",76.2,,,39.5497,-119.8483,USA
+"San Juan, Puerto Rico",43.2,68.4,63,18.4037,-66.0636,PRI
+"Colorado Springs, CO, United States",133.6,,,38.8674,-104.7606,USA
+"Fresno, CA, United States",120.5,,,36.7831,-119.7941,USA
+"Madison, WI, United States",97.6,34.4,76.3,43.0826,-89.3931,USA
+"Vancouver, Canada",94,39.6,73.9,49.25,-123.1,CAN
+"Orlando, FL, United States",138.8,51.5,62.8,28.4772,-81.3369,USA
+"Amsterdam, Netherlands",101.7,32,72.3,52.3667,4.8833,NLD
+"Calgary, Canada",117.1,36.7,75,51.05,-114.0667,CAN
+"Milwaukee, WI, United States",153.1,67.1,65.2,43.0642,-87.9673,USA
+"Breda, Netherlands",134.8,,,51.5875,4.775,NLD
+"Valletta, Malta",37.7,,,35.8978,14.5125,MLT
+"Stockholm, Sweden",94.6,46.1,66.6,59.3294,18.0686,SWE
+"Oklahoma City, OK, United States",93.7,,,35.4676,-97.5136,USA
+"Hamburg, Germany",106.2,42.6,74,53.55,10,DEU
+"Maastricht, Netherlands",102.5,,,50.8667,5.6833,NLD
+"Boise, ID, United States",111.6,35.7,,43.6007,-116.2312,USA
+"Turku, Finland",98.6,,,60.4517,22.27,FIN
+"Frankfurt, Germany",108,44.7,75.2,50.1136,8.6797,DEU
+"Groningen, Netherlands",86.4,22.1,,53.2167,6.5667,NLD
+"Jacksonville, FL, United States",146.2,57.1,,30.3322,-81.6749,USA
+"Houston, TX, United States",144.3,63.8,72,29.7863,-95.3889,USA
+"Hobart, Australia",127.1,32.3,,-42.8806,147.325,AUS
+"Cambridge, United Kingdom",97,,,52.2053,0.1192,GBR
+"Markham, Canada",91.2,28.2,,43.8767,-79.2633,CAN
+"Innsbruck, Austria",72.4,,,47.2683,11.3933,AUT
+"Berlin, Germany",98,43.2,68,52.5167,13.3833,DEU
+"Macao, Macao (China)",76.4,,,22.203,113.545,CHN
+"Edmonton, Canada",114.5,45.9,77.7,53.5344,-113.4903,CAN
+"Guildford, United Kingdom",109.7,,,51.2365,-0.5703,GBR
+"Kamloops, Canada",92.4,54.6,,50.6761,-120.3408,CAN
+"Galway, Ireland",75.1,29.8,47.7,53.2729,-9.0418,IRL
+"Fredericton, Canada",115.8,,,45.9636,-66.6431,CAN
+"Antwerp, Belgium",89.4,40,,51.2211,4.3997,BEL
+"Toulouse, France",101.9,50.1,,43.6045,1.444,FRA
+"Helsinki, Finland",103.4,24.8,78.9,60.1756,24.9342,FIN
+"Brussels, Belgium",97.2,54.6,73.9,50.8353,4.3314,BEL
+"Cork, Ireland",88.5,35.6,55.9,51.9,-8.4731,IRL
+"Eindhoven, Netherlands",118.7,22.8,77.6,51.4344,5.4842,NLD
+"Hamilton, New Zealand",84.8,49.7,,-37.7833,175.2833,NZL
+"Tucson, AZ, United States",132.4,51.5,59.3,32.1545,-110.8782,USA
+"Kansas City, MO, United States",123.6,58.1,73.9,39.1239,-94.5541,USA
+"Ottawa, Canada",104.2,28.3,72.9,45.4247,-75.695,CAN
+"Graz, Austria",93.2,26.3,,47.0708,15.4386,AUT
+"Albuquerque, NM, United States",155.1,71.5,62.8,35.1053,-106.6464,USA
+"Gold Coast, Australia",118.1,46.2,84.9,-28.0167,153.4,AUS
+"Dusseldorf, Germany",107.8,35.4,,51.2311,6.7724,DEU
+"Halifax, Canada",93.3,41,68.1,44.6475,-63.5906,CAN
+"Quebec City, Canada",106.3,16.1,71.8,46.8139,-71.2081,CAN
+"Saint Louis, MO, United States",99.8,70.6,,32.4911,-114.7089,USA
+"Christchurch, New Zealand",102.8,44.3,,-43.5309,172.6365,NZL
+"San Antonio, TX, United States",140.5,49.4,67.4,29.4658,-98.5253,USA
+"Grenoble, France",90,57.4,,45.1715,5.7224,FRA
+"Hamilton, Canada",91.2,55.3,78.8,43.2567,-79.8692,CAN
+"Nagoya, Japan",74.1,,,35.1167,136.9333,JPN
+"Rotterdam, Netherlands",110.6,32.9,78.7,51.9225,4.4792,NLD
+"Brighton, United Kingdom",81.7,37.4,,50.8284,-0.1395,GBR
+"Salzburg, Austria",94.2,,,47.7972,13.0477,AUT
+"Leuven, Belgium",94.4,,,50.8775,4.7044,BEL
+"Bonn, Germany",78.5,40.5,,50.7339,7.0997,DEU
+"Linz, Austria",86.8,,,48.3,14.2833,AUT
+"Florence, Italy",54.8,38.4,67,43.7714,11.2542,ITA
+"Nantes, France",86.2,62.9,,47.2181,-1.5528,FRA
+"Louisville, KY, United States",151.4,57.3,,38.1663,-85.6485,USA
+"Red Deer, Canada",113.1,61.6,,52.2681,-113.8111,CAN
+"Saskatoon, Canada",118.3,49.4,63.9,52.1333,-106.6833,CAN
+"Surrey, Canada",122.1,63,,49.19,-122.8489,CAN
+"Heidelberg, Germany",109.4,,,49.4122,8.71,DEU
+"Gent, Belgium",80.7,26.5,78.8,51.0536,3.7253,BEL
+"Bologna, Italy",64.3,47.6,77.4,44.4939,11.3428,ITA
+"Rome, Italy",55.4,53,60,41.8931,12.4828,ITA
+"Cologne, Germany",88.9,42,73.1,50.9422,6.9578,DEU
+"Salt Lake City, UT, United States",132.5,33.7,71.2,40.7777,-111.9306,USA
+"Sliema, Malta",51,,,35.9122,14.5042,MLT
+"Winnipeg, Canada",79.5,58.8,68.4,49.8844,-97.1464,CAN
+"Bristol, United Kingdom",94.4,41.7,74.4,51.45,-2.5833,GBR
+"Karlsruhe, Germany",108.9,37.5,,49.0167,8.4,DEU
+"Osaka, Japan",89.6,33.1,,34.752,135.4582,JPN
+"Limerick, Ireland",101.1,39.5,,52.6653,-8.6238,IRL
+"Oxford, United Kingdom",99.7,,,51.7519,-1.2578,GBR
+"Genoa, Italy",58.6,44.4,,44.4072,8.934,ITA
+"Marseille, France",96.8,64.7,,43.2964,5.37,FRA
+"Delft, Netherlands",111.8,,,52.0119,4.3594,NLD
+"Mannheim, Germany",119.4,,,49.4878,8.4661,DEU
+"Dubai, United Arab Emirates",129.1,16.4,68.1,25.2697,55.3094,ARE
+"Trento, Italy",66.6,,,46.0667,11.1167,ITA
+"Montreal, Canada",99,31.8,63.5,45.5089,-73.5617,CAN
+"Reading, United Kingdom",91.3,,,51.4542,-0.9731,GBR
+"Bergamo, Italy",71.9,,,45.695,9.67,ITA
+"London, Canada",110.8,53,66.1,42.9836,-81.2497,CAN
+"Dortmund, Germany",103.6,,,51.5139,7.4653,DEU
+"Memphis, TN, United States",167,74.8,,35.1046,-89.9773,USA
+"Trieste, Italy",64.2,27,,45.6503,13.7703,ITA
+"Mississauga, Canada",105.4,42.5,69.8,43.6,-79.65,CAN
+"Lund, Sweden",109.3,33.5,,65.5838,22.1915,SWE
+"Parma, Italy",64.3,,,44.8015,10.328,ITA
+"Freiburg im Breisgau, Germany",97.4,30.2,,47.995,7.85,DEU
+"Cincinnati, OH, United States",115.9,48.1,68.8,39.1413,-84.5061,USA
+"Kitchener, Canada",113.6,41.2,66.1,43.4186,-80.4728,CAN
+"Uppsala, Sweden",89.5,,,59.8498,17.6389,SWE
+"Brescia, Italy",59.2,,,45.5389,10.2203,ITA
+"Enschede, Netherlands",126.4,,,52.2236,6.8956,NLD
+"Kelowna, Canada",102.3,61.7,74.9,49.8881,-119.4956,CAN
+"Stuttgart, Germany",121.7,31.4,71.1,48.7761,9.1775,DEU
+"Manchester, United Kingdom",96.2,55.4,79.1,53.4794,-2.2453,GBR
+"Larnaca, Cyprus",49.5,,,34.9167,33.6333,CYP
+"Kingston, Canada",104.4,37.2,,53.4114,-117.5639,CAN
+"Treviso, Italy",62,,,45.6722,12.2422,ITA
+"Tampere, Finland",102.2,22.3,,61.4981,23.76,FIN
+"Bremen, Germany",94.6,44.3,,53.0769,8.8089,DEU
+"Liverpool, United Kingdom",85.9,47.5,,53.4075,-2.9919,GBR
+"Brampton, Canada",118.3,54.8,,43.6833,-79.7667,CAN
+"Bournemouth, United Kingdom",79.5,,,50.72,-1.88,GBR
+"Glasgow, United Kingdom",107.7,45.3,82.4,55.8611,-4.25,GBR
+"Padova, Italy",62.9,,,45.4064,11.8778,ITA
+"Malmo, Sweden",107.9,55.7,68.6,55.5833,13.0333,SWE
+"The Hague (Den Haag), Netherlands",129.9,21.2,80,52.08,4.31,NLD
+"Cagliari, Italy",62.6,35.9,,39.2167,9.1167,ITA
+"Nottingham, United Kingdom",90.3,50.4,,52.9533,-1.15,GBR
+"Plymouth, United Kingdom",69.1,,,50.3714,-4.1422,GBR
+"Lille, France",105.1,51.9,,50.6278,3.0583,FRA
+"Hanover, Germany",105.9,40.9,,52.3744,9.7386,DEU
+"Gothenburg, Sweden",101.6,46.6,67.9,57.6717,11.981,SWE
+"Regina, Canada",146.2,52.5,65.8,50.4547,-104.6067,CAN
+"Leeds, United Kingdom",100.7,42.8,81.8,53.7997,-1.5492,GBR
+"Bari, Italy",64.1,50.7,,41.1253,16.8667,ITA
+"Vienna, Austria",112.9,26.9,79.2,48.2083,16.3725,AUT
+"Belfast, United Kingdom",89.2,45.4,70.7,54.5964,-5.93,GBR
+"Verona, Italy",65,,,45.4386,10.9928,ITA
+"Derby, United Kingdom",114,,,52.9217,-1.4769,GBR
+"Edinburgh, United Kingdom",96.3,30.9,78.8,55.953,-3.189,GBR
+"Windsor, Canada",108.3,45.5,,42.2833,-83,CAN
+"Turin, Italy",68.1,52.1,67,45.0667,7.7,ITA
+"Newcastle upon Tyne, United Kingdom",88.1,38.7,,53.0109,-2.2278,GBR
+"Leipzig, Germany",94.5,41.6,,51.3333,12.3833,DEU
+"Norwich, United Kingdom",85.9,,,52.63,1.297,GBR
+"Limassol, Cyprus",52.7,33.2,51.4,34.675,33.0443,CYP
+"Knoxville, TN, United States",144.4,,,35.9692,-83.9496,USA
+"Al Khobar, Saudi Arabia",117.7,,,26.3,50.2167,SAU
+"Southampton, United Kingdom",99.7,,,50.9025,-1.4042,GBR
+"Essen, Germany",121.4,,,51.4508,7.0131,DEU
+"Nuremberg, Germany",121.9,34.9,,49.4539,11.0775,DEU
+"Athens, Greece",42.4,55.9,56.9,37.9842,23.7281,GRC
+"Exeter, United Kingdom",88.6,,,50.7167,-3.5333,GBR
+"Sheffield, United Kingdom",86.4,43.5,,53.3808,-1.4703,GBR
+"Doha, Qatar",101,14.5,73.8,25.3,51.5333,QAT
+"Tallinn, Estonia",60.5,24.7,72.5,59.4372,24.745,EST
+"Aachen, Germany",124.8,,,50.7762,6.0838,DEU
+"Montevideo, Uruguay",41.9,55.8,68.2,-34.8667,-56.1667,URY
+"Portsmouth, United Kingdom",115.9,,,50.8058,-1.0872,GBR
+"Cardiff, United Kingdom",82.1,38,,56.3757,-3.8426,GBR
+"Suzhou, China",28.4,,,31.2983,120.5832,CHN
+"Coventry, United Kingdom",139.2,63.6,,52.4081,-1.5106,GBR
+"Barcelona, Spain",74.1,49.8,77.6,41.3825,2.1769,ESP
+"Dresden, Germany",113,31,,51.05,13.74,DEU
+"Aberdeen, United Kingdom",112.5,33.8,,57.15,-2.11,GBR
+"Birmingham, United Kingdom",107.9,62.6,72.3,52.48,-1.9025,GBR
+"Shiraz, Iran",13.9,,,29.61,52.5425,IRN
+"Taipei, Taiwan (China)",78.2,15.1,86.4,25.0478,121.5319,TWN
+"Naples, Italy",67.2,61.7,,40.8333,14.25,ITA
+"Kingston, Jamaica",26.2,70.9,,17.9714,-76.7931,JAM
+"Dundee, United Kingdom",95.3,,,56.462,-2.9707,GBR
+"Bilbao, Spain",79.6,53,,43.2569,-2.9236,ESP
+"Ramallah, Palestine",43.9,,,30.7258,72.6447,PAK
+"Leicester, United Kingdom",106.4,,,52.6344,-1.1319,GBR
+"Port of Spain, Trinidad And Tobago",34.4,76.2,48.6,10.6667,-61.5167,TTO
+"New Taipei City, Taiwan (China)",64.6,,,25.0478,121.5319,TWN
+"Palermo, Italy",63.6,45.2,,38.1111,13.3517,ITA
+"Abu Dhabi, United Arab Emirates",114.8,11.2,72.1,24.4511,54.3969,ARE
+"Thessaloniki, Greece",40.9,53.5,55,40.6403,22.9356,GRC
+"Male, Maldives",34.2,62.6,,4.175,73.5083,MDV
+"Nicosia, Cyprus",63.8,30.5,54.5,35.1725,33.365,CYP
+"Riga, Latvia",54.3,38.5,61,56.9475,24.1069,LVA
+"Prague, Czech Republic",69.9,24.7,74.7,50.0833,14.4167,CZE
+"Havana, Cuba",1.6,32,,23.1367,-82.3589,CUB
+"Madrid, Spain",85.7,30.1,80,40.4167,-3.7167,ESP
+"Palma de Mallorca, Spain",69,,,41.492,2.362,ESP
+"Ljubljana, Slovenia",62.3,21.8,66.3,46.05,14.5167,SVN
+"Riyadh, Saudi Arabia",101.5,26.8,64.6,24.65,46.71,SAU
+"Heraklion, Greece",38.2,,,35.3403,25.1344,GRC
+"Zadar, Croatia",39.1,,,44.1167,15.2167,HRV
+"Catania, Italy",55.8,63.9,,37.5027,15.0873,ITA
+"Larissa, Greece",45.7,,,39.6385,22.4131,GRC
+"Tartu, Estonia",64.1,21,,58.38,26.7225,EST
+"Jeddah (Jiddah), Saudi Arabia",85.7,28.1,59.6,21.5428,39.1728,SAU
+"Dubrovnik, Croatia",46.7,,,42.6403,18.1083,HRV
+"Vilnius, Lithuania",59.5,27.6,74,54.6833,25.2833,LTU
+"Lisbon, Portugal",45.4,29.6,72.4,38.708,-9.139,PRT
+"Valencia, Spain",71.3,31.8,79.8,39.47,-0.3764,ESP
+"Pamplona, Spain",120.4,,,42.8167,-1.65,ESP
+"Manama, Bahrain",89.5,,65.8,26.225,50.5775,BHR
+"Zagreb, Croatia",56.5,22.4,63.5,45.8131,15.9772,HRV
+"Panama City, Panama",36.3,47.7,60.1,9,-79.5,PAN
+"Oviedo, Spain",105.2,,,43.36,-5.845,ESP
+"Bratislava, Slovakia",60.6,30.6,56.8,48.1447,17.1128,SVK
+"Alicante, Spain",71.3,29.4,,38.3453,-0.4831,ESP
+"San Jose, Costa Rica",40.9,55.7,62.5,9.9333,-84.0833,CRI
+"Muscat, Oman",90,20.1,59.4,23.6139,58.5922,OMN
+"Seville (Sevilla), Spain",78.8,32.7,,37.39,-5.99,ESP
+"Granada, Spain",93.4,,,37.1781,-3.6008,ESP
+"Bangkok, Thailand",29.5,40.5,77.1,13.75,100.5167,THA
+"Paphos, Cyprus",58.4,,,34.7761,32.4265,CYP
+"Santo Domingo, Dominican Republic",21.3,67.2,51.9,18.4764,-69.8933,DOM
+"Kaohsiung, Taiwan (China)",67.5,,86.4,22.6167,120.3,TWN
+"Malaga, Spain",85.7,27.1,71,36.7194,-4.42,ESP
+"Vladivostok, Russia",34.8,,,43.1167,131.9,RUS
+"Ad Dammam, Saudi Arabia",100,,,26.4333,50.1,SAU
+"Amman, Jordan",35.6,38.8,65,31.95,35.9333,JOR
+"Brno, Czech Republic",71.3,26.1,74.3,49.1953,16.6083,CZE
+"Porto, Portugal",49.6,35.2,75.9,41.1495,-8.6108,PRT
+"Kaunas, Lithuania",62.4,38.3,74.5,54.9,23.9333,LTU
+"Olomouc, Czech Republic",69.9,,,49.5939,17.2508,CZE
+"Phnom Penh, Cambodia",14.9,55.4,,11.5696,104.921,KHM
+"Plzen, Czech Republic",79.2,,,49.7414,13.3825,CZE
+"Ostrava, Czech Republic",74.1,,,49.8356,18.2925,CZE
+"Shanghai, China",59.7,30.6,63.6,31.1667,121.4667,CHN
+"Maribor, Slovenia",72.2,,,46.55,15.6333,SVN
+"Kuwait City, Kuwait",83,30.4,60,29.375,47.98,KWT
+"Murcia, Spain",63.2,,,37.9861,-1.1303,ESP
+"Las Palmas de Gran Canaria, Spain",60.2,,,27.9808,-15.4989,ESP
+"Dakar, Senegal",21.4,,,14.7319,-17.4572,SEN
+"Sharjah, United Arab Emirates",41.9,15.9,,25.3575,55.3919,ARE
+"Santiago, Chile",34.7,61.2,66,-33.45,-70.6667,CHL
+"Cascais, Portugal",48.6,,,38.6969,-9.4206,PRT
+"Santa Cruz de Tenerife, Spain",71,,,43.4442,-3.9031,ESP
+"Kosice, Slovakia",52,,,48.7167,21.25,SVK
+"Georgetown, Guyana",25.3,,,6.7833,-58.1667,GUY
+"Beijing, China",63.3,28.4,67.9,39.904,116.4075,CHN
+"Moscow, Russia",58.8,36.8,65.5,55.7558,37.6178,RUS
+"Sofia, Bulgaria",57.9,41.9,57.4,42.6979,23.3217,BGR
+"Rijeka, Croatia",50.8,25.2,64.6,45.3272,14.4411,HRV
+"Split, Croatia",57,32.3,68.7,43.51,16.45,HRV
+"Zaragoza (Saragossa), Spain",83.9,,,41.65,-0.8833,ESP
+"Funchal, Portugal",54,,,32.65,-16.9167,PRT
+"Budapest, Hungary",55.2,34.8,52.6,47.4983,19.0408,HUN
+"San Salvador, El Salvador",24,66.2,,13.6989,-89.1914,SLV
+"Klaipeda, Lithuania",64.6,,,55.7075,21.1428,LTU
+"Makati, Philippines",20.2,38.8,,11.712,122.2922,PHL
+"Saint Petersburg, Russia",46,39.7,59.8,59.95,30.3167,RUS
+"Vigo, Spain",76.1,,,42.2314,-8.7124,ESP
+"Addis Ababa, Ethiopia",10.4,49.3,,9.0272,38.7369,ETH
+"Shenzhen, China",80.9,28.9,,22.535,114.054,CHN
+"Warsaw, Poland",62.6,26.1,59.8,52.23,21.0111,POL
+"Coimbra, Portugal",51.7,,,40.2111,-8.4289,PRT
+"Guatemala City, Guatemala",24.3,63.8,64.1,14.6099,-90.5252,GTM
+"Bucharest, Romania",55.5,28.2,54.8,44.4,26.0833,ROU
+"Abidjan, Ivory Coast",7.4,,,5.3364,-4.0267,CIV
+"Braga, Portugal",56.9,,,41.5503,-8.42,PRT
+"Aveiro, Portugal",48,,,40.6389,-8.6553,PRT
+"Leiria, Portugal",81.6,,,39.7431,-8.8069,PRT
+"Caracas, Venezuela",11,83.6,38.7,10.5,-66.9333,VEN
+"Belgrade, Serbia",37.7,37.9,53.5,44.8167,20.4667,SRB
+"Monterrey, Mexico",55.5,48.3,68.8,25.6667,-100.3,MEX
+"Yekaterinburg, Russia",59,46.4,51.1,56.8356,60.6128,RUS
+"Phuket, Thailand",27.7,,,7.8881,98.3975,THA
+"Yerevan, Armenia",26.1,21.9,55.6,40.1814,44.5144,ARM
+"Budva, Montenegro",30.8,,,42.2847,18.8453,MNE
+"Osijek, Croatia",54.6,,,45.5603,18.6703,HRV
+"Tbilisi, Georgia",24.7,25.9,54.3,41.7225,44.7925,GEO
+"Cluj-Napoca, Romania",53.5,22.5,64.5,46.78,23.5594,ROU
+"Tijuana, Mexico",45.7,71.4,,32.525,-117.0333,MEX
+"Harare, Zimbabwe",16.9,60.6,,-17.8292,31.0522,ZWE
+"Sao Paulo, Brazil",26.1,70.5,58.7,-23.5504,-46.6339,BRA
+"Hangzhou, China",61.6,,,30.25,120.1675,CHN
+"Krakow (Cracow), Poland",68.8,25.8,57.5,50.0614,19.9372,POL
+"Wroclaw, Poland",60.3,26.3,56.7,51.11,17.0325,POL
+"Novosibirsk, Russia",36,47.7,56.9,55.0333,82.9167,RUS
+"Tirana, Albania",30.1,42.3,48,41.33,19.82,ALB
+"Constanta, Romania",40.8,46.2,,44.1733,28.6383,ROU
+"Mexico City, Mexico",38.1,68.5,65.4,19.4333,-99.1333,MEX
+"Quezon City, Philippines",20.2,63.2,,14.6333,121.0333,PHL
+"Gdynia, Poland",56.6,,,54.5189,18.5319,POL
+"Johannesburg, South Africa",94.5,80.7,60.6,-26.2044,28.0416,ZAF
+"Varna, Bulgaria",50.6,36.7,62.2,43.2114,27.9111,BGR
+"Kazan, Russia",37,,,55.7908,49.1144,RUS
+"Kuching, Malaysia",28.5,,,1.5397,110.3542,MYS
+"Krasnodar, Russia",37.7,,,45.0333,38.9833,RUS
+"Cancun, Mexico",39.7,56.9,,21.1606,-86.8475,MEX
+"Gdansk, Poland",66.7,30.5,50.2,54.3667,18.6333,POL
+"Puebla, Mexico",35.3,59.7,,19.0333,-98.1833,MEX
+"Katowice, Poland",67.7,,,50.25,19,POL
+"Pattaya, Thailand",26.1,45.5,75.3,12.9496,100.893,THA
+"Szeged, Hungary",52,,,46.25,20.1667,HUN
+"Chengdu, China",53.4,,,30.66,104.0633,CHN
+"Brasov, Romania",48.4,26.9,,45.65,25.6,ROU
+"Lagos, Nigeria",7.6,67.5,46.3,6.45,3.4,NGA
+"Merida, Mexico",34.5,26.1,,20.97,-89.62,MEX
+"Kuala Lumpur, Malaysia",84.6,63,68.1,3.1478,101.6953,MYS
+"Kaliningrad, Russia",37.3,,,54.7167,20.5,RUS
+"Voronezh, Russia",41.7,,,51.6717,39.2106,RUS
+"Sarajevo, Bosnia And Herzegovina",53.4,45.9,58.4,43.8563,18.4132,BIH
+"Bialystok, Poland",55.4,,,53.1167,23.1667,POL
+"Guangzhou, China",74.7,32.3,66.7,23.1288,113.259,CHN
+"Plovdiv, Bulgaria",50,,,42.1421,24.7415,BGR
+"Szczecin, Poland",61.6,,,53.4247,14.5553,POL
+"Samara, Russia",37.9,,,53.1833,50.1167,RUS
+"Guayaquil, Ecuador",40.5,71.6,,-2.19,-79.8875,ECU
+"Cuenca, Ecuador",31.7,44.6,82.1,-2.8974,-79.0045,ECU
+"Podgorica, Montenegro",45.2,,,42.4397,19.2661,MNE
+"Rio de Janeiro, Brazil",23.2,77.6,45,-22.9083,-43.1964,BRA
+"Nizhny Novgorod, Russia",41.3,28.7,75.7,56.3269,44.0075,RUS
+"Manila, Philippines",24.8,65.4,63.7,14.6,120.9833,PHL
+"Poznan, Poland",62.7,28.2,54.5,52.4083,16.9336,POL
+"Chiang Mai, Thailand",32.2,24.5,84.1,18.7889,98.9833,THA
+"Brasilia, Brazil",41.4,59.9,51.4,-15.7939,-47.8828,BRA
+"Pretoria, South Africa",92.9,82,66.1,-25.7464,28.1881,ZAF
+"Queretaro (Santiago de Querétaro), Mexico",54.4,37.6,,17.0321,-97.9293,MEX
+"Gaborone, Botswana",51.5,,,-24.6569,25.9086,BWA
+"Guadalajara, Mexico",47.7,62.7,79.7,20.6767,-103.3475,MEX
+"Burgas, Bulgaria",51,,,42.503,27.4702,BGR
+"Oradea, Romania",39.2,,,47.0722,21.9211,ROU
+"Ufa, Russia",39.4,,,54.7261,55.9475,RUS
+"Ho Chi Minh City, Vietnam",30.1,52.5,59.9,10.8167,106.6333,VNM
+"Novi Sad, Serbia",42,40.9,50.8,45.2644,19.8317,SRB
+"Perm, Russia",38.1,,,58.0139,56.2489,RUS
+"Cape Town, South Africa",75.2,73.6,68.6,-33.925,18.425,ZAF
+"Minsk, Belarus",37.6,57.7,48,53.9022,27.5618,BLR
+"Puerto Vallarta, Mexico",25,35.1,,20.6458,-105.2222,MEX
+"Khartoum, Sudan",10,,,15.6031,32.5265,SDN
+"Durban, South Africa",77.1,81,58.4,-29.8583,31.025,ZAF
+"Lodz, Poland",62.1,41.1,,51.7769,19.4547,POL
+"Skopje, North Macedonia",36.7,46.9,54.8,41.9833,21.4333,MKD
+"Penang, Malaysia",64.8,33.5,,5.4141,100.3288,MYS
+"Yangon, Myanmar",28.6,,,16.795,96.16,MMR
+"Timisoara, Romania",56.4,24.4,71.9,45.7597,21.23,ROU
+"Banja Luka, Bosnia And Herzegovina",43.3,34.4,48.4,44.7667,17.1833,BIH
+"Iasi, Romania",51.2,30.7,56.3,47.1622,27.5889,ROU
+"Rostov-na-donu, Russia",35.8,,,47.2333,39.7167,RUS
+"Cebu, Philippines",18.8,51.9,,10.85,121.0167,PHL
+"Hanoi, Vietnam",37.5,37.6,57.6,21.0245,105.8412,VNM
+"Campinas, Brazil",42.5,66.8,61.3,-22.9009,-47.0573,BRA
+"Florianopolis, Brazil",28.5,50.2,59.9,-27.5933,-48.553,BRA
+"Suva, Fiji",89.4,,,-18.1333,178.4333,FJI
+"Quito, Ecuador",33.8,61.5,71.7,-0.22,-78.5125,ECU
+"Bursa, Turkey",26.2,29.1,79.4,40.1833,29.0667,TUR
+"Nanjing, China",72,,,32.05,118.7667,CHN
+"Petaling Jaya, Malaysia",64.5,50.4,,3.1073,101.6067,MYS
+"Lima, Peru",33,70.9,58,-12.06,-77.0375,PER
+"Debrecen, Hungary",53.2,,,47.53,21.6392,HUN
+"Tuzla, Bosnia And Herzegovina",41.3,,,44.5381,18.6761,BIH
+"Lublin, Poland",60.9,,,51.2333,22.5667,POL
+"Craiova, Romania",50,49.6,,44.3333,23.8167,ROU
+"Jakarta, Indonesia",33,52.7,56.6,-6.2146,106.8451,IDN
+"Erbil (Irbil), Iraq",46.2,,,36.1911,44.0094,IRQ
+"La Paz, Bolivia",38,,,-16.4942,-68.1475,BOL
+"Batumi, Ajara, Georgia",29.9,,,41.6458,41.6417,GEO
+"Sibiu, Romania",48.5,,,45.8,24.15,ROU
+"Nairobi, Kenya",32.5,59.3,62.3,-1.2864,36.8172,KEN
+"Istanbul, Turkey",28.5,47.5,69.5,41.01,28.9603,TUR
+"Belo Horizonte, Brazil",24.1,63.7,63.9,-19.9281,-43.9419,BRA
+"Sao Jose dos Campos, Brazil",33.9,,,-23.1789,-45.8869,BRA
+"Windhoek, Namibia",41,68.6,,-22.57,17.0836,NAM
+"Curitiba, Brazil",37.6,62.5,66.8,-25.4297,-49.2719,BRA
+"Porto Alegre, Brazil",29.5,72.4,63.3,-30.0328,-51.23,BRA
+"Chisinau, Moldova",35.1,43.9,51,47.0228,28.8353,MDA
+"Recife, Brazil",35.1,76.4,62.7,-8.0539,-34.8808,BRA
+"Marrakech, Morocco",27.1,,,31.6295,-7.9811,MAR
+"Tehran, Iran",18.9,55.9,52.6,35.7,51.4167,IRN
+"Nis, Serbia",43.6,,,43.3192,21.8961,SRB
+"Santa Cruz, Bolivia",34.5,,,-17.7892,-63.1975,BOL
+"Casablanca, Morocco",34.9,54.6,44.8,33.5992,-7.62,MAR
+"Baghdad, Iraq",38.1,58.9,33.5,33.35,44.4167,IRQ
+"Kampala, Uganda",12.2,,,0.3136,32.5811,UGA
+"Ulaanbaatar, Mongolia",24.7,54.6,,47.9214,106.9055,MNG
+"Qingdao, Shandong, China",75.9,,77.5,36.1167,120.4,CHN
+"Isfahan (Esfahan), Iran",18.8,,,32.6447,51.6675,IRN
+"Rabat, Morocco",32.3,35.4,,34.0253,-6.8361,MAR
+"Buenos Aires, Argentina",33.4,63.3,69,-34.5997,-58.3819,ARG
+"Algiers, Algeria",24.6,52.6,56.1,36.7764,3.0586,DZA
+"Bandung, Indonesia",25.2,,,-6.95,107.5667,IDN
+"Dar es Salaam, Tanzania",20.1,,,-6.8,39.2833,TZA
+"Baku, Azerbaijan",34.4,30.5,46.6,40.3667,49.8352,AZE
+"Almaty, Kazakhstan",35.7,63.3,47.7,43.25,76.9,KAZ
+"Kiev (Kyiv), Ukraine",38.9,45.2,57.6,50.45,30.5236,UKR
+"Tunis, Tunisia",23.8,47.8,55.6,36.8008,10.18,TUN
+"Kigali, Rwanda",30,,,-1.9536,30.0606,RWA
+"Surabaya, Indonesia",29.5,,,-7.2458,112.7378,IDN
+"Pristina, Kosovo (Disputed Territory)",39.4,,,42.6633,21.1622,XKS
+"Damascus, Syria",4.5,70,,33.5131,36.2919,SYR
+"Asuncion, Paraguay",29,51.6,64.4,-25.3,-57.6333,PRY
+"Dhaka, Bangladesh",25.9,63.2,40.1,23.7289,90.3944,BGD
+"Astana (Nur-Sultan), Kazakhstan",47.3,33.9,67.3,51.1333,71.4333,KAZ
+"Antalya, Turkey",24.5,27.1,75.9,36.9081,30.6956,TUR
+"Izmir, Turkey",28.6,31.4,72.7,38.4127,27.1384,TUR
+"Tashkent, Uzbekistan",25.7,,,41.3,69.2667,UZB
+"Agadir, Morocco",33.4,,,30.4167,-9.5833,MAR
+"Tangier, Morocco",35.9,,,35.7767,-5.8039,MAR
+"Ankara, Turkey",34.4,39.5,68.8,39.93,32.85,TUR
+"Accra, Ghana",19.1,,57,5.6037,-0.187,GHA
+"Mersin, Turkey",27.6,,,36.8,34.6167,TUR
+"Mashhad, Iran",24.4,,,36.3069,59.6042,IRN
+"Colombo, Sri Lanka",15.6,41.6,71.9,6.9167,79.8333,LKA
+"Eskisehir, Turkey",29.8,18.1,,39.7767,30.5206,TUR
+"Gurgaon, India",78.9,54.3,64.5,28.45,77.02,IND
+"Kocaeli, Turkey",39.6,,,40.7656,29.9406,TUR
+"Kathmandu, Nepal",20,37,55.8,27.7167,85.3667,NPL
+"Dnipro, Ukraine",35.2,52.7,53.2,48.4675,35.04,UKR
+"Tripoli, Libya",29.4,62.5,,32.8752,13.1875,LBY
+"Bishkek, Kyrgyzstan",24.9,,,42.8667,74.5667,KGZ
+"Odessa (Odesa), Ukraine",32.9,53.1,50.4,46.4775,30.7326,UKR
+"Noida, India",75.1,55.3,,17.77,77.14,IND
+"Lviv, Ukraine",42.1,39,61,49.8419,24.0315,UKR
+"Chittagong, Bangladesh",27.2,,,22.335,91.8325,BGD
+"Mumbai, India",46.6,45,65.2,19.0758,72.8775,IND
+"Bangalore, India",96,54.6,66.1,12.9791,77.5913,IND
+"Navi Mumbai, India",91.9,36.9,,19.0758,72.8775,IND
+"Hyderabad, India",56.4,43.2,64.9,17.3617,78.4747,IND
+"Delhi, India",60.8,59.2,65.7,28.6667,77.2167,IND
+"Medellin, Colombia",34.4,55.2,78.6,6.2447,-75.5748,COL
+"Cartagena, Colombia",30.2,,,10.4236,-75.5253,COL
+"Bogota, Colombia",28.9,66,65,4.6126,-74.0705,COL
+"Kharkiv, Ukraine",39.3,48.6,48.1,50,36.2292,UKR
+"Konya, Turkey",34.7,,,37.8714,32.4847,TUR
+"Adana, Turkey",34.9,,,37,35.325,TUR
+"Ahmedabad, India",38.9,32.1,66.4,23.03,72.58,IND
+"Cairo, Egypt",22.9,50,45.5,30.0444,31.2358,EGY
+"Pune, India",84.5,41.6,67,18.5196,73.8553,IND
+"Patna, India",37.8,,,25.61,85.1414,IND
+"Guwahati, India",57.2,,,26.1722,91.7458,IND
+"Chandigarh, India",70.4,43.1,,30.7353,76.7911,IND
+"Cali, Colombia",39.4,70.2,,3.44,-76.5197,COL
+"Barranquilla, Colombia",32.3,,,10.9639,-74.7964,COL
+"Chennai, India",62.5,40.2,69.5,13.0825,80.275,IND
+"Lucknow (Lakhnau), India",69,46.6,,26.847,80.947,IND
+"Indore, India",64.1,48.8,,22.7206,75.8472,IND
+"Bhubaneswar, India",71.6,,,20.2644,85.8281,IND
+"Vadodara, India",44.9,31.8,,22.3,73.2,IND
+"Kolkata, India",64.2,46.6,57.8,22.5727,88.3639,IND
+"Jaipur, India",53.4,35.1,,26.9167,75.8667,IND
+"Kochi, India",80.6,40,63.3,9.9667,76.2833,IND
+"Alexandria, Egypt",20,44.5,46.4,31.2,29.9167,EGY
+"Coimbatore, India",50,,68.1,11,76.9667,IND
+"Thiruvananthapuram, India",95.6,39,61.9,8.5,76.8997,IND
+"Bhopal, India",61.2,,,23.25,77.4167,IND
+"Lahore, Pakistan",22,36.4,62.5,31.5497,74.3436,PAK
+"Giza, Egypt",23.6,,,29.987,31.2118,EGY
+"Karachi, Pakistan",22.4,54.5,57.3,24.86,67.01,PAK
+"Islamabad, Pakistan",28,31.2,64.2,33.6989,73.0369,PAK
+"Bucaramanga, Colombia",31.3,,,7.1186,-73.1161,COL
+"Rawalpindi, Pakistan",27.9,49.9,,33.6007,73.0679,PAK
+"Faisalabad, Pakistan",32.5,,,31.418,73.079,PAK
+"Multan, Pakistan",21.9,,,30.1978,71.4711,PAK
+"Peshawar, Pakistan",27.6,,,34,71.5,PAK

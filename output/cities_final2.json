@@ -1,0 +1,4862 @@
+[
+    {
+        "city_country": "Hamilton, Bermuda",
+        "LPP_index": "83.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.2942",
+        "lon": "-64.7839",
+        "alpha-3": "BMU"
+    },
+    {
+        "city_country": "Basel, Switzerland",
+        "LPP_index": "121",
+        "crime_index": "21.6",
+        "healthcare_index": "",
+        "lat": "47.5606",
+        "lon": "7.5906",
+        "alpha-3": "CHE"
+    },
+    {
+        "city_country": "Zurich, Switzerland",
+        "LPP_index": "122.9",
+        "crime_index": "18.3",
+        "healthcare_index": "74.1",
+        "lat": "47.3744",
+        "lon": "8.5411",
+        "alpha-3": "CHE"
+    },
+    {
+        "city_country": "Lausanne, Switzerland",
+        "LPP_index": "103.6",
+        "crime_index": "26.2",
+        "healthcare_index": "73.8",
+        "lat": "46.5333",
+        "lon": "6.6333",
+        "alpha-3": "CHE"
+    },
+    {
+        "city_country": "Zug, Switzerland",
+        "LPP_index": "128.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.1681",
+        "lon": "8.5169",
+        "alpha-3": "CHE"
+    },
+    {
+        "city_country": "Bern, Switzerland",
+        "LPP_index": "132.4",
+        "crime_index": "17.7",
+        "healthcare_index": "",
+        "lat": "46.948",
+        "lon": "7.4474",
+        "alpha-3": "CHE"
+    },
+    {
+        "city_country": "Santa Barbara, CA, United States",
+        "LPP_index": "71",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "34.4285",
+        "lon": "-119.7202",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "George Town, Cayman Islands",
+        "LPP_index": "76.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "19.2866",
+        "lon": "-81.3744",
+        "alpha-3": "CYM"
+    },
+    {
+        "city_country": "Geneva, Switzerland",
+        "LPP_index": "112.9",
+        "crime_index": "29.7",
+        "healthcare_index": "72.7",
+        "lat": "46.2",
+        "lon": "6.15",
+        "alpha-3": "CHE"
+    },
+    {
+        "city_country": "Honolulu, HI, United States",
+        "LPP_index": "83.1",
+        "crime_index": "47.3",
+        "healthcare_index": "72.5",
+        "lat": "21.3294",
+        "lon": "-157.846",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "New York, NY, United States",
+        "LPP_index": "100",
+        "crime_index": "49.1",
+        "healthcare_index": "62.3",
+        "lat": "40.6943",
+        "lon": "-73.9249",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "San Francisco, CA, United States",
+        "LPP_index": "104",
+        "crime_index": "61.1",
+        "healthcare_index": "63.9",
+        "lat": "37.7562",
+        "lon": "-122.443",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Nassau, Bahamas",
+        "LPP_index": "41.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "25.0667",
+        "lon": "-77.3333",
+        "alpha-3": "BHS"
+    },
+    {
+        "city_country": "Oslo, Norway",
+        "LPP_index": "95.2",
+        "crime_index": "34.1",
+        "healthcare_index": "77.7",
+        "lat": "59.9111",
+        "lon": "10.7528",
+        "alpha-3": "NOR"
+    },
+    {
+        "city_country": "Seattle, WA, United States",
+        "LPP_index": "126.2",
+        "crime_index": "52.8",
+        "healthcare_index": "72.2",
+        "lat": "47.6211",
+        "lon": "-122.3244",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Stavanger, Norway",
+        "LPP_index": "89.8",
+        "crime_index": "23.3",
+        "healthcare_index": "73.3",
+        "lat": "58.9701",
+        "lon": "5.7333",
+        "alpha-3": "NOR"
+    },
+    {
+        "city_country": "Oakland, CA, United States",
+        "LPP_index": "90.9",
+        "crime_index": "67.4",
+        "healthcare_index": "",
+        "lat": "37.7903",
+        "lon": "-122.2165",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Bergen, Norway",
+        "LPP_index": "86.1",
+        "crime_index": "25.7",
+        "healthcare_index": "76",
+        "lat": "60.3925",
+        "lon": "5.3233",
+        "alpha-3": "NOR"
+    },
+    {
+        "city_country": "Anchorage, AK, United States",
+        "LPP_index": "103.6",
+        "crime_index": "62.3",
+        "healthcare_index": "",
+        "lat": "61.1508",
+        "lon": "-149.1091",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Trondheim, Norway",
+        "LPP_index": "113.6",
+        "crime_index": "19.1",
+        "healthcare_index": "82.6",
+        "lat": "63.44",
+        "lon": "10.4",
+        "alpha-3": "NOR"
+    },
+    {
+        "city_country": "Tromso, Norway",
+        "LPP_index": "100",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "69.6546",
+        "lon": "18.9637",
+        "alpha-3": "NOR"
+    },
+    {
+        "city_country": "Saint Helier, Jersey",
+        "LPP_index": "68.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "49.1858",
+        "lon": "-2.11",
+        "alpha-3": "JEY"
+    },
+    {
+        "city_country": "Singapore, Singapore",
+        "LPP_index": "95.6",
+        "crime_index": "29.2",
+        "healthcare_index": "70.9",
+        "lat": "1.3",
+        "lon": "103.8",
+        "alpha-3": "SGP"
+    },
+    {
+        "city_country": "Reykjavik, Iceland",
+        "LPP_index": "92.6",
+        "crime_index": "23.8",
+        "healthcare_index": "67.8",
+        "lat": "64.1475",
+        "lon": "-21.935",
+        "alpha-3": "ISL"
+    },
+    {
+        "city_country": "Odense, Denmark",
+        "LPP_index": "88.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "55.4004",
+        "lon": "10.3833",
+        "alpha-3": "DNK"
+    },
+    {
+        "city_country": "Sacramento, CA, United States",
+        "LPP_index": "114.5",
+        "crime_index": "49.4",
+        "healthcare_index": "68.4",
+        "lat": "38.5667",
+        "lon": "-121.4683",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Boston, MA, United States",
+        "LPP_index": "111.1",
+        "crime_index": "39.4",
+        "healthcare_index": "74.5",
+        "lat": "42.3188",
+        "lon": "-71.0846",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Irvine, CA, United States",
+        "LPP_index": "129.4",
+        "crime_index": "22.3",
+        "healthcare_index": "",
+        "lat": "33.6772",
+        "lon": "-117.7738",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Washington, DC, United States",
+        "LPP_index": "127.9",
+        "crime_index": "60.1",
+        "healthcare_index": "69.9",
+        "lat": "38.9047",
+        "lon": "-77.0163",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "San Jose, CA, United States",
+        "LPP_index": "139.1",
+        "crime_index": "47.7",
+        "healthcare_index": "71.9",
+        "lat": "37.3019",
+        "lon": "-121.8486",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "San Diego, CA, United States",
+        "LPP_index": "118.3",
+        "crime_index": "40.4",
+        "healthcare_index": "68.9",
+        "lat": "32.8312",
+        "lon": "-117.1225",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Brisbane, Australia",
+        "LPP_index": "100",
+        "crime_index": "35.5",
+        "healthcare_index": "75.9",
+        "lat": "-27.4678",
+        "lon": "153.0281",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Copenhagen, Denmark",
+        "LPP_index": "97",
+        "crime_index": "26.5",
+        "healthcare_index": "78",
+        "lat": "55.6805",
+        "lon": "12.5615",
+        "alpha-3": "DNK"
+    },
+    {
+        "city_country": "Nashville, TN, United States",
+        "LPP_index": "114",
+        "crime_index": "",
+        "healthcare_index": "63.9",
+        "lat": "36.1715",
+        "lon": "-86.7843",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Miami, FL, United States",
+        "LPP_index": "89.2",
+        "crime_index": "52.6",
+        "healthcare_index": "63.7",
+        "lat": "25.7839",
+        "lon": "-80.2102",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Denver, CO, United States",
+        "LPP_index": "138.3",
+        "crime_index": "45.3",
+        "healthcare_index": "69.5",
+        "lat": "39.7621",
+        "lon": "-104.8759",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Sydney, Australia",
+        "LPP_index": "110.6",
+        "crime_index": "33.9",
+        "healthcare_index": "77",
+        "lat": "-33.865",
+        "lon": "151.2094",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Canberra, Australia",
+        "LPP_index": "101",
+        "crime_index": "23.2",
+        "healthcare_index": "77.6",
+        "lat": "-35.2931",
+        "lon": "149.1269",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Adelaide, Australia",
+        "LPP_index": "90.3",
+        "crime_index": "31.1",
+        "healthcare_index": "78.3",
+        "lat": "-34.9275",
+        "lon": "138.6",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Portland, OR, United States",
+        "LPP_index": "118.3",
+        "crime_index": "54.6",
+        "healthcare_index": "73.2",
+        "lat": "45.5372",
+        "lon": "-122.65",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Arhus, Denmark",
+        "LPP_index": "101.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "56.1572",
+        "lon": "10.2107",
+        "alpha-3": "DNK"
+    },
+    {
+        "city_country": "Netanya, Israel",
+        "LPP_index": "70.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.3328",
+        "lon": "34.86",
+        "alpha-3": "ISR"
+    },
+    {
+        "city_country": "New Orleans, LA, United States",
+        "LPP_index": "95.8",
+        "crime_index": "67.6",
+        "healthcare_index": "",
+        "lat": "30.0687",
+        "lon": "-89.9288",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Ramat Gan, Israel",
+        "LPP_index": "74.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.07",
+        "lon": "34.8235",
+        "alpha-3": "ISR"
+    },
+    {
+        "city_country": "Perth, Australia",
+        "LPP_index": "99.7",
+        "crime_index": "41.7",
+        "healthcare_index": "72.9",
+        "lat": "-31.9522",
+        "lon": "115.8589",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Beirut, Lebanon",
+        "LPP_index": "10.1",
+        "crime_index": "46.3",
+        "healthcare_index": "65.2",
+        "lat": "33.8869",
+        "lon": "35.5131",
+        "alpha-3": "LBN"
+    },
+    {
+        "city_country": "Tel Aviv-Yafo, Israel",
+        "LPP_index": "81",
+        "crime_index": "27",
+        "healthcare_index": "74.4",
+        "lat": "32.08",
+        "lon": "34.78",
+        "alpha-3": "ISR"
+    },
+    {
+        "city_country": "Raleigh, NC, United States",
+        "LPP_index": "110.1",
+        "crime_index": "38.3",
+        "healthcare_index": "67.7",
+        "lat": "35.8325",
+        "lon": "-78.6435",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Philadelphia, PA, United States",
+        "LPP_index": "127.6",
+        "crime_index": "64.9",
+        "healthcare_index": "68.8",
+        "lat": "40.0077",
+        "lon": "-75.1339",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Chicago, IL, United States",
+        "LPP_index": "121.3",
+        "crime_index": "66.1",
+        "healthcare_index": "64.8",
+        "lat": "41.8373",
+        "lon": "-87.6862",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Seoul, South Korea",
+        "LPP_index": "80.9",
+        "crime_index": "24.7",
+        "healthcare_index": "82.6",
+        "lat": "37.56",
+        "lon": "126.99",
+        "alpha-3": "KOR"
+    },
+    {
+        "city_country": "Los Angeles, CA, United States",
+        "LPP_index": "116",
+        "crime_index": "52.2",
+        "healthcare_index": "62.5",
+        "lat": "34.1139",
+        "lon": "-118.4068",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Auckland, New Zealand",
+        "LPP_index": "97.9",
+        "crime_index": "48.2",
+        "healthcare_index": "71.7",
+        "lat": "-36.85",
+        "lon": "174.7833",
+        "alpha-3": "NZL"
+    },
+    {
+        "city_country": "Wellington, New Zealand",
+        "LPP_index": "74.6",
+        "crime_index": "32.4",
+        "healthcare_index": "66.9",
+        "lat": "-41.2889",
+        "lon": "174.7772",
+        "alpha-3": "NZL"
+    },
+    {
+        "city_country": "Melbourne, Australia",
+        "LPP_index": "111.8",
+        "crime_index": "44",
+        "healthcare_index": "75.1",
+        "lat": "-37.8136",
+        "lon": "144.9631",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Pittsburgh, PA, United States",
+        "LPP_index": "118.9",
+        "crime_index": "38.5",
+        "healthcare_index": "75.6",
+        "lat": "40.4396",
+        "lon": "-79.9762",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Charlotte, NC, United States",
+        "LPP_index": "117.4",
+        "crime_index": "46.7",
+        "healthcare_index": "69.5",
+        "lat": "35.208",
+        "lon": "-80.8304",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Cleveland, OH, United States",
+        "LPP_index": "133.9",
+        "crime_index": "64",
+        "healthcare_index": "79.8",
+        "lat": "41.4767",
+        "lon": "-81.6804",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Espoo, Finland",
+        "LPP_index": "93.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "60.21",
+        "lon": "24.66",
+        "alpha-3": "FIN"
+    },
+    {
+        "city_country": "Dallas, TX, United States",
+        "LPP_index": "137",
+        "crime_index": "51.1",
+        "healthcare_index": "66.2",
+        "lat": "32.7936",
+        "lon": "-96.7662",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Buffalo, NY, United States",
+        "LPP_index": "116.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.9016",
+        "lon": "-78.8487",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Dublin, Ireland",
+        "LPP_index": "77.6",
+        "crime_index": "52.1",
+        "healthcare_index": "51.2",
+        "lat": "53.3497",
+        "lon": "-6.2603",
+        "alpha-3": "IRL"
+    },
+    {
+        "city_country": "Nice, France",
+        "LPP_index": "78.2",
+        "crime_index": "60.1",
+        "healthcare_index": "",
+        "lat": "43.7034",
+        "lon": "7.2663",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Aalborg, Denmark",
+        "LPP_index": "117.3",
+        "crime_index": "24.8",
+        "healthcare_index": "",
+        "lat": "57.0337",
+        "lon": "9.9166",
+        "alpha-3": "DNK"
+    },
+    {
+        "city_country": "Indianapolis, IN, United States",
+        "LPP_index": "133.2",
+        "crime_index": "58.9",
+        "healthcare_index": "73.6",
+        "lat": "39.7771",
+        "lon": "-86.1458",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Baltimore, MD, United States",
+        "LPP_index": "135.2",
+        "crime_index": "75.5",
+        "healthcare_index": "77.3",
+        "lat": "39.3051",
+        "lon": "-76.6144",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Haarlem, Netherlands",
+        "LPP_index": "80",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.3803",
+        "lon": "4.6406",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Tampa, FL, United States",
+        "LPP_index": "127.8",
+        "crime_index": "46.3",
+        "healthcare_index": "66.4",
+        "lat": "27.9942",
+        "lon": "-82.4451",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Paris, France",
+        "LPP_index": "77.9",
+        "crime_index": "56.9",
+        "healthcare_index": "79.1",
+        "lat": "48.8566",
+        "lon": "2.3522",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Omaha, NE, United States",
+        "LPP_index": "117.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "41.2627",
+        "lon": "-96.0522",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Petah Tikva, Israel",
+        "LPP_index": "76.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.0833",
+        "lon": "34.8833",
+        "alpha-3": "ISR"
+    },
+    {
+        "city_country": "Hong Kong, Hong Kong (China)",
+        "LPP_index": "67.7",
+        "crime_index": "21.5",
+        "healthcare_index": "65.8",
+        "lat": "22.3069",
+        "lon": "114.1831",
+        "alpha-3": "HKG"
+    },
+    {
+        "city_country": "Birmingham, AL, United States",
+        "LPP_index": "86.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "33.5277",
+        "lon": "-86.7987",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Victoria, Canada",
+        "LPP_index": "87.9",
+        "crime_index": "39.6",
+        "healthcare_index": "66.9",
+        "lat": "48.4283",
+        "lon": "-123.3647",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Fort Worth, TX, United States",
+        "LPP_index": "126.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.7811",
+        "lon": "-97.3473",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Minneapolis, MN, United States",
+        "LPP_index": "133.8",
+        "crime_index": "55.3",
+        "healthcare_index": "78.5",
+        "lat": "44.9635",
+        "lon": "-93.2678",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Haifa, Israel",
+        "LPP_index": "90.7",
+        "crime_index": "",
+        "healthcare_index": "73.3",
+        "lat": "32.8",
+        "lon": "34.9833",
+        "alpha-3": "ISR"
+    },
+    {
+        "city_country": "Nanaimo, BC, Canada",
+        "LPP_index": "83.1",
+        "crime_index": "50.9",
+        "healthcare_index": "68.6",
+        "lat": "49.1642",
+        "lon": "-123.9364",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Luxembourg, Luxembourg",
+        "LPP_index": "118.2",
+        "crime_index": "28.7",
+        "healthcare_index": "77",
+        "lat": "49.6106",
+        "lon": "6.1328",
+        "alpha-3": "LUX"
+    },
+    {
+        "city_country": "Utrecht, Netherlands",
+        "LPP_index": "99",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.0889",
+        "lon": "5.1156",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Lyon, France",
+        "LPP_index": "92.6",
+        "crime_index": "52.8",
+        "healthcare_index": "",
+        "lat": "45.76",
+        "lon": "4.84",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "London, United Kingdom",
+        "LPP_index": "88.1",
+        "crime_index": "53.8",
+        "healthcare_index": "70.2",
+        "lat": "51.5072",
+        "lon": "-0.1275",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Phoenix, AZ, United States",
+        "LPP_index": "140.8",
+        "crime_index": "53.6",
+        "healthcare_index": "66.6",
+        "lat": "33.5722",
+        "lon": "-112.0891",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Detroit, MI, United States",
+        "LPP_index": "116.9",
+        "crime_index": "74.1",
+        "healthcare_index": "62.4",
+        "lat": "42.3834",
+        "lon": "-83.1024",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Chattanooga, TN, United States",
+        "LPP_index": "125",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.0657",
+        "lon": "-85.2488",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Atlanta, GA, United States",
+        "LPP_index": "126.5",
+        "crime_index": "63.5",
+        "healthcare_index": "69.6",
+        "lat": "33.7627",
+        "lon": "-84.4224",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Tokyo, Japan",
+        "LPP_index": "90",
+        "crime_index": "24.6",
+        "healthcare_index": "79.9",
+        "lat": "35.6839",
+        "lon": "139.7744",
+        "alpha-3": "JPN"
+    },
+    {
+        "city_country": "Milan, Italy",
+        "LPP_index": "55.4",
+        "crime_index": "48.7",
+        "healthcare_index": "71.7",
+        "lat": "45.4669",
+        "lon": "9.19",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Jerusalem, Israel",
+        "LPP_index": "84.2",
+        "crime_index": "36.8",
+        "healthcare_index": "70.5",
+        "lat": "31.7833",
+        "lon": "35.2167",
+        "alpha-3": "ISR"
+    },
+    {
+        "city_country": "Austin, TX, United States",
+        "LPP_index": "128.3",
+        "crime_index": "40.3",
+        "healthcare_index": "67.6",
+        "lat": "30.3004",
+        "lon": "-97.7522",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Munich, Germany",
+        "LPP_index": "101.6",
+        "crime_index": "18.8",
+        "healthcare_index": "76.6",
+        "lat": "48.1375",
+        "lon": "11.575",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Columbus, OH, United States",
+        "LPP_index": "125.2",
+        "crime_index": "47.2",
+        "healthcare_index": "68.4",
+        "lat": "39.9862",
+        "lon": "-82.985",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Toronto, Canada",
+        "LPP_index": "91",
+        "crime_index": "42.2",
+        "healthcare_index": "75.6",
+        "lat": "43.7417",
+        "lon": "-79.3733",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Fort Lauderdale, FL, United States",
+        "LPP_index": "122.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "26.1412",
+        "lon": "-80.1464",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Nijmegen, Netherlands",
+        "LPP_index": "96.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.8475",
+        "lon": "5.8625",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Spokane, WA, United States",
+        "LPP_index": "113.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.6671",
+        "lon": "-117.433",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Las Vegas, NV, United States",
+        "LPP_index": "118.5",
+        "crime_index": "55.2",
+        "healthcare_index": "55.3",
+        "lat": "36.2333",
+        "lon": "-115.2654",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Reno, NV, United States",
+        "LPP_index": "76.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "39.5497",
+        "lon": "-119.8483",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "San Juan, Puerto Rico",
+        "LPP_index": "43.2",
+        "crime_index": "68.4",
+        "healthcare_index": "63",
+        "lat": "18.4037",
+        "lon": "-66.0636",
+        "alpha-3": "PRI"
+    },
+    {
+        "city_country": "Colorado Springs, CO, United States",
+        "LPP_index": "133.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "38.8674",
+        "lon": "-104.7606",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Fresno, CA, United States",
+        "LPP_index": "120.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "36.7831",
+        "lon": "-119.7941",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Madison, WI, United States",
+        "LPP_index": "97.6",
+        "crime_index": "34.4",
+        "healthcare_index": "76.3",
+        "lat": "43.0826",
+        "lon": "-89.3931",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Vancouver, Canada",
+        "LPP_index": "94",
+        "crime_index": "39.6",
+        "healthcare_index": "73.9",
+        "lat": "49.25",
+        "lon": "-123.1",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Orlando, FL, United States",
+        "LPP_index": "138.8",
+        "crime_index": "51.5",
+        "healthcare_index": "62.8",
+        "lat": "28.4772",
+        "lon": "-81.3369",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Amsterdam, Netherlands",
+        "LPP_index": "101.7",
+        "crime_index": "32",
+        "healthcare_index": "72.3",
+        "lat": "52.3667",
+        "lon": "4.8833",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Calgary, Canada",
+        "LPP_index": "117.1",
+        "crime_index": "36.7",
+        "healthcare_index": "75",
+        "lat": "51.05",
+        "lon": "-114.0667",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Milwaukee, WI, United States",
+        "LPP_index": "153.1",
+        "crime_index": "67.1",
+        "healthcare_index": "65.2",
+        "lat": "43.0642",
+        "lon": "-87.9673",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Breda, Netherlands",
+        "LPP_index": "134.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.5875",
+        "lon": "4.775",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Valletta, Malta",
+        "LPP_index": "37.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.8978",
+        "lon": "14.5125",
+        "alpha-3": "MLT"
+    },
+    {
+        "city_country": "Stockholm, Sweden",
+        "LPP_index": "94.6",
+        "crime_index": "46.1",
+        "healthcare_index": "66.6",
+        "lat": "59.3294",
+        "lon": "18.0686",
+        "alpha-3": "SWE"
+    },
+    {
+        "city_country": "Oklahoma City, OK, United States",
+        "LPP_index": "93.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.4676",
+        "lon": "-97.5136",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Hamburg, Germany",
+        "LPP_index": "106.2",
+        "crime_index": "42.6",
+        "healthcare_index": "74",
+        "lat": "53.55",
+        "lon": "10",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Maastricht, Netherlands",
+        "LPP_index": "102.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.8667",
+        "lon": "5.6833",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Boise, ID, United States",
+        "LPP_index": "111.6",
+        "crime_index": "35.7",
+        "healthcare_index": "",
+        "lat": "43.6007",
+        "lon": "-116.2312",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Turku, Finland",
+        "LPP_index": "98.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "60.4517",
+        "lon": "22.27",
+        "alpha-3": "FIN"
+    },
+    {
+        "city_country": "Frankfurt, Germany",
+        "LPP_index": "108",
+        "crime_index": "44.7",
+        "healthcare_index": "75.2",
+        "lat": "50.1136",
+        "lon": "8.6797",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Groningen, Netherlands",
+        "LPP_index": "86.4",
+        "crime_index": "22.1",
+        "healthcare_index": "",
+        "lat": "53.2167",
+        "lon": "6.5667",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Jacksonville, FL, United States",
+        "LPP_index": "146.2",
+        "crime_index": "57.1",
+        "healthcare_index": "",
+        "lat": "30.3322",
+        "lon": "-81.6749",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Houston, TX, United States",
+        "LPP_index": "144.3",
+        "crime_index": "63.8",
+        "healthcare_index": "72",
+        "lat": "29.7863",
+        "lon": "-95.3889",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Hobart, Australia",
+        "LPP_index": "127.1",
+        "crime_index": "32.3",
+        "healthcare_index": "",
+        "lat": "-42.8806",
+        "lon": "147.325",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Cambridge, United Kingdom",
+        "LPP_index": "97",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.2053",
+        "lon": "0.1192",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Markham, Canada",
+        "LPP_index": "91.2",
+        "crime_index": "28.2",
+        "healthcare_index": "",
+        "lat": "43.8767",
+        "lon": "-79.2633",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Innsbruck, Austria",
+        "LPP_index": "72.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.2683",
+        "lon": "11.3933",
+        "alpha-3": "AUT"
+    },
+    {
+        "city_country": "Berlin, Germany",
+        "LPP_index": "98",
+        "crime_index": "43.2",
+        "healthcare_index": "68",
+        "lat": "52.5167",
+        "lon": "13.3833",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Macao, Macao (China)",
+        "LPP_index": "76.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "22.203",
+        "lon": "113.545",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Edmonton, Canada",
+        "LPP_index": "114.5",
+        "crime_index": "45.9",
+        "healthcare_index": "77.7",
+        "lat": "53.5344",
+        "lon": "-113.4903",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Guildford, United Kingdom",
+        "LPP_index": "109.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.2365",
+        "lon": "-0.5703",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Kamloops, Canada",
+        "LPP_index": "92.4",
+        "crime_index": "54.6",
+        "healthcare_index": "",
+        "lat": "50.6761",
+        "lon": "-120.3408",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Galway, Ireland",
+        "LPP_index": "75.1",
+        "crime_index": "29.8",
+        "healthcare_index": "47.7",
+        "lat": "53.2729",
+        "lon": "-9.0418",
+        "alpha-3": "IRL"
+    },
+    {
+        "city_country": "Fredericton, Canada",
+        "LPP_index": "115.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.9636",
+        "lon": "-66.6431",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Antwerp, Belgium",
+        "LPP_index": "89.4",
+        "crime_index": "40",
+        "healthcare_index": "",
+        "lat": "51.2211",
+        "lon": "4.3997",
+        "alpha-3": "BEL"
+    },
+    {
+        "city_country": "Toulouse, France",
+        "LPP_index": "101.9",
+        "crime_index": "50.1",
+        "healthcare_index": "",
+        "lat": "43.6045",
+        "lon": "1.444",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Helsinki, Finland",
+        "LPP_index": "103.4",
+        "crime_index": "24.8",
+        "healthcare_index": "78.9",
+        "lat": "60.1756",
+        "lon": "24.9342",
+        "alpha-3": "FIN"
+    },
+    {
+        "city_country": "Brussels, Belgium",
+        "LPP_index": "97.2",
+        "crime_index": "54.6",
+        "healthcare_index": "73.9",
+        "lat": "50.8353",
+        "lon": "4.3314",
+        "alpha-3": "BEL"
+    },
+    {
+        "city_country": "Cork, Ireland",
+        "LPP_index": "88.5",
+        "crime_index": "35.6",
+        "healthcare_index": "55.9",
+        "lat": "51.9",
+        "lon": "-8.4731",
+        "alpha-3": "IRL"
+    },
+    {
+        "city_country": "Eindhoven, Netherlands",
+        "LPP_index": "118.7",
+        "crime_index": "22.8",
+        "healthcare_index": "77.6",
+        "lat": "51.4344",
+        "lon": "5.4842",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Hamilton, New Zealand",
+        "LPP_index": "84.8",
+        "crime_index": "49.7",
+        "healthcare_index": "",
+        "lat": "-37.7833",
+        "lon": "175.2833",
+        "alpha-3": "NZL"
+    },
+    {
+        "city_country": "Tucson, AZ, United States",
+        "LPP_index": "132.4",
+        "crime_index": "51.5",
+        "healthcare_index": "59.3",
+        "lat": "32.1545",
+        "lon": "-110.8782",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Kansas City, MO, United States",
+        "LPP_index": "123.6",
+        "crime_index": "58.1",
+        "healthcare_index": "73.9",
+        "lat": "39.1239",
+        "lon": "-94.5541",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Ottawa, Canada",
+        "LPP_index": "104.2",
+        "crime_index": "28.3",
+        "healthcare_index": "72.9",
+        "lat": "45.4247",
+        "lon": "-75.695",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Graz, Austria",
+        "LPP_index": "93.2",
+        "crime_index": "26.3",
+        "healthcare_index": "",
+        "lat": "47.0708",
+        "lon": "15.4386",
+        "alpha-3": "AUT"
+    },
+    {
+        "city_country": "Albuquerque, NM, United States",
+        "LPP_index": "155.1",
+        "crime_index": "71.5",
+        "healthcare_index": "62.8",
+        "lat": "35.1053",
+        "lon": "-106.6464",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Gold Coast, Australia",
+        "LPP_index": "118.1",
+        "crime_index": "46.2",
+        "healthcare_index": "84.9",
+        "lat": "-28.0167",
+        "lon": "153.4",
+        "alpha-3": "AUS"
+    },
+    {
+        "city_country": "Dusseldorf, Germany",
+        "LPP_index": "107.8",
+        "crime_index": "35.4",
+        "healthcare_index": "",
+        "lat": "51.2311",
+        "lon": "6.7724",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Halifax, Canada",
+        "LPP_index": "93.3",
+        "crime_index": "41",
+        "healthcare_index": "68.1",
+        "lat": "44.6475",
+        "lon": "-63.5906",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Quebec City, Canada",
+        "LPP_index": "106.3",
+        "crime_index": "16.1",
+        "healthcare_index": "71.8",
+        "lat": "46.8139",
+        "lon": "-71.2081",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Saint Louis, MO, United States",
+        "LPP_index": "99.8",
+        "crime_index": "70.6",
+        "healthcare_index": "",
+        "lat": "32.4911",
+        "lon": "-114.7089",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Christchurch, New Zealand",
+        "LPP_index": "102.8",
+        "crime_index": "44.3",
+        "healthcare_index": "",
+        "lat": "-43.5309",
+        "lon": "172.6365",
+        "alpha-3": "NZL"
+    },
+    {
+        "city_country": "San Antonio, TX, United States",
+        "LPP_index": "140.5",
+        "crime_index": "49.4",
+        "healthcare_index": "67.4",
+        "lat": "29.4658",
+        "lon": "-98.5253",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Grenoble, France",
+        "LPP_index": "90",
+        "crime_index": "57.4",
+        "healthcare_index": "",
+        "lat": "45.1715",
+        "lon": "5.7224",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Hamilton, Canada",
+        "LPP_index": "91.2",
+        "crime_index": "55.3",
+        "healthcare_index": "78.8",
+        "lat": "43.2567",
+        "lon": "-79.8692",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Nagoya, Japan",
+        "LPP_index": "74.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.1167",
+        "lon": "136.9333",
+        "alpha-3": "JPN"
+    },
+    {
+        "city_country": "Rotterdam, Netherlands",
+        "LPP_index": "110.6",
+        "crime_index": "32.9",
+        "healthcare_index": "78.7",
+        "lat": "51.9225",
+        "lon": "4.4792",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Brighton, United Kingdom",
+        "LPP_index": "81.7",
+        "crime_index": "37.4",
+        "healthcare_index": "",
+        "lat": "50.8284",
+        "lon": "-0.1395",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Salzburg, Austria",
+        "LPP_index": "94.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.7972",
+        "lon": "13.0477",
+        "alpha-3": "AUT"
+    },
+    {
+        "city_country": "Leuven, Belgium",
+        "LPP_index": "94.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.8775",
+        "lon": "4.7044",
+        "alpha-3": "BEL"
+    },
+    {
+        "city_country": "Bonn, Germany",
+        "LPP_index": "78.5",
+        "crime_index": "40.5",
+        "healthcare_index": "",
+        "lat": "50.7339",
+        "lon": "7.0997",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Linz, Austria",
+        "LPP_index": "86.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "48.3",
+        "lon": "14.2833",
+        "alpha-3": "AUT"
+    },
+    {
+        "city_country": "Florence, Italy",
+        "LPP_index": "54.8",
+        "crime_index": "38.4",
+        "healthcare_index": "67",
+        "lat": "43.7714",
+        "lon": "11.2542",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Nantes, France",
+        "LPP_index": "86.2",
+        "crime_index": "62.9",
+        "healthcare_index": "",
+        "lat": "47.2181",
+        "lon": "-1.5528",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Louisville, KY, United States",
+        "LPP_index": "151.4",
+        "crime_index": "57.3",
+        "healthcare_index": "",
+        "lat": "38.1663",
+        "lon": "-85.6485",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Red Deer, Canada",
+        "LPP_index": "113.1",
+        "crime_index": "61.6",
+        "healthcare_index": "",
+        "lat": "52.2681",
+        "lon": "-113.8111",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Saskatoon, Canada",
+        "LPP_index": "118.3",
+        "crime_index": "49.4",
+        "healthcare_index": "63.9",
+        "lat": "52.1333",
+        "lon": "-106.6833",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Surrey, Canada",
+        "LPP_index": "122.1",
+        "crime_index": "63",
+        "healthcare_index": "",
+        "lat": "49.19",
+        "lon": "-122.8489",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Heidelberg, Germany",
+        "LPP_index": "109.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "49.4122",
+        "lon": "8.71",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Gent, Belgium",
+        "LPP_index": "80.7",
+        "crime_index": "26.5",
+        "healthcare_index": "78.8",
+        "lat": "51.0536",
+        "lon": "3.7253",
+        "alpha-3": "BEL"
+    },
+    {
+        "city_country": "Bologna, Italy",
+        "LPP_index": "64.3",
+        "crime_index": "47.6",
+        "healthcare_index": "77.4",
+        "lat": "44.4939",
+        "lon": "11.3428",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Rome, Italy",
+        "LPP_index": "55.4",
+        "crime_index": "53",
+        "healthcare_index": "60",
+        "lat": "41.8931",
+        "lon": "12.4828",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Cologne, Germany",
+        "LPP_index": "88.9",
+        "crime_index": "42",
+        "healthcare_index": "73.1",
+        "lat": "50.9422",
+        "lon": "6.9578",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Salt Lake City, UT, United States",
+        "LPP_index": "132.5",
+        "crime_index": "33.7",
+        "healthcare_index": "71.2",
+        "lat": "40.7777",
+        "lon": "-111.9306",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Sliema, Malta",
+        "LPP_index": "51",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.9122",
+        "lon": "14.5042",
+        "alpha-3": "MLT"
+    },
+    {
+        "city_country": "Winnipeg, Canada",
+        "LPP_index": "79.5",
+        "crime_index": "58.8",
+        "healthcare_index": "68.4",
+        "lat": "49.8844",
+        "lon": "-97.1464",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Bristol, United Kingdom",
+        "LPP_index": "94.4",
+        "crime_index": "41.7",
+        "healthcare_index": "74.4",
+        "lat": "51.45",
+        "lon": "-2.5833",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Karlsruhe, Germany",
+        "LPP_index": "108.9",
+        "crime_index": "37.5",
+        "healthcare_index": "",
+        "lat": "49.0167",
+        "lon": "8.4",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Osaka, Japan",
+        "LPP_index": "89.6",
+        "crime_index": "33.1",
+        "healthcare_index": "",
+        "lat": "34.752",
+        "lon": "135.4582",
+        "alpha-3": "JPN"
+    },
+    {
+        "city_country": "Limerick, Ireland",
+        "LPP_index": "101.1",
+        "crime_index": "39.5",
+        "healthcare_index": "",
+        "lat": "52.6653",
+        "lon": "-8.6238",
+        "alpha-3": "IRL"
+    },
+    {
+        "city_country": "Oxford, United Kingdom",
+        "LPP_index": "99.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.7519",
+        "lon": "-1.2578",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Genoa, Italy",
+        "LPP_index": "58.6",
+        "crime_index": "44.4",
+        "healthcare_index": "",
+        "lat": "44.4072",
+        "lon": "8.934",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Marseille, France",
+        "LPP_index": "96.8",
+        "crime_index": "64.7",
+        "healthcare_index": "",
+        "lat": "43.2964",
+        "lon": "5.37",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Delft, Netherlands",
+        "LPP_index": "111.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.0119",
+        "lon": "4.3594",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Mannheim, Germany",
+        "LPP_index": "119.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "49.4878",
+        "lon": "8.4661",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Dubai, United Arab Emirates",
+        "LPP_index": "129.1",
+        "crime_index": "16.4",
+        "healthcare_index": "68.1",
+        "lat": "25.2697",
+        "lon": "55.3094",
+        "alpha-3": "ARE"
+    },
+    {
+        "city_country": "Trento, Italy",
+        "LPP_index": "66.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "46.0667",
+        "lon": "11.1167",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Montreal, Canada",
+        "LPP_index": "99",
+        "crime_index": "31.8",
+        "healthcare_index": "63.5",
+        "lat": "45.5089",
+        "lon": "-73.5617",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Reading, United Kingdom",
+        "LPP_index": "91.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.4542",
+        "lon": "-0.9731",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Bergamo, Italy",
+        "LPP_index": "71.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.695",
+        "lon": "9.67",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "London, Canada",
+        "LPP_index": "110.8",
+        "crime_index": "53",
+        "healthcare_index": "66.1",
+        "lat": "42.9836",
+        "lon": "-81.2497",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Dortmund, Germany",
+        "LPP_index": "103.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.5139",
+        "lon": "7.4653",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Memphis, TN, United States",
+        "LPP_index": "167",
+        "crime_index": "74.8",
+        "healthcare_index": "",
+        "lat": "35.1046",
+        "lon": "-89.9773",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Trieste, Italy",
+        "LPP_index": "64.2",
+        "crime_index": "27",
+        "healthcare_index": "",
+        "lat": "45.6503",
+        "lon": "13.7703",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Mississauga, Canada",
+        "LPP_index": "105.4",
+        "crime_index": "42.5",
+        "healthcare_index": "69.8",
+        "lat": "43.6",
+        "lon": "-79.65",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Lund, Sweden",
+        "LPP_index": "109.3",
+        "crime_index": "33.5",
+        "healthcare_index": "",
+        "lat": "65.5838",
+        "lon": "22.1915",
+        "alpha-3": "SWE"
+    },
+    {
+        "city_country": "Parma, Italy",
+        "LPP_index": "64.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "44.8015",
+        "lon": "10.328",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Freiburg im Breisgau, Germany",
+        "LPP_index": "97.4",
+        "crime_index": "30.2",
+        "healthcare_index": "",
+        "lat": "47.995",
+        "lon": "7.85",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Cincinnati, OH, United States",
+        "LPP_index": "115.9",
+        "crime_index": "48.1",
+        "healthcare_index": "68.8",
+        "lat": "39.1413",
+        "lon": "-84.5061",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Kitchener, Canada",
+        "LPP_index": "113.6",
+        "crime_index": "41.2",
+        "healthcare_index": "66.1",
+        "lat": "43.4186",
+        "lon": "-80.4728",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Uppsala, Sweden",
+        "LPP_index": "89.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "59.8498",
+        "lon": "17.6389",
+        "alpha-3": "SWE"
+    },
+    {
+        "city_country": "Brescia, Italy",
+        "LPP_index": "59.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.5389",
+        "lon": "10.2203",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Enschede, Netherlands",
+        "LPP_index": "126.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.2236",
+        "lon": "6.8956",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Kelowna, Canada",
+        "LPP_index": "102.3",
+        "crime_index": "61.7",
+        "healthcare_index": "74.9",
+        "lat": "49.8881",
+        "lon": "-119.4956",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Stuttgart, Germany",
+        "LPP_index": "121.7",
+        "crime_index": "31.4",
+        "healthcare_index": "71.1",
+        "lat": "48.7761",
+        "lon": "9.1775",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Manchester, United Kingdom",
+        "LPP_index": "96.2",
+        "crime_index": "55.4",
+        "healthcare_index": "79.1",
+        "lat": "53.4794",
+        "lon": "-2.2453",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Larnaca, Cyprus",
+        "LPP_index": "49.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "34.9167",
+        "lon": "33.6333",
+        "alpha-3": "CYP"
+    },
+    {
+        "city_country": "Kingston, Canada",
+        "LPP_index": "104.4",
+        "crime_index": "37.2",
+        "healthcare_index": "",
+        "lat": "53.4114",
+        "lon": "-117.5639",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Treviso, Italy",
+        "LPP_index": "62",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.6722",
+        "lon": "12.2422",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Tampere, Finland",
+        "LPP_index": "102.2",
+        "crime_index": "22.3",
+        "healthcare_index": "",
+        "lat": "61.4981",
+        "lon": "23.76",
+        "alpha-3": "FIN"
+    },
+    {
+        "city_country": "Bremen, Germany",
+        "LPP_index": "94.6",
+        "crime_index": "44.3",
+        "healthcare_index": "",
+        "lat": "53.0769",
+        "lon": "8.8089",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Liverpool, United Kingdom",
+        "LPP_index": "85.9",
+        "crime_index": "47.5",
+        "healthcare_index": "",
+        "lat": "53.4075",
+        "lon": "-2.9919",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Brampton, Canada",
+        "LPP_index": "118.3",
+        "crime_index": "54.8",
+        "healthcare_index": "",
+        "lat": "43.6833",
+        "lon": "-79.7667",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Bournemouth, United Kingdom",
+        "LPP_index": "79.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.72",
+        "lon": "-1.88",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Glasgow, United Kingdom",
+        "LPP_index": "107.7",
+        "crime_index": "45.3",
+        "healthcare_index": "82.4",
+        "lat": "55.8611",
+        "lon": "-4.25",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Padova, Italy",
+        "LPP_index": "62.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.4064",
+        "lon": "11.8778",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Malmo, Sweden",
+        "LPP_index": "107.9",
+        "crime_index": "55.7",
+        "healthcare_index": "68.6",
+        "lat": "55.5833",
+        "lon": "13.0333",
+        "alpha-3": "SWE"
+    },
+    {
+        "city_country": "The Hague (Den Haag), Netherlands",
+        "LPP_index": "129.9",
+        "crime_index": "21.2",
+        "healthcare_index": "80",
+        "lat": "52.08",
+        "lon": "4.31",
+        "alpha-3": "NLD"
+    },
+    {
+        "city_country": "Cagliari, Italy",
+        "LPP_index": "62.6",
+        "crime_index": "35.9",
+        "healthcare_index": "",
+        "lat": "39.2167",
+        "lon": "9.1167",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Nottingham, United Kingdom",
+        "LPP_index": "90.3",
+        "crime_index": "50.4",
+        "healthcare_index": "",
+        "lat": "52.9533",
+        "lon": "-1.15",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Plymouth, United Kingdom",
+        "LPP_index": "69.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.3714",
+        "lon": "-4.1422",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Lille, France",
+        "LPP_index": "105.1",
+        "crime_index": "51.9",
+        "healthcare_index": "",
+        "lat": "50.6278",
+        "lon": "3.0583",
+        "alpha-3": "FRA"
+    },
+    {
+        "city_country": "Hanover, Germany",
+        "LPP_index": "105.9",
+        "crime_index": "40.9",
+        "healthcare_index": "",
+        "lat": "52.3744",
+        "lon": "9.7386",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Gothenburg, Sweden",
+        "LPP_index": "101.6",
+        "crime_index": "46.6",
+        "healthcare_index": "67.9",
+        "lat": "57.6717",
+        "lon": "11.981",
+        "alpha-3": "SWE"
+    },
+    {
+        "city_country": "Regina, Canada",
+        "LPP_index": "146.2",
+        "crime_index": "52.5",
+        "healthcare_index": "65.8",
+        "lat": "50.4547",
+        "lon": "-104.6067",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Leeds, United Kingdom",
+        "LPP_index": "100.7",
+        "crime_index": "42.8",
+        "healthcare_index": "81.8",
+        "lat": "53.7997",
+        "lon": "-1.5492",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Bari, Italy",
+        "LPP_index": "64.1",
+        "crime_index": "50.7",
+        "healthcare_index": "",
+        "lat": "41.1253",
+        "lon": "16.8667",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Vienna, Austria",
+        "LPP_index": "112.9",
+        "crime_index": "26.9",
+        "healthcare_index": "79.2",
+        "lat": "48.2083",
+        "lon": "16.3725",
+        "alpha-3": "AUT"
+    },
+    {
+        "city_country": "Belfast, United Kingdom",
+        "LPP_index": "89.2",
+        "crime_index": "45.4",
+        "healthcare_index": "70.7",
+        "lat": "54.5964",
+        "lon": "-5.93",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Verona, Italy",
+        "LPP_index": "65",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.4386",
+        "lon": "10.9928",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Derby, United Kingdom",
+        "LPP_index": "114",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.9217",
+        "lon": "-1.4769",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Edinburgh, United Kingdom",
+        "LPP_index": "96.3",
+        "crime_index": "30.9",
+        "healthcare_index": "78.8",
+        "lat": "55.953",
+        "lon": "-3.189",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Windsor, Canada",
+        "LPP_index": "108.3",
+        "crime_index": "45.5",
+        "healthcare_index": "",
+        "lat": "42.2833",
+        "lon": "-83",
+        "alpha-3": "CAN"
+    },
+    {
+        "city_country": "Turin, Italy",
+        "LPP_index": "68.1",
+        "crime_index": "52.1",
+        "healthcare_index": "67",
+        "lat": "45.0667",
+        "lon": "7.7",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Newcastle upon Tyne, United Kingdom",
+        "LPP_index": "88.1",
+        "crime_index": "38.7",
+        "healthcare_index": "",
+        "lat": "53.0109",
+        "lon": "-2.2278",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Leipzig, Germany",
+        "LPP_index": "94.5",
+        "crime_index": "41.6",
+        "healthcare_index": "",
+        "lat": "51.3333",
+        "lon": "12.3833",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Norwich, United Kingdom",
+        "LPP_index": "85.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.63",
+        "lon": "1.297",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Limassol, Cyprus",
+        "LPP_index": "52.7",
+        "crime_index": "33.2",
+        "healthcare_index": "51.4",
+        "lat": "34.675",
+        "lon": "33.0443",
+        "alpha-3": "CYP"
+    },
+    {
+        "city_country": "Knoxville, TN, United States",
+        "LPP_index": "144.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.9692",
+        "lon": "-83.9496",
+        "alpha-3": "USA"
+    },
+    {
+        "city_country": "Al Khobar, Saudi Arabia",
+        "LPP_index": "117.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "26.3",
+        "lon": "50.2167",
+        "alpha-3": "SAU"
+    },
+    {
+        "city_country": "Southampton, United Kingdom",
+        "LPP_index": "99.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.9025",
+        "lon": "-1.4042",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Essen, Germany",
+        "LPP_index": "121.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.4508",
+        "lon": "7.0131",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Nuremberg, Germany",
+        "LPP_index": "121.9",
+        "crime_index": "34.9",
+        "healthcare_index": "",
+        "lat": "49.4539",
+        "lon": "11.0775",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Athens, Greece",
+        "LPP_index": "42.4",
+        "crime_index": "55.9",
+        "healthcare_index": "56.9",
+        "lat": "37.9842",
+        "lon": "23.7281",
+        "alpha-3": "GRC"
+    },
+    {
+        "city_country": "Exeter, United Kingdom",
+        "LPP_index": "88.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.7167",
+        "lon": "-3.5333",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Sheffield, United Kingdom",
+        "LPP_index": "86.4",
+        "crime_index": "43.5",
+        "healthcare_index": "",
+        "lat": "53.3808",
+        "lon": "-1.4703",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Doha, Qatar",
+        "LPP_index": "101",
+        "crime_index": "14.5",
+        "healthcare_index": "73.8",
+        "lat": "25.3",
+        "lon": "51.5333",
+        "alpha-3": "QAT"
+    },
+    {
+        "city_country": "Tallinn, Estonia",
+        "LPP_index": "60.5",
+        "crime_index": "24.7",
+        "healthcare_index": "72.5",
+        "lat": "59.4372",
+        "lon": "24.745",
+        "alpha-3": "EST"
+    },
+    {
+        "city_country": "Aachen, Germany",
+        "LPP_index": "124.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.7762",
+        "lon": "6.0838",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Montevideo, Uruguay",
+        "LPP_index": "41.9",
+        "crime_index": "55.8",
+        "healthcare_index": "68.2",
+        "lat": "-34.8667",
+        "lon": "-56.1667",
+        "alpha-3": "URY"
+    },
+    {
+        "city_country": "Portsmouth, United Kingdom",
+        "LPP_index": "115.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.8058",
+        "lon": "-1.0872",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Cardiff, United Kingdom",
+        "LPP_index": "82.1",
+        "crime_index": "38",
+        "healthcare_index": "",
+        "lat": "56.3757",
+        "lon": "-3.8426",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Suzhou, China",
+        "LPP_index": "28.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "31.2983",
+        "lon": "120.5832",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Coventry, United Kingdom",
+        "LPP_index": "139.2",
+        "crime_index": "63.6",
+        "healthcare_index": "",
+        "lat": "52.4081",
+        "lon": "-1.5106",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Barcelona, Spain",
+        "LPP_index": "74.1",
+        "crime_index": "49.8",
+        "healthcare_index": "77.6",
+        "lat": "41.3825",
+        "lon": "2.1769",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Dresden, Germany",
+        "LPP_index": "113",
+        "crime_index": "31",
+        "healthcare_index": "",
+        "lat": "51.05",
+        "lon": "13.74",
+        "alpha-3": "DEU"
+    },
+    {
+        "city_country": "Aberdeen, United Kingdom",
+        "LPP_index": "112.5",
+        "crime_index": "33.8",
+        "healthcare_index": "",
+        "lat": "57.15",
+        "lon": "-2.11",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Birmingham, United Kingdom",
+        "LPP_index": "107.9",
+        "crime_index": "62.6",
+        "healthcare_index": "72.3",
+        "lat": "52.48",
+        "lon": "-1.9025",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Shiraz, Iran",
+        "LPP_index": "13.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "29.61",
+        "lon": "52.5425",
+        "alpha-3": "IRN"
+    },
+    {
+        "city_country": "Taipei, Taiwan (China)",
+        "LPP_index": "78.2",
+        "crime_index": "15.1",
+        "healthcare_index": "86.4",
+        "lat": "25.0478",
+        "lon": "121.5319",
+        "alpha-3": "TWN"
+    },
+    {
+        "city_country": "Naples, Italy",
+        "LPP_index": "67.2",
+        "crime_index": "61.7",
+        "healthcare_index": "",
+        "lat": "40.8333",
+        "lon": "14.25",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Kingston, Jamaica",
+        "LPP_index": "26.2",
+        "crime_index": "70.9",
+        "healthcare_index": "",
+        "lat": "17.9714",
+        "lon": "-76.7931",
+        "alpha-3": "JAM"
+    },
+    {
+        "city_country": "Dundee, United Kingdom",
+        "LPP_index": "95.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "56.462",
+        "lon": "-2.9707",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Bilbao, Spain",
+        "LPP_index": "79.6",
+        "crime_index": "53",
+        "healthcare_index": "",
+        "lat": "43.2569",
+        "lon": "-2.9236",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Ramallah, Palestine",
+        "LPP_index": "43.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "30.7258",
+        "lon": "72.6447",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Leicester, United Kingdom",
+        "LPP_index": "106.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "52.6344",
+        "lon": "-1.1319",
+        "alpha-3": "GBR"
+    },
+    {
+        "city_country": "Port of Spain, Trinidad And Tobago",
+        "LPP_index": "34.4",
+        "crime_index": "76.2",
+        "healthcare_index": "48.6",
+        "lat": "10.6667",
+        "lon": "-61.5167",
+        "alpha-3": "TTO"
+    },
+    {
+        "city_country": "New Taipei City, Taiwan (China)",
+        "LPP_index": "64.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "25.0478",
+        "lon": "121.5319",
+        "alpha-3": "TWN"
+    },
+    {
+        "city_country": "Palermo, Italy",
+        "LPP_index": "63.6",
+        "crime_index": "45.2",
+        "healthcare_index": "",
+        "lat": "38.1111",
+        "lon": "13.3517",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Abu Dhabi, United Arab Emirates",
+        "LPP_index": "114.8",
+        "crime_index": "11.2",
+        "healthcare_index": "72.1",
+        "lat": "24.4511",
+        "lon": "54.3969",
+        "alpha-3": "ARE"
+    },
+    {
+        "city_country": "Thessaloniki, Greece",
+        "LPP_index": "40.9",
+        "crime_index": "53.5",
+        "healthcare_index": "55",
+        "lat": "40.6403",
+        "lon": "22.9356",
+        "alpha-3": "GRC"
+    },
+    {
+        "city_country": "Male, Maldives",
+        "LPP_index": "34.2",
+        "crime_index": "62.6",
+        "healthcare_index": "",
+        "lat": "4.175",
+        "lon": "73.5083",
+        "alpha-3": "MDV"
+    },
+    {
+        "city_country": "Nicosia, Cyprus",
+        "LPP_index": "63.8",
+        "crime_index": "30.5",
+        "healthcare_index": "54.5",
+        "lat": "35.1725",
+        "lon": "33.365",
+        "alpha-3": "CYP"
+    },
+    {
+        "city_country": "Riga, Latvia",
+        "LPP_index": "54.3",
+        "crime_index": "38.5",
+        "healthcare_index": "61",
+        "lat": "56.9475",
+        "lon": "24.1069",
+        "alpha-3": "LVA"
+    },
+    {
+        "city_country": "Prague, Czech Republic",
+        "LPP_index": "69.9",
+        "crime_index": "24.7",
+        "healthcare_index": "74.7",
+        "lat": "50.0833",
+        "lon": "14.4167",
+        "alpha-3": "CZE"
+    },
+    {
+        "city_country": "Havana, Cuba",
+        "LPP_index": "1.6",
+        "crime_index": "32",
+        "healthcare_index": "",
+        "lat": "23.1367",
+        "lon": "-82.3589",
+        "alpha-3": "CUB"
+    },
+    {
+        "city_country": "Madrid, Spain",
+        "LPP_index": "85.7",
+        "crime_index": "30.1",
+        "healthcare_index": "80",
+        "lat": "40.4167",
+        "lon": "-3.7167",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Palma de Mallorca, Spain",
+        "LPP_index": "69",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "41.492",
+        "lon": "2.362",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Ljubljana, Slovenia",
+        "LPP_index": "62.3",
+        "crime_index": "21.8",
+        "healthcare_index": "66.3",
+        "lat": "46.05",
+        "lon": "14.5167",
+        "alpha-3": "SVN"
+    },
+    {
+        "city_country": "Riyadh, Saudi Arabia",
+        "LPP_index": "101.5",
+        "crime_index": "26.8",
+        "healthcare_index": "64.6",
+        "lat": "24.65",
+        "lon": "46.71",
+        "alpha-3": "SAU"
+    },
+    {
+        "city_country": "Heraklion, Greece",
+        "LPP_index": "38.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.3403",
+        "lon": "25.1344",
+        "alpha-3": "GRC"
+    },
+    {
+        "city_country": "Zadar, Croatia",
+        "LPP_index": "39.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "44.1167",
+        "lon": "15.2167",
+        "alpha-3": "HRV"
+    },
+    {
+        "city_country": "Catania, Italy",
+        "LPP_index": "55.8",
+        "crime_index": "63.9",
+        "healthcare_index": "",
+        "lat": "37.5027",
+        "lon": "15.0873",
+        "alpha-3": "ITA"
+    },
+    {
+        "city_country": "Larissa, Greece",
+        "LPP_index": "45.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "39.6385",
+        "lon": "22.4131",
+        "alpha-3": "GRC"
+    },
+    {
+        "city_country": "Tartu, Estonia",
+        "LPP_index": "64.1",
+        "crime_index": "21",
+        "healthcare_index": "",
+        "lat": "58.38",
+        "lon": "26.7225",
+        "alpha-3": "EST"
+    },
+    {
+        "city_country": "Jeddah (Jiddah), Saudi Arabia",
+        "LPP_index": "85.7",
+        "crime_index": "28.1",
+        "healthcare_index": "59.6",
+        "lat": "21.5428",
+        "lon": "39.1728",
+        "alpha-3": "SAU"
+    },
+    {
+        "city_country": "Dubrovnik, Croatia",
+        "LPP_index": "46.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.6403",
+        "lon": "18.1083",
+        "alpha-3": "HRV"
+    },
+    {
+        "city_country": "Vilnius, Lithuania",
+        "LPP_index": "59.5",
+        "crime_index": "27.6",
+        "healthcare_index": "74",
+        "lat": "54.6833",
+        "lon": "25.2833",
+        "alpha-3": "LTU"
+    },
+    {
+        "city_country": "Lisbon, Portugal",
+        "LPP_index": "45.4",
+        "crime_index": "29.6",
+        "healthcare_index": "72.4",
+        "lat": "38.708",
+        "lon": "-9.139",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Valencia, Spain",
+        "LPP_index": "71.3",
+        "crime_index": "31.8",
+        "healthcare_index": "79.8",
+        "lat": "39.47",
+        "lon": "-0.3764",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Pamplona, Spain",
+        "LPP_index": "120.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.8167",
+        "lon": "-1.65",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Manama, Bahrain",
+        "LPP_index": "89.5",
+        "crime_index": "",
+        "healthcare_index": "65.8",
+        "lat": "26.225",
+        "lon": "50.5775",
+        "alpha-3": "BHR"
+    },
+    {
+        "city_country": "Zagreb, Croatia",
+        "LPP_index": "56.5",
+        "crime_index": "22.4",
+        "healthcare_index": "63.5",
+        "lat": "45.8131",
+        "lon": "15.9772",
+        "alpha-3": "HRV"
+    },
+    {
+        "city_country": "Panama City, Panama",
+        "LPP_index": "36.3",
+        "crime_index": "47.7",
+        "healthcare_index": "60.1",
+        "lat": "9",
+        "lon": "-79.5",
+        "alpha-3": "PAN"
+    },
+    {
+        "city_country": "Oviedo, Spain",
+        "LPP_index": "105.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "43.36",
+        "lon": "-5.845",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Bratislava, Slovakia",
+        "LPP_index": "60.6",
+        "crime_index": "30.6",
+        "healthcare_index": "56.8",
+        "lat": "48.1447",
+        "lon": "17.1128",
+        "alpha-3": "SVK"
+    },
+    {
+        "city_country": "Alicante, Spain",
+        "LPP_index": "71.3",
+        "crime_index": "29.4",
+        "healthcare_index": "",
+        "lat": "38.3453",
+        "lon": "-0.4831",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "San Jose, Costa Rica",
+        "LPP_index": "40.9",
+        "crime_index": "55.7",
+        "healthcare_index": "62.5",
+        "lat": "9.9333",
+        "lon": "-84.0833",
+        "alpha-3": "CRI"
+    },
+    {
+        "city_country": "Muscat, Oman",
+        "LPP_index": "90",
+        "crime_index": "20.1",
+        "healthcare_index": "59.4",
+        "lat": "23.6139",
+        "lon": "58.5922",
+        "alpha-3": "OMN"
+    },
+    {
+        "city_country": "Seville (Sevilla), Spain",
+        "LPP_index": "78.8",
+        "crime_index": "32.7",
+        "healthcare_index": "",
+        "lat": "37.39",
+        "lon": "-5.99",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Granada, Spain",
+        "LPP_index": "93.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "37.1781",
+        "lon": "-3.6008",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Bangkok, Thailand",
+        "LPP_index": "29.5",
+        "crime_index": "40.5",
+        "healthcare_index": "77.1",
+        "lat": "13.75",
+        "lon": "100.5167",
+        "alpha-3": "THA"
+    },
+    {
+        "city_country": "Paphos, Cyprus",
+        "LPP_index": "58.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "34.7761",
+        "lon": "32.4265",
+        "alpha-3": "CYP"
+    },
+    {
+        "city_country": "Santo Domingo, Dominican Republic",
+        "LPP_index": "21.3",
+        "crime_index": "67.2",
+        "healthcare_index": "51.9",
+        "lat": "18.4764",
+        "lon": "-69.8933",
+        "alpha-3": "DOM"
+    },
+    {
+        "city_country": "Kaohsiung, Taiwan (China)",
+        "LPP_index": "67.5",
+        "crime_index": "",
+        "healthcare_index": "86.4",
+        "lat": "22.6167",
+        "lon": "120.3",
+        "alpha-3": "TWN"
+    },
+    {
+        "city_country": "Malaga, Spain",
+        "LPP_index": "85.7",
+        "crime_index": "27.1",
+        "healthcare_index": "71",
+        "lat": "36.7194",
+        "lon": "-4.42",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Vladivostok, Russia",
+        "LPP_index": "34.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "43.1167",
+        "lon": "131.9",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Ad Dammam, Saudi Arabia",
+        "LPP_index": "100",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "26.4333",
+        "lon": "50.1",
+        "alpha-3": "SAU"
+    },
+    {
+        "city_country": "Amman, Jordan",
+        "LPP_index": "35.6",
+        "crime_index": "38.8",
+        "healthcare_index": "65",
+        "lat": "31.95",
+        "lon": "35.9333",
+        "alpha-3": "JOR"
+    },
+    {
+        "city_country": "Brno, Czech Republic",
+        "LPP_index": "71.3",
+        "crime_index": "26.1",
+        "healthcare_index": "74.3",
+        "lat": "49.1953",
+        "lon": "16.6083",
+        "alpha-3": "CZE"
+    },
+    {
+        "city_country": "Porto, Portugal",
+        "LPP_index": "49.6",
+        "crime_index": "35.2",
+        "healthcare_index": "75.9",
+        "lat": "41.1495",
+        "lon": "-8.6108",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Kaunas, Lithuania",
+        "LPP_index": "62.4",
+        "crime_index": "38.3",
+        "healthcare_index": "74.5",
+        "lat": "54.9",
+        "lon": "23.9333",
+        "alpha-3": "LTU"
+    },
+    {
+        "city_country": "Olomouc, Czech Republic",
+        "LPP_index": "69.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "49.5939",
+        "lon": "17.2508",
+        "alpha-3": "CZE"
+    },
+    {
+        "city_country": "Phnom Penh, Cambodia",
+        "LPP_index": "14.9",
+        "crime_index": "55.4",
+        "healthcare_index": "",
+        "lat": "11.5696",
+        "lon": "104.921",
+        "alpha-3": "KHM"
+    },
+    {
+        "city_country": "Plzen, Czech Republic",
+        "LPP_index": "79.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "49.7414",
+        "lon": "13.3825",
+        "alpha-3": "CZE"
+    },
+    {
+        "city_country": "Ostrava, Czech Republic",
+        "LPP_index": "74.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "49.8356",
+        "lon": "18.2925",
+        "alpha-3": "CZE"
+    },
+    {
+        "city_country": "Shanghai, China",
+        "LPP_index": "59.7",
+        "crime_index": "30.6",
+        "healthcare_index": "63.6",
+        "lat": "31.1667",
+        "lon": "121.4667",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Maribor, Slovenia",
+        "LPP_index": "72.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "46.55",
+        "lon": "15.6333",
+        "alpha-3": "SVN"
+    },
+    {
+        "city_country": "Kuwait City, Kuwait",
+        "LPP_index": "83",
+        "crime_index": "30.4",
+        "healthcare_index": "60",
+        "lat": "29.375",
+        "lon": "47.98",
+        "alpha-3": "KWT"
+    },
+    {
+        "city_country": "Murcia, Spain",
+        "LPP_index": "63.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "37.9861",
+        "lon": "-1.1303",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Las Palmas de Gran Canaria, Spain",
+        "LPP_index": "60.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "27.9808",
+        "lon": "-15.4989",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Dakar, Senegal",
+        "LPP_index": "21.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "14.7319",
+        "lon": "-17.4572",
+        "alpha-3": "SEN"
+    },
+    {
+        "city_country": "Sharjah, United Arab Emirates",
+        "LPP_index": "41.9",
+        "crime_index": "15.9",
+        "healthcare_index": "",
+        "lat": "25.3575",
+        "lon": "55.3919",
+        "alpha-3": "ARE"
+    },
+    {
+        "city_country": "Santiago, Chile",
+        "LPP_index": "34.7",
+        "crime_index": "61.2",
+        "healthcare_index": "66",
+        "lat": "-33.45",
+        "lon": "-70.6667",
+        "alpha-3": "CHL"
+    },
+    {
+        "city_country": "Cascais, Portugal",
+        "LPP_index": "48.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "38.6969",
+        "lon": "-9.4206",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Santa Cruz de Tenerife, Spain",
+        "LPP_index": "71",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "43.4442",
+        "lon": "-3.9031",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Kosice, Slovakia",
+        "LPP_index": "52",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "48.7167",
+        "lon": "21.25",
+        "alpha-3": "SVK"
+    },
+    {
+        "city_country": "Georgetown, Guyana",
+        "LPP_index": "25.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "6.7833",
+        "lon": "-58.1667",
+        "alpha-3": "GUY"
+    },
+    {
+        "city_country": "Beijing, China",
+        "LPP_index": "63.3",
+        "crime_index": "28.4",
+        "healthcare_index": "67.9",
+        "lat": "39.904",
+        "lon": "116.4075",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Moscow, Russia",
+        "LPP_index": "58.8",
+        "crime_index": "36.8",
+        "healthcare_index": "65.5",
+        "lat": "55.7558",
+        "lon": "37.6178",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Sofia, Bulgaria",
+        "LPP_index": "57.9",
+        "crime_index": "41.9",
+        "healthcare_index": "57.4",
+        "lat": "42.6979",
+        "lon": "23.3217",
+        "alpha-3": "BGR"
+    },
+    {
+        "city_country": "Rijeka, Croatia",
+        "LPP_index": "50.8",
+        "crime_index": "25.2",
+        "healthcare_index": "64.6",
+        "lat": "45.3272",
+        "lon": "14.4411",
+        "alpha-3": "HRV"
+    },
+    {
+        "city_country": "Split, Croatia",
+        "LPP_index": "57",
+        "crime_index": "32.3",
+        "healthcare_index": "68.7",
+        "lat": "43.51",
+        "lon": "16.45",
+        "alpha-3": "HRV"
+    },
+    {
+        "city_country": "Zaragoza (Saragossa), Spain",
+        "LPP_index": "83.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "41.65",
+        "lon": "-0.8833",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Funchal, Portugal",
+        "LPP_index": "54",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.65",
+        "lon": "-16.9167",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Budapest, Hungary",
+        "LPP_index": "55.2",
+        "crime_index": "34.8",
+        "healthcare_index": "52.6",
+        "lat": "47.4983",
+        "lon": "19.0408",
+        "alpha-3": "HUN"
+    },
+    {
+        "city_country": "San Salvador, El Salvador",
+        "LPP_index": "24",
+        "crime_index": "66.2",
+        "healthcare_index": "",
+        "lat": "13.6989",
+        "lon": "-89.1914",
+        "alpha-3": "SLV"
+    },
+    {
+        "city_country": "Klaipeda, Lithuania",
+        "LPP_index": "64.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "55.7075",
+        "lon": "21.1428",
+        "alpha-3": "LTU"
+    },
+    {
+        "city_country": "Makati, Philippines",
+        "LPP_index": "20.2",
+        "crime_index": "38.8",
+        "healthcare_index": "",
+        "lat": "11.712",
+        "lon": "122.2922",
+        "alpha-3": "PHL"
+    },
+    {
+        "city_country": "Saint Petersburg, Russia",
+        "LPP_index": "46",
+        "crime_index": "39.7",
+        "healthcare_index": "59.8",
+        "lat": "59.95",
+        "lon": "30.3167",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Vigo, Spain",
+        "LPP_index": "76.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.2314",
+        "lon": "-8.7124",
+        "alpha-3": "ESP"
+    },
+    {
+        "city_country": "Addis Ababa, Ethiopia",
+        "LPP_index": "10.4",
+        "crime_index": "49.3",
+        "healthcare_index": "",
+        "lat": "9.0272",
+        "lon": "38.7369",
+        "alpha-3": "ETH"
+    },
+    {
+        "city_country": "Shenzhen, China",
+        "LPP_index": "80.9",
+        "crime_index": "28.9",
+        "healthcare_index": "",
+        "lat": "22.535",
+        "lon": "114.054",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Warsaw, Poland",
+        "LPP_index": "62.6",
+        "crime_index": "26.1",
+        "healthcare_index": "59.8",
+        "lat": "52.23",
+        "lon": "21.0111",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Coimbra, Portugal",
+        "LPP_index": "51.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "40.2111",
+        "lon": "-8.4289",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Guatemala City, Guatemala",
+        "LPP_index": "24.3",
+        "crime_index": "63.8",
+        "healthcare_index": "64.1",
+        "lat": "14.6099",
+        "lon": "-90.5252",
+        "alpha-3": "GTM"
+    },
+    {
+        "city_country": "Bucharest, Romania",
+        "LPP_index": "55.5",
+        "crime_index": "28.2",
+        "healthcare_index": "54.8",
+        "lat": "44.4",
+        "lon": "26.0833",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Abidjan, Ivory Coast",
+        "LPP_index": "7.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "5.3364",
+        "lon": "-4.0267",
+        "alpha-3": "CIV"
+    },
+    {
+        "city_country": "Braga, Portugal",
+        "LPP_index": "56.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "41.5503",
+        "lon": "-8.42",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Aveiro, Portugal",
+        "LPP_index": "48",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "40.6389",
+        "lon": "-8.6553",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Leiria, Portugal",
+        "LPP_index": "81.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "39.7431",
+        "lon": "-8.8069",
+        "alpha-3": "PRT"
+    },
+    {
+        "city_country": "Caracas, Venezuela",
+        "LPP_index": "11",
+        "crime_index": "83.6",
+        "healthcare_index": "38.7",
+        "lat": "10.5",
+        "lon": "-66.9333",
+        "alpha-3": "VEN"
+    },
+    {
+        "city_country": "Belgrade, Serbia",
+        "LPP_index": "37.7",
+        "crime_index": "37.9",
+        "healthcare_index": "53.5",
+        "lat": "44.8167",
+        "lon": "20.4667",
+        "alpha-3": "SRB"
+    },
+    {
+        "city_country": "Monterrey, Mexico",
+        "LPP_index": "55.5",
+        "crime_index": "48.3",
+        "healthcare_index": "68.8",
+        "lat": "25.6667",
+        "lon": "-100.3",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Yekaterinburg, Russia",
+        "LPP_index": "59",
+        "crime_index": "46.4",
+        "healthcare_index": "51.1",
+        "lat": "56.8356",
+        "lon": "60.6128",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Phuket, Thailand",
+        "LPP_index": "27.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "7.8881",
+        "lon": "98.3975",
+        "alpha-3": "THA"
+    },
+    {
+        "city_country": "Yerevan, Armenia",
+        "LPP_index": "26.1",
+        "crime_index": "21.9",
+        "healthcare_index": "55.6",
+        "lat": "40.1814",
+        "lon": "44.5144",
+        "alpha-3": "ARM"
+    },
+    {
+        "city_country": "Budva, Montenegro",
+        "LPP_index": "30.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.2847",
+        "lon": "18.8453",
+        "alpha-3": "MNE"
+    },
+    {
+        "city_country": "Osijek, Croatia",
+        "LPP_index": "54.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.5603",
+        "lon": "18.6703",
+        "alpha-3": "HRV"
+    },
+    {
+        "city_country": "Tbilisi, Georgia",
+        "LPP_index": "24.7",
+        "crime_index": "25.9",
+        "healthcare_index": "54.3",
+        "lat": "41.7225",
+        "lon": "44.7925",
+        "alpha-3": "GEO"
+    },
+    {
+        "city_country": "Cluj-Napoca, Romania",
+        "LPP_index": "53.5",
+        "crime_index": "22.5",
+        "healthcare_index": "64.5",
+        "lat": "46.78",
+        "lon": "23.5594",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Tijuana, Mexico",
+        "LPP_index": "45.7",
+        "crime_index": "71.4",
+        "healthcare_index": "",
+        "lat": "32.525",
+        "lon": "-117.0333",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Harare, Zimbabwe",
+        "LPP_index": "16.9",
+        "crime_index": "60.6",
+        "healthcare_index": "",
+        "lat": "-17.8292",
+        "lon": "31.0522",
+        "alpha-3": "ZWE"
+    },
+    {
+        "city_country": "Sao Paulo, Brazil",
+        "LPP_index": "26.1",
+        "crime_index": "70.5",
+        "healthcare_index": "58.7",
+        "lat": "-23.5504",
+        "lon": "-46.6339",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Hangzhou, China",
+        "LPP_index": "61.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "30.25",
+        "lon": "120.1675",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Krakow (Cracow), Poland",
+        "LPP_index": "68.8",
+        "crime_index": "25.8",
+        "healthcare_index": "57.5",
+        "lat": "50.0614",
+        "lon": "19.9372",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Wroclaw, Poland",
+        "LPP_index": "60.3",
+        "crime_index": "26.3",
+        "healthcare_index": "56.7",
+        "lat": "51.11",
+        "lon": "17.0325",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Novosibirsk, Russia",
+        "LPP_index": "36",
+        "crime_index": "47.7",
+        "healthcare_index": "56.9",
+        "lat": "55.0333",
+        "lon": "82.9167",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Tirana, Albania",
+        "LPP_index": "30.1",
+        "crime_index": "42.3",
+        "healthcare_index": "48",
+        "lat": "41.33",
+        "lon": "19.82",
+        "alpha-3": "ALB"
+    },
+    {
+        "city_country": "Constanta, Romania",
+        "LPP_index": "40.8",
+        "crime_index": "46.2",
+        "healthcare_index": "",
+        "lat": "44.1733",
+        "lon": "28.6383",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Mexico City, Mexico",
+        "LPP_index": "38.1",
+        "crime_index": "68.5",
+        "healthcare_index": "65.4",
+        "lat": "19.4333",
+        "lon": "-99.1333",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Quezon City, Philippines",
+        "LPP_index": "20.2",
+        "crime_index": "63.2",
+        "healthcare_index": "",
+        "lat": "14.6333",
+        "lon": "121.0333",
+        "alpha-3": "PHL"
+    },
+    {
+        "city_country": "Gdynia, Poland",
+        "LPP_index": "56.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "54.5189",
+        "lon": "18.5319",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Johannesburg, South Africa",
+        "LPP_index": "94.5",
+        "crime_index": "80.7",
+        "healthcare_index": "60.6",
+        "lat": "-26.2044",
+        "lon": "28.0416",
+        "alpha-3": "ZAF"
+    },
+    {
+        "city_country": "Varna, Bulgaria",
+        "LPP_index": "50.6",
+        "crime_index": "36.7",
+        "healthcare_index": "62.2",
+        "lat": "43.2114",
+        "lon": "27.9111",
+        "alpha-3": "BGR"
+    },
+    {
+        "city_country": "Kazan, Russia",
+        "LPP_index": "37",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "55.7908",
+        "lon": "49.1144",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Kuching, Malaysia",
+        "LPP_index": "28.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "1.5397",
+        "lon": "110.3542",
+        "alpha-3": "MYS"
+    },
+    {
+        "city_country": "Krasnodar, Russia",
+        "LPP_index": "37.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.0333",
+        "lon": "38.9833",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Cancun, Mexico",
+        "LPP_index": "39.7",
+        "crime_index": "56.9",
+        "healthcare_index": "",
+        "lat": "21.1606",
+        "lon": "-86.8475",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Gdansk, Poland",
+        "LPP_index": "66.7",
+        "crime_index": "30.5",
+        "healthcare_index": "50.2",
+        "lat": "54.3667",
+        "lon": "18.6333",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Puebla, Mexico",
+        "LPP_index": "35.3",
+        "crime_index": "59.7",
+        "healthcare_index": "",
+        "lat": "19.0333",
+        "lon": "-98.1833",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Katowice, Poland",
+        "LPP_index": "67.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "50.25",
+        "lon": "19",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Pattaya, Thailand",
+        "LPP_index": "26.1",
+        "crime_index": "45.5",
+        "healthcare_index": "75.3",
+        "lat": "12.9496",
+        "lon": "100.893",
+        "alpha-3": "THA"
+    },
+    {
+        "city_country": "Szeged, Hungary",
+        "LPP_index": "52",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "46.25",
+        "lon": "20.1667",
+        "alpha-3": "HUN"
+    },
+    {
+        "city_country": "Chengdu, China",
+        "LPP_index": "53.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "30.66",
+        "lon": "104.0633",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Brasov, Romania",
+        "LPP_index": "48.4",
+        "crime_index": "26.9",
+        "healthcare_index": "",
+        "lat": "45.65",
+        "lon": "25.6",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Lagos, Nigeria",
+        "LPP_index": "7.6",
+        "crime_index": "67.5",
+        "healthcare_index": "46.3",
+        "lat": "6.45",
+        "lon": "3.4",
+        "alpha-3": "NGA"
+    },
+    {
+        "city_country": "Merida, Mexico",
+        "LPP_index": "34.5",
+        "crime_index": "26.1",
+        "healthcare_index": "",
+        "lat": "20.97",
+        "lon": "-89.62",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Kuala Lumpur, Malaysia",
+        "LPP_index": "84.6",
+        "crime_index": "63",
+        "healthcare_index": "68.1",
+        "lat": "3.1478",
+        "lon": "101.6953",
+        "alpha-3": "MYS"
+    },
+    {
+        "city_country": "Kaliningrad, Russia",
+        "LPP_index": "37.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "54.7167",
+        "lon": "20.5",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Voronezh, Russia",
+        "LPP_index": "41.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.6717",
+        "lon": "39.2106",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Sarajevo, Bosnia And Herzegovina",
+        "LPP_index": "53.4",
+        "crime_index": "45.9",
+        "healthcare_index": "58.4",
+        "lat": "43.8563",
+        "lon": "18.4132",
+        "alpha-3": "BIH"
+    },
+    {
+        "city_country": "Bialystok, Poland",
+        "LPP_index": "55.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "53.1167",
+        "lon": "23.1667",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Guangzhou, China",
+        "LPP_index": "74.7",
+        "crime_index": "32.3",
+        "healthcare_index": "66.7",
+        "lat": "23.1288",
+        "lon": "113.259",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Plovdiv, Bulgaria",
+        "LPP_index": "50",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.1421",
+        "lon": "24.7415",
+        "alpha-3": "BGR"
+    },
+    {
+        "city_country": "Szczecin, Poland",
+        "LPP_index": "61.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "53.4247",
+        "lon": "14.5553",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Samara, Russia",
+        "LPP_index": "37.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "53.1833",
+        "lon": "50.1167",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Guayaquil, Ecuador",
+        "LPP_index": "40.5",
+        "crime_index": "71.6",
+        "healthcare_index": "",
+        "lat": "-2.19",
+        "lon": "-79.8875",
+        "alpha-3": "ECU"
+    },
+    {
+        "city_country": "Cuenca, Ecuador",
+        "LPP_index": "31.7",
+        "crime_index": "44.6",
+        "healthcare_index": "82.1",
+        "lat": "-2.8974",
+        "lon": "-79.0045",
+        "alpha-3": "ECU"
+    },
+    {
+        "city_country": "Podgorica, Montenegro",
+        "LPP_index": "45.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.4397",
+        "lon": "19.2661",
+        "alpha-3": "MNE"
+    },
+    {
+        "city_country": "Rio de Janeiro, Brazil",
+        "LPP_index": "23.2",
+        "crime_index": "77.6",
+        "healthcare_index": "45",
+        "lat": "-22.9083",
+        "lon": "-43.1964",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Nizhny Novgorod, Russia",
+        "LPP_index": "41.3",
+        "crime_index": "28.7",
+        "healthcare_index": "75.7",
+        "lat": "56.3269",
+        "lon": "44.0075",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Manila, Philippines",
+        "LPP_index": "24.8",
+        "crime_index": "65.4",
+        "healthcare_index": "63.7",
+        "lat": "14.6",
+        "lon": "120.9833",
+        "alpha-3": "PHL"
+    },
+    {
+        "city_country": "Poznan, Poland",
+        "LPP_index": "62.7",
+        "crime_index": "28.2",
+        "healthcare_index": "54.5",
+        "lat": "52.4083",
+        "lon": "16.9336",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Chiang Mai, Thailand",
+        "LPP_index": "32.2",
+        "crime_index": "24.5",
+        "healthcare_index": "84.1",
+        "lat": "18.7889",
+        "lon": "98.9833",
+        "alpha-3": "THA"
+    },
+    {
+        "city_country": "Brasilia, Brazil",
+        "LPP_index": "41.4",
+        "crime_index": "59.9",
+        "healthcare_index": "51.4",
+        "lat": "-15.7939",
+        "lon": "-47.8828",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Pretoria, South Africa",
+        "LPP_index": "92.9",
+        "crime_index": "82",
+        "healthcare_index": "66.1",
+        "lat": "-25.7464",
+        "lon": "28.1881",
+        "alpha-3": "ZAF"
+    },
+    {
+        "city_country": "Queretaro (Santiago de Quer\u00c3\u00a9taro), Mexico",
+        "LPP_index": "54.4",
+        "crime_index": "37.6",
+        "healthcare_index": "",
+        "lat": "17.0321",
+        "lon": "-97.9293",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Gaborone, Botswana",
+        "LPP_index": "51.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-24.6569",
+        "lon": "25.9086",
+        "alpha-3": "BWA"
+    },
+    {
+        "city_country": "Guadalajara, Mexico",
+        "LPP_index": "47.7",
+        "crime_index": "62.7",
+        "healthcare_index": "79.7",
+        "lat": "20.6767",
+        "lon": "-103.3475",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Burgas, Bulgaria",
+        "LPP_index": "51",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.503",
+        "lon": "27.4702",
+        "alpha-3": "BGR"
+    },
+    {
+        "city_country": "Oradea, Romania",
+        "LPP_index": "39.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.0722",
+        "lon": "21.9211",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Ufa, Russia",
+        "LPP_index": "39.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "54.7261",
+        "lon": "55.9475",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Ho Chi Minh City, Vietnam",
+        "LPP_index": "30.1",
+        "crime_index": "52.5",
+        "healthcare_index": "59.9",
+        "lat": "10.8167",
+        "lon": "106.6333",
+        "alpha-3": "VNM"
+    },
+    {
+        "city_country": "Novi Sad, Serbia",
+        "LPP_index": "42",
+        "crime_index": "40.9",
+        "healthcare_index": "50.8",
+        "lat": "45.2644",
+        "lon": "19.8317",
+        "alpha-3": "SRB"
+    },
+    {
+        "city_country": "Perm, Russia",
+        "LPP_index": "38.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "58.0139",
+        "lon": "56.2489",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Cape Town, South Africa",
+        "LPP_index": "75.2",
+        "crime_index": "73.6",
+        "healthcare_index": "68.6",
+        "lat": "-33.925",
+        "lon": "18.425",
+        "alpha-3": "ZAF"
+    },
+    {
+        "city_country": "Minsk, Belarus",
+        "LPP_index": "37.6",
+        "crime_index": "57.7",
+        "healthcare_index": "48",
+        "lat": "53.9022",
+        "lon": "27.5618",
+        "alpha-3": "BLR"
+    },
+    {
+        "city_country": "Puerto Vallarta, Mexico",
+        "LPP_index": "25",
+        "crime_index": "35.1",
+        "healthcare_index": "",
+        "lat": "20.6458",
+        "lon": "-105.2222",
+        "alpha-3": "MEX"
+    },
+    {
+        "city_country": "Khartoum, Sudan",
+        "LPP_index": "10",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "15.6031",
+        "lon": "32.5265",
+        "alpha-3": "SDN"
+    },
+    {
+        "city_country": "Durban, South Africa",
+        "LPP_index": "77.1",
+        "crime_index": "81",
+        "healthcare_index": "58.4",
+        "lat": "-29.8583",
+        "lon": "31.025",
+        "alpha-3": "ZAF"
+    },
+    {
+        "city_country": "Lodz, Poland",
+        "LPP_index": "62.1",
+        "crime_index": "41.1",
+        "healthcare_index": "",
+        "lat": "51.7769",
+        "lon": "19.4547",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Skopje, North Macedonia",
+        "LPP_index": "36.7",
+        "crime_index": "46.9",
+        "healthcare_index": "54.8",
+        "lat": "41.9833",
+        "lon": "21.4333",
+        "alpha-3": "MKD"
+    },
+    {
+        "city_country": "Penang, Malaysia",
+        "LPP_index": "64.8",
+        "crime_index": "33.5",
+        "healthcare_index": "",
+        "lat": "5.4141",
+        "lon": "100.3288",
+        "alpha-3": "MYS"
+    },
+    {
+        "city_country": "Yangon, Myanmar",
+        "LPP_index": "28.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "16.795",
+        "lon": "96.16",
+        "alpha-3": "MMR"
+    },
+    {
+        "city_country": "Timisoara, Romania",
+        "LPP_index": "56.4",
+        "crime_index": "24.4",
+        "healthcare_index": "71.9",
+        "lat": "45.7597",
+        "lon": "21.23",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Banja Luka, Bosnia And Herzegovina",
+        "LPP_index": "43.3",
+        "crime_index": "34.4",
+        "healthcare_index": "48.4",
+        "lat": "44.7667",
+        "lon": "17.1833",
+        "alpha-3": "BIH"
+    },
+    {
+        "city_country": "Iasi, Romania",
+        "LPP_index": "51.2",
+        "crime_index": "30.7",
+        "healthcare_index": "56.3",
+        "lat": "47.1622",
+        "lon": "27.5889",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Rostov-na-donu, Russia",
+        "LPP_index": "35.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.2333",
+        "lon": "39.7167",
+        "alpha-3": "RUS"
+    },
+    {
+        "city_country": "Cebu, Philippines",
+        "LPP_index": "18.8",
+        "crime_index": "51.9",
+        "healthcare_index": "",
+        "lat": "10.85",
+        "lon": "121.0167",
+        "alpha-3": "PHL"
+    },
+    {
+        "city_country": "Hanoi, Vietnam",
+        "LPP_index": "37.5",
+        "crime_index": "37.6",
+        "healthcare_index": "57.6",
+        "lat": "21.0245",
+        "lon": "105.8412",
+        "alpha-3": "VNM"
+    },
+    {
+        "city_country": "Campinas, Brazil",
+        "LPP_index": "42.5",
+        "crime_index": "66.8",
+        "healthcare_index": "61.3",
+        "lat": "-22.9009",
+        "lon": "-47.0573",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Florianopolis, Brazil",
+        "LPP_index": "28.5",
+        "crime_index": "50.2",
+        "healthcare_index": "59.9",
+        "lat": "-27.5933",
+        "lon": "-48.553",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Suva, Fiji",
+        "LPP_index": "89.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-18.1333",
+        "lon": "178.4333",
+        "alpha-3": "FJI"
+    },
+    {
+        "city_country": "Quito, Ecuador",
+        "LPP_index": "33.8",
+        "crime_index": "61.5",
+        "healthcare_index": "71.7",
+        "lat": "-0.22",
+        "lon": "-78.5125",
+        "alpha-3": "ECU"
+    },
+    {
+        "city_country": "Bursa, Turkey",
+        "LPP_index": "26.2",
+        "crime_index": "29.1",
+        "healthcare_index": "79.4",
+        "lat": "40.1833",
+        "lon": "29.0667",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Nanjing, China",
+        "LPP_index": "72",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.05",
+        "lon": "118.7667",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Petaling Jaya, Malaysia",
+        "LPP_index": "64.5",
+        "crime_index": "50.4",
+        "healthcare_index": "",
+        "lat": "3.1073",
+        "lon": "101.6067",
+        "alpha-3": "MYS"
+    },
+    {
+        "city_country": "Lima, Peru",
+        "LPP_index": "33",
+        "crime_index": "70.9",
+        "healthcare_index": "58",
+        "lat": "-12.06",
+        "lon": "-77.0375",
+        "alpha-3": "PER"
+    },
+    {
+        "city_country": "Debrecen, Hungary",
+        "LPP_index": "53.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "47.53",
+        "lon": "21.6392",
+        "alpha-3": "HUN"
+    },
+    {
+        "city_country": "Tuzla, Bosnia And Herzegovina",
+        "LPP_index": "41.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "44.5381",
+        "lon": "18.6761",
+        "alpha-3": "BIH"
+    },
+    {
+        "city_country": "Lublin, Poland",
+        "LPP_index": "60.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "51.2333",
+        "lon": "22.5667",
+        "alpha-3": "POL"
+    },
+    {
+        "city_country": "Craiova, Romania",
+        "LPP_index": "50",
+        "crime_index": "49.6",
+        "healthcare_index": "",
+        "lat": "44.3333",
+        "lon": "23.8167",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Jakarta, Indonesia",
+        "LPP_index": "33",
+        "crime_index": "52.7",
+        "healthcare_index": "56.6",
+        "lat": "-6.2146",
+        "lon": "106.8451",
+        "alpha-3": "IDN"
+    },
+    {
+        "city_country": "Erbil (Irbil), Iraq",
+        "LPP_index": "46.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "36.1911",
+        "lon": "44.0094",
+        "alpha-3": "IRQ"
+    },
+    {
+        "city_country": "La Paz, Bolivia",
+        "LPP_index": "38",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-16.4942",
+        "lon": "-68.1475",
+        "alpha-3": "BOL"
+    },
+    {
+        "city_country": "Batumi, Ajara, Georgia",
+        "LPP_index": "29.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "41.6458",
+        "lon": "41.6417",
+        "alpha-3": "GEO"
+    },
+    {
+        "city_country": "Sibiu, Romania",
+        "LPP_index": "48.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "45.8",
+        "lon": "24.15",
+        "alpha-3": "ROU"
+    },
+    {
+        "city_country": "Nairobi, Kenya",
+        "LPP_index": "32.5",
+        "crime_index": "59.3",
+        "healthcare_index": "62.3",
+        "lat": "-1.2864",
+        "lon": "36.8172",
+        "alpha-3": "KEN"
+    },
+    {
+        "city_country": "Istanbul, Turkey",
+        "LPP_index": "28.5",
+        "crime_index": "47.5",
+        "healthcare_index": "69.5",
+        "lat": "41.01",
+        "lon": "28.9603",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Belo Horizonte, Brazil",
+        "LPP_index": "24.1",
+        "crime_index": "63.7",
+        "healthcare_index": "63.9",
+        "lat": "-19.9281",
+        "lon": "-43.9419",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Sao Jose dos Campos, Brazil",
+        "LPP_index": "33.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-23.1789",
+        "lon": "-45.8869",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Windhoek, Namibia",
+        "LPP_index": "41",
+        "crime_index": "68.6",
+        "healthcare_index": "",
+        "lat": "-22.57",
+        "lon": "17.0836",
+        "alpha-3": "NAM"
+    },
+    {
+        "city_country": "Curitiba, Brazil",
+        "LPP_index": "37.6",
+        "crime_index": "62.5",
+        "healthcare_index": "66.8",
+        "lat": "-25.4297",
+        "lon": "-49.2719",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Porto Alegre, Brazil",
+        "LPP_index": "29.5",
+        "crime_index": "72.4",
+        "healthcare_index": "63.3",
+        "lat": "-30.0328",
+        "lon": "-51.23",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Chisinau, Moldova",
+        "LPP_index": "35.1",
+        "crime_index": "43.9",
+        "healthcare_index": "51",
+        "lat": "47.0228",
+        "lon": "28.8353",
+        "alpha-3": "MDA"
+    },
+    {
+        "city_country": "Recife, Brazil",
+        "LPP_index": "35.1",
+        "crime_index": "76.4",
+        "healthcare_index": "62.7",
+        "lat": "-8.0539",
+        "lon": "-34.8808",
+        "alpha-3": "BRA"
+    },
+    {
+        "city_country": "Marrakech, Morocco",
+        "LPP_index": "27.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "31.6295",
+        "lon": "-7.9811",
+        "alpha-3": "MAR"
+    },
+    {
+        "city_country": "Tehran, Iran",
+        "LPP_index": "18.9",
+        "crime_index": "55.9",
+        "healthcare_index": "52.6",
+        "lat": "35.7",
+        "lon": "51.4167",
+        "alpha-3": "IRN"
+    },
+    {
+        "city_country": "Nis, Serbia",
+        "LPP_index": "43.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "43.3192",
+        "lon": "21.8961",
+        "alpha-3": "SRB"
+    },
+    {
+        "city_country": "Santa Cruz, Bolivia",
+        "LPP_index": "34.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-17.7892",
+        "lon": "-63.1975",
+        "alpha-3": "BOL"
+    },
+    {
+        "city_country": "Casablanca, Morocco",
+        "LPP_index": "34.9",
+        "crime_index": "54.6",
+        "healthcare_index": "44.8",
+        "lat": "33.5992",
+        "lon": "-7.62",
+        "alpha-3": "MAR"
+    },
+    {
+        "city_country": "Baghdad, Iraq",
+        "LPP_index": "38.1",
+        "crime_index": "58.9",
+        "healthcare_index": "33.5",
+        "lat": "33.35",
+        "lon": "44.4167",
+        "alpha-3": "IRQ"
+    },
+    {
+        "city_country": "Kampala, Uganda",
+        "LPP_index": "12.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "0.3136",
+        "lon": "32.5811",
+        "alpha-3": "UGA"
+    },
+    {
+        "city_country": "Ulaanbaatar, Mongolia",
+        "LPP_index": "24.7",
+        "crime_index": "54.6",
+        "healthcare_index": "",
+        "lat": "47.9214",
+        "lon": "106.9055",
+        "alpha-3": "MNG"
+    },
+    {
+        "city_country": "Qingdao, Shandong, China",
+        "LPP_index": "75.9",
+        "crime_index": "",
+        "healthcare_index": "77.5",
+        "lat": "36.1167",
+        "lon": "120.4",
+        "alpha-3": "CHN"
+    },
+    {
+        "city_country": "Isfahan (Esfahan), Iran",
+        "LPP_index": "18.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "32.6447",
+        "lon": "51.6675",
+        "alpha-3": "IRN"
+    },
+    {
+        "city_country": "Rabat, Morocco",
+        "LPP_index": "32.3",
+        "crime_index": "35.4",
+        "healthcare_index": "",
+        "lat": "34.0253",
+        "lon": "-6.8361",
+        "alpha-3": "MAR"
+    },
+    {
+        "city_country": "Buenos Aires, Argentina",
+        "LPP_index": "33.4",
+        "crime_index": "63.3",
+        "healthcare_index": "69",
+        "lat": "-34.5997",
+        "lon": "-58.3819",
+        "alpha-3": "ARG"
+    },
+    {
+        "city_country": "Algiers, Algeria",
+        "LPP_index": "24.6",
+        "crime_index": "52.6",
+        "healthcare_index": "56.1",
+        "lat": "36.7764",
+        "lon": "3.0586",
+        "alpha-3": "DZA"
+    },
+    {
+        "city_country": "Bandung, Indonesia",
+        "LPP_index": "25.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-6.95",
+        "lon": "107.5667",
+        "alpha-3": "IDN"
+    },
+    {
+        "city_country": "Dar es Salaam, Tanzania",
+        "LPP_index": "20.1",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-6.8",
+        "lon": "39.2833",
+        "alpha-3": "TZA"
+    },
+    {
+        "city_country": "Baku, Azerbaijan",
+        "LPP_index": "34.4",
+        "crime_index": "30.5",
+        "healthcare_index": "46.6",
+        "lat": "40.3667",
+        "lon": "49.8352",
+        "alpha-3": "AZE"
+    },
+    {
+        "city_country": "Almaty, Kazakhstan",
+        "LPP_index": "35.7",
+        "crime_index": "63.3",
+        "healthcare_index": "47.7",
+        "lat": "43.25",
+        "lon": "76.9",
+        "alpha-3": "KAZ"
+    },
+    {
+        "city_country": "Kiev (Kyiv), Ukraine",
+        "LPP_index": "38.9",
+        "crime_index": "45.2",
+        "healthcare_index": "57.6",
+        "lat": "50.45",
+        "lon": "30.5236",
+        "alpha-3": "UKR"
+    },
+    {
+        "city_country": "Tunis, Tunisia",
+        "LPP_index": "23.8",
+        "crime_index": "47.8",
+        "healthcare_index": "55.6",
+        "lat": "36.8008",
+        "lon": "10.18",
+        "alpha-3": "TUN"
+    },
+    {
+        "city_country": "Kigali, Rwanda",
+        "LPP_index": "30",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-1.9536",
+        "lon": "30.0606",
+        "alpha-3": "RWA"
+    },
+    {
+        "city_country": "Surabaya, Indonesia",
+        "LPP_index": "29.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "-7.2458",
+        "lon": "112.7378",
+        "alpha-3": "IDN"
+    },
+    {
+        "city_country": "Pristina, Kosovo (Disputed Territory)",
+        "LPP_index": "39.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.6633",
+        "lon": "21.1622",
+        "alpha-3": "XKS"
+    },
+    {
+        "city_country": "Damascus, Syria",
+        "LPP_index": "4.5",
+        "crime_index": "70",
+        "healthcare_index": "",
+        "lat": "33.5131",
+        "lon": "36.2919",
+        "alpha-3": "SYR"
+    },
+    {
+        "city_country": "Asuncion, Paraguay",
+        "LPP_index": "29",
+        "crime_index": "51.6",
+        "healthcare_index": "64.4",
+        "lat": "-25.3",
+        "lon": "-57.6333",
+        "alpha-3": "PRY"
+    },
+    {
+        "city_country": "Dhaka, Bangladesh",
+        "LPP_index": "25.9",
+        "crime_index": "63.2",
+        "healthcare_index": "40.1",
+        "lat": "23.7289",
+        "lon": "90.3944",
+        "alpha-3": "BGD"
+    },
+    {
+        "city_country": "Astana (Nur-Sultan), Kazakhstan",
+        "LPP_index": "47.3",
+        "crime_index": "33.9",
+        "healthcare_index": "67.3",
+        "lat": "51.1333",
+        "lon": "71.4333",
+        "alpha-3": "KAZ"
+    },
+    {
+        "city_country": "Antalya, Turkey",
+        "LPP_index": "24.5",
+        "crime_index": "27.1",
+        "healthcare_index": "75.9",
+        "lat": "36.9081",
+        "lon": "30.6956",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Izmir, Turkey",
+        "LPP_index": "28.6",
+        "crime_index": "31.4",
+        "healthcare_index": "72.7",
+        "lat": "38.4127",
+        "lon": "27.1384",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Tashkent, Uzbekistan",
+        "LPP_index": "25.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "41.3",
+        "lon": "69.2667",
+        "alpha-3": "UZB"
+    },
+    {
+        "city_country": "Agadir, Morocco",
+        "LPP_index": "33.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "30.4167",
+        "lon": "-9.5833",
+        "alpha-3": "MAR"
+    },
+    {
+        "city_country": "Tangier, Morocco",
+        "LPP_index": "35.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "35.7767",
+        "lon": "-5.8039",
+        "alpha-3": "MAR"
+    },
+    {
+        "city_country": "Ankara, Turkey",
+        "LPP_index": "34.4",
+        "crime_index": "39.5",
+        "healthcare_index": "68.8",
+        "lat": "39.93",
+        "lon": "32.85",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Accra, Ghana",
+        "LPP_index": "19.1",
+        "crime_index": "",
+        "healthcare_index": "57",
+        "lat": "5.6037",
+        "lon": "-0.187",
+        "alpha-3": "GHA"
+    },
+    {
+        "city_country": "Mersin, Turkey",
+        "LPP_index": "27.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "36.8",
+        "lon": "34.6167",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Mashhad, Iran",
+        "LPP_index": "24.4",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "36.3069",
+        "lon": "59.6042",
+        "alpha-3": "IRN"
+    },
+    {
+        "city_country": "Colombo, Sri Lanka",
+        "LPP_index": "15.6",
+        "crime_index": "41.6",
+        "healthcare_index": "71.9",
+        "lat": "6.9167",
+        "lon": "79.8333",
+        "alpha-3": "LKA"
+    },
+    {
+        "city_country": "Eskisehir, Turkey",
+        "LPP_index": "29.8",
+        "crime_index": "18.1",
+        "healthcare_index": "",
+        "lat": "39.7767",
+        "lon": "30.5206",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Gurgaon, India",
+        "LPP_index": "78.9",
+        "crime_index": "54.3",
+        "healthcare_index": "64.5",
+        "lat": "28.45",
+        "lon": "77.02",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Kocaeli, Turkey",
+        "LPP_index": "39.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "40.7656",
+        "lon": "29.9406",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Kathmandu, Nepal",
+        "LPP_index": "20",
+        "crime_index": "37",
+        "healthcare_index": "55.8",
+        "lat": "27.7167",
+        "lon": "85.3667",
+        "alpha-3": "NPL"
+    },
+    {
+        "city_country": "Dnipro, Ukraine",
+        "LPP_index": "35.2",
+        "crime_index": "52.7",
+        "healthcare_index": "53.2",
+        "lat": "48.4675",
+        "lon": "35.04",
+        "alpha-3": "UKR"
+    },
+    {
+        "city_country": "Tripoli, Libya",
+        "LPP_index": "29.4",
+        "crime_index": "62.5",
+        "healthcare_index": "",
+        "lat": "32.8752",
+        "lon": "13.1875",
+        "alpha-3": "LBY"
+    },
+    {
+        "city_country": "Bishkek, Kyrgyzstan",
+        "LPP_index": "24.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "42.8667",
+        "lon": "74.5667",
+        "alpha-3": "KGZ"
+    },
+    {
+        "city_country": "Odessa (Odesa), Ukraine",
+        "LPP_index": "32.9",
+        "crime_index": "53.1",
+        "healthcare_index": "50.4",
+        "lat": "46.4775",
+        "lon": "30.7326",
+        "alpha-3": "UKR"
+    },
+    {
+        "city_country": "Noida, India",
+        "LPP_index": "75.1",
+        "crime_index": "55.3",
+        "healthcare_index": "",
+        "lat": "17.77",
+        "lon": "77.14",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Lviv, Ukraine",
+        "LPP_index": "42.1",
+        "crime_index": "39",
+        "healthcare_index": "61",
+        "lat": "49.8419",
+        "lon": "24.0315",
+        "alpha-3": "UKR"
+    },
+    {
+        "city_country": "Chittagong, Bangladesh",
+        "LPP_index": "27.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "22.335",
+        "lon": "91.8325",
+        "alpha-3": "BGD"
+    },
+    {
+        "city_country": "Mumbai, India",
+        "LPP_index": "46.6",
+        "crime_index": "45",
+        "healthcare_index": "65.2",
+        "lat": "19.0758",
+        "lon": "72.8775",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Bangalore, India",
+        "LPP_index": "96",
+        "crime_index": "54.6",
+        "healthcare_index": "66.1",
+        "lat": "12.9791",
+        "lon": "77.5913",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Navi Mumbai, India",
+        "LPP_index": "91.9",
+        "crime_index": "36.9",
+        "healthcare_index": "",
+        "lat": "19.0758",
+        "lon": "72.8775",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Hyderabad, India",
+        "LPP_index": "56.4",
+        "crime_index": "43.2",
+        "healthcare_index": "64.9",
+        "lat": "17.3617",
+        "lon": "78.4747",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Delhi, India",
+        "LPP_index": "60.8",
+        "crime_index": "59.2",
+        "healthcare_index": "65.7",
+        "lat": "28.6667",
+        "lon": "77.2167",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Medellin, Colombia",
+        "LPP_index": "34.4",
+        "crime_index": "55.2",
+        "healthcare_index": "78.6",
+        "lat": "6.2447",
+        "lon": "-75.5748",
+        "alpha-3": "COL"
+    },
+    {
+        "city_country": "Cartagena, Colombia",
+        "LPP_index": "30.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "10.4236",
+        "lon": "-75.5253",
+        "alpha-3": "COL"
+    },
+    {
+        "city_country": "Bogota, Colombia",
+        "LPP_index": "28.9",
+        "crime_index": "66",
+        "healthcare_index": "65",
+        "lat": "4.6126",
+        "lon": "-74.0705",
+        "alpha-3": "COL"
+    },
+    {
+        "city_country": "Kharkiv, Ukraine",
+        "LPP_index": "39.3",
+        "crime_index": "48.6",
+        "healthcare_index": "48.1",
+        "lat": "50",
+        "lon": "36.2292",
+        "alpha-3": "UKR"
+    },
+    {
+        "city_country": "Konya, Turkey",
+        "LPP_index": "34.7",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "37.8714",
+        "lon": "32.4847",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Adana, Turkey",
+        "LPP_index": "34.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "37",
+        "lon": "35.325",
+        "alpha-3": "TUR"
+    },
+    {
+        "city_country": "Ahmedabad, India",
+        "LPP_index": "38.9",
+        "crime_index": "32.1",
+        "healthcare_index": "66.4",
+        "lat": "23.03",
+        "lon": "72.58",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Cairo, Egypt",
+        "LPP_index": "22.9",
+        "crime_index": "50",
+        "healthcare_index": "45.5",
+        "lat": "30.0444",
+        "lon": "31.2358",
+        "alpha-3": "EGY"
+    },
+    {
+        "city_country": "Pune, India",
+        "LPP_index": "84.5",
+        "crime_index": "41.6",
+        "healthcare_index": "67",
+        "lat": "18.5196",
+        "lon": "73.8553",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Patna, India",
+        "LPP_index": "37.8",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "25.61",
+        "lon": "85.1414",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Guwahati, India",
+        "LPP_index": "57.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "26.1722",
+        "lon": "91.7458",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Chandigarh, India",
+        "LPP_index": "70.4",
+        "crime_index": "43.1",
+        "healthcare_index": "",
+        "lat": "30.7353",
+        "lon": "76.7911",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Cali, Colombia",
+        "LPP_index": "39.4",
+        "crime_index": "70.2",
+        "healthcare_index": "",
+        "lat": "3.44",
+        "lon": "-76.5197",
+        "alpha-3": "COL"
+    },
+    {
+        "city_country": "Barranquilla, Colombia",
+        "LPP_index": "32.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "10.9639",
+        "lon": "-74.7964",
+        "alpha-3": "COL"
+    },
+    {
+        "city_country": "Chennai, India",
+        "LPP_index": "62.5",
+        "crime_index": "40.2",
+        "healthcare_index": "69.5",
+        "lat": "13.0825",
+        "lon": "80.275",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Lucknow (Lakhnau), India",
+        "LPP_index": "69",
+        "crime_index": "46.6",
+        "healthcare_index": "",
+        "lat": "26.847",
+        "lon": "80.947",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Indore, India",
+        "LPP_index": "64.1",
+        "crime_index": "48.8",
+        "healthcare_index": "",
+        "lat": "22.7206",
+        "lon": "75.8472",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Bhubaneswar, India",
+        "LPP_index": "71.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "20.2644",
+        "lon": "85.8281",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Vadodara, India",
+        "LPP_index": "44.9",
+        "crime_index": "31.8",
+        "healthcare_index": "",
+        "lat": "22.3",
+        "lon": "73.2",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Kolkata, India",
+        "LPP_index": "64.2",
+        "crime_index": "46.6",
+        "healthcare_index": "57.8",
+        "lat": "22.5727",
+        "lon": "88.3639",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Jaipur, India",
+        "LPP_index": "53.4",
+        "crime_index": "35.1",
+        "healthcare_index": "",
+        "lat": "26.9167",
+        "lon": "75.8667",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Kochi, India",
+        "LPP_index": "80.6",
+        "crime_index": "40",
+        "healthcare_index": "63.3",
+        "lat": "9.9667",
+        "lon": "76.2833",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Alexandria, Egypt",
+        "LPP_index": "20",
+        "crime_index": "44.5",
+        "healthcare_index": "46.4",
+        "lat": "31.2",
+        "lon": "29.9167",
+        "alpha-3": "EGY"
+    },
+    {
+        "city_country": "Coimbatore, India",
+        "LPP_index": "50",
+        "crime_index": "",
+        "healthcare_index": "68.1",
+        "lat": "11",
+        "lon": "76.9667",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Thiruvananthapuram, India",
+        "LPP_index": "95.6",
+        "crime_index": "39",
+        "healthcare_index": "61.9",
+        "lat": "8.5",
+        "lon": "76.8997",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Bhopal, India",
+        "LPP_index": "61.2",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "23.25",
+        "lon": "77.4167",
+        "alpha-3": "IND"
+    },
+    {
+        "city_country": "Lahore, Pakistan",
+        "LPP_index": "22",
+        "crime_index": "36.4",
+        "healthcare_index": "62.5",
+        "lat": "31.5497",
+        "lon": "74.3436",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Giza, Egypt",
+        "LPP_index": "23.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "29.987",
+        "lon": "31.2118",
+        "alpha-3": "EGY"
+    },
+    {
+        "city_country": "Karachi, Pakistan",
+        "LPP_index": "22.4",
+        "crime_index": "54.5",
+        "healthcare_index": "57.3",
+        "lat": "24.86",
+        "lon": "67.01",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Islamabad, Pakistan",
+        "LPP_index": "28",
+        "crime_index": "31.2",
+        "healthcare_index": "64.2",
+        "lat": "33.6989",
+        "lon": "73.0369",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Bucaramanga, Colombia",
+        "LPP_index": "31.3",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "7.1186",
+        "lon": "-73.1161",
+        "alpha-3": "COL"
+    },
+    {
+        "city_country": "Rawalpindi, Pakistan",
+        "LPP_index": "27.9",
+        "crime_index": "49.9",
+        "healthcare_index": "",
+        "lat": "33.6007",
+        "lon": "73.0679",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Faisalabad, Pakistan",
+        "LPP_index": "32.5",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "31.418",
+        "lon": "73.079",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Multan, Pakistan",
+        "LPP_index": "21.9",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "30.1978",
+        "lon": "71.4711",
+        "alpha-3": "PAK"
+    },
+    {
+        "city_country": "Peshawar, Pakistan",
+        "LPP_index": "27.6",
+        "crime_index": "",
+        "healthcare_index": "",
+        "lat": "34",
+        "lon": "71.5",
+        "alpha-3": "PAK"
+    }
+]
