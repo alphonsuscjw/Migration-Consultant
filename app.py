@@ -1,5 +1,4 @@
 # import necessary libraries
-
 import os
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
@@ -30,7 +29,6 @@ Base.prepare(engine, reflect=True)
 Countries = Base.classes.countries
 Cities = Base.classes.cities
 ########################################
-
 
 #Landing page
 @app.route('/')

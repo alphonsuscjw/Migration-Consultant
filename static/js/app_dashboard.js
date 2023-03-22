@@ -130,7 +130,7 @@ function drawRadarChart(region, data_js) {
 
     // Create the labels and datasets for the top 5 countries
     let marksData = {
-    labels: ["LPP Index", "Crime Rate", "Healthcare Index"],
+    labels: ["LPP Index", "Crime Index", "Healthcare Index"],
     datasets: [
         {
             label: top_country.Countries,

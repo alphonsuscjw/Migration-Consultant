@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>HDI Dashboard</title>
+    <title>The Best Migration Webpage</title>
 
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="{{ url_for('static', filename='plugins/fontawesome-free/css/all.min.css') }}">
@@ -14,9 +14,6 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='dist/css/adminlte.min.css') }}">
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
-
-    <!-- {% block script %}
-    {% endblock script %} -->
     
 </head>
 
@@ -100,31 +97,50 @@
             <div class="content">
                 <div class="row">
                     <div class="col-md-4">
-                        <label for="selRegion">Select Region:</label>
+                        <label for="selRegion">Select Continent:</label>
                         <select id="selRegion" class="form-control">
                         </select>
                     </div>
-                    <!-- <div class="col-md-4">
-                        <label for="selSubRegion">Select Sub-Region:</label>
-                        <select id="selSubRegion" class="form-control" onchange="sub_regionChanged()">
-                        </select>
-                    </div>
-                    <div class="col-md-4">
-                        <label>Data Display:</label><br>
-                        <button id="btnCountry" class="btn btn-primary">Country</button>
-                        <button id="btnCity" class="btn btn-primary">City</button>
-                    </div> -->
                 </div>
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- <div id="selDataset" class="form-control"></div> -->
                             <div id="scatter"></div>
                             <canvas id="radar"></canvas>
+                            <div id="definitions">
+                                <h1>Some Definitions</h1>
+                                <h3>Local Purchasing Power (LPP) index</h3>
+                                <p>Local Purchasing Power shows relative purchasing power in buying goods and services
+                                     in a given city for the average net salary in that city. 
+                                     If domestic purchasing power is 40, this means that the inhabitants of that 
+                                     city with an average salary can afford to buy on an average 60% less goods and 
+                                     services than New York City residents with an average salary. The lower the LPP index, the better</p>
+                                <h3>Crime index</h3>
+                                <p>Crime index is an estimation of overall level of crime in a given city or a country. We consider
+                                     crime levels lower than 20 as very low, crime levels between 20 and 40 as being low,
+                                      crime levels between 40 and 60 as being moderate, crime levels between 60 and 80 as 
+                                      being high and finally crime levels higher than 80 as being very high. The lower the crime index, the better</p>
+                                <h3>Healthcare index</h3>
+                                <p>Healthcare Index is an estimation of the overall quality of the health care system, health care professionals, equipment, staff, doctors, cost, etc.
+                                    The higher the healthcare index, the better.
+                                </p>
+                                <h3>Education index</h3>
+                                <p>Education index is calculated from the mean years of schooling and the expected years of schooling in a country.
+                                    The higher the education index, the better.
+                                </p>
+                            </div>
                         </div>
                         <!-- /.row -->
                     </div><!-- /.container-fluid -->
                 </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            
+                        </div>
+                        <!-- /.row -->
+                    </div>
+
                 <!-- /.content -->
             </div>
             <!-- /.content-wrapper -->
