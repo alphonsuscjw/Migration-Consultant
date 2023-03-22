@@ -9,26 +9,27 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-// Perform an API call to the USGS API to get the earthquake information. Call createMarkers when it completes.
+// Load the cities data file to get the cities data. Call createCityMarkers when it completes.
 let city_url = "http://localhost:5000/api/v1/cities"
 d3.json(city_url).then(function(city_data) {
     createCityMarkers(city_data);
 });
 
-// Create the createMarkers function.
+// Create the createCityMarkers function.
 function createCityMarkers(city_response) {
     
     cities = city_response;
-    // Initialise an array to hold the earthquake markers.
 
+    // Create a new marker cluster group.
     let cityMarkers = L.markerClusterGroup();
-    // Loop through the features array.
+
+    // Loop through the data.
     for (let i=0; i< cities.length; i++) {  
       
-        // Create an empty string to store the HTML for the popup
+        // Create a string to store the city name for the popup
         let popupHtml = `<h2>${cities[i].city_country}</h2>`;
 
-        // Add the LPP index to the popup if it is not empty
+        // Add the LPP index to the popup if it is not empty. If empty, add "N/A" to the popup
         if (cities[i].LPP_index) {
             popupHtml += `<h3>LPP index: ${cities[i].LPP_index}</h3>`;
         }
@@ -36,6 +37,7 @@ function createCityMarkers(city_response) {
             popupHtml += `<h3>LPP index: N/A</h3>`;
         }
 
+        // Add the crime index to the popup if it is not empty. If empty, add "N/A" to the popup
         if (cities[i].crime_index) {
             popupHtml += `<h3>Crime index: ${cities[i].crime_index}</h3>`;
         }
@@ -43,6 +45,7 @@ function createCityMarkers(city_response) {
             popupHtml += `<h3>Crime index: N/A</h3>`;
         }
 
+        // Add the healthcare index to the popup if it is not empty. If empty, add "N/A" to the popup
         if (cities[i].healthcare_index) {
             popupHtml += `<h3>Healthcare index: ${cities[i].healthcare_index}</h3>`;
         }
@@ -50,7 +53,7 @@ function createCityMarkers(city_response) {
             popupHtml += `<h3>Healthcare index: N/A</h3>`;
         }
 
-        // For each feature, create a circle marker, and bind a popup with the earthquake's magnitude, depth, place and time.
+        // For each city, create a marker, and bind a popup with the city's name, LPP index, crime index and healthcare index.
         cityMarkers.addLayer(L.marker([cities[i].lat, cities[i].lon])
         .bindPopup(popupHtml));
         
@@ -60,18 +63,18 @@ function createCityMarkers(city_response) {
 
 }
 
-// Load the countries data and add it to the map as a GeoJSON layer.
+// Load the countries data file and the countries borders file and add it to the map as a GeoJSON layer.
 let countries_url_1 = "http://localhost:5000/api/v1/countries";
 let countries_url_2 = "static/data/countries.geojson";
-// Load JSON file
+// Load JSON countries data file
 fetch(countries_url_1)
 .then(response => response.json())
 .then(jsonData => {
-    // Load GeoJSON file
+    // Load GeoJSON countries borders file
     fetch(countries_url_2)
     .then(response => response.json())
     .then(geojsonData => {
-        // Merge JSON and GeoJSON files based on the country code
+        // Merge both files based on the country code
         const mergedData = jsonData.map(data => {
             const matchingFeature = geojsonData.features.find(feature => feature.properties.ISO_A3 === data["alpha-3"]);
             return {
@@ -79,16 +82,17 @@ fetch(countries_url_1)
               ...matchingFeature.geometry
             };
         });
+        // Pass the merged data into the createCountryMarkers function
         createCountryMarkers(mergedData);
-        console.log(mergedData)
+        console.log(mergedData);
     });
 });
 
 // Create the createCountryMarkers function.
 function createCountryMarkers(data) {
     
-    // Initialise an array to hold the country markers.
-    let countryBorders = L.geoJson(data, {
+    // Create a GEOJSON layer
+    let countryMarkers = L.geoJson(data, {
         style: function(feature) {
             return {
               fillColor: "#cedaee",
@@ -98,7 +102,7 @@ function createCountryMarkers(data) {
         },
         onEachFeature: function(feature, layer) {
 
-            // Add an event listener to display the popup when hovering over the country marker
+            // Add an event listener to change country style when hovering over the country marker
             layer.on({
                 mouseover: function(event) {
                     layer = event.target;
@@ -107,7 +111,7 @@ function createCountryMarkers(data) {
                         fillColor: getColor(feature["HDI_index"])                  
                     });
                 },
-                // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 0%.
+                // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's style reverts back to the default.
                 mouseout: function(event) {
                     layer = event.target;
                     layer.setStyle({
@@ -115,15 +119,13 @@ function createCountryMarkers(data) {
                         fillColor: "#cedaee",
                         weight: 1.5
                     });
-                },
-                // // When a feature (country) is clicked, it zooms to fit the screen.
-                // click: function(event) {
-                //     myMap.fitBounds(event.target.getBounds());
-                // }
+                }
             });
+
+            // Create a string to store the country name for the popup
             let popupHtml = `<h2>${feature.Countries}</h2>`;
             
-            // Add the data to the popup if it is not empty
+            // Add the data to the popup if it is not empty. If empty, add "N/A" to the popup
             if (feature["HDI_rank_2021"]) {
                 popupHtml += `<h3>HDI Ranking 2021: ${feature["HDI_rank_2021"]}</h3>`;
             }
@@ -137,7 +139,7 @@ function createCountryMarkers(data) {
                 popupHtml += `<h3>HDI 2021: N/A</h3>`;
             }
             if (feature["Education Index"]){
-                popupHtml += `<h3>Education index: ${feature["Education Index"]}</h3>`;
+                popupHtml += `<h3>Education index: ${feature["Education Index"].toFixed(2)}</h3>`;
             }
             else {
                 popupHtml += `<h3>Education index: N/A</h3>`;
@@ -164,15 +166,15 @@ function createCountryMarkers(data) {
                 popupHtml += `<h3>Healthcare index: N/A</h3>`;
             }
 
-            // Bind the popup to the country layer
+            // Bind the popup to the countries layer
             layer.bindPopup(popupHtml);
         }
 
     });
     
-    myMap.addLayer(countryBorders);
+    myMap.addLayer(countryMarkers);
 
-    // Set up the legend for the different colours
+    // Set up the legend for the different colours for mouseover
     setLegend(myMap);
 
 }
