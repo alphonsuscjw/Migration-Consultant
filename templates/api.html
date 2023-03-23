@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block my_content %}
+<div>
+    <div class="content-wrapper">
+        <div class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <h2 style="color: black; text-decoration: none;"> API Endpoints </h2>
+                    <p style="color: black; text-decoration: none;"> These endpoints provide access to tables from the database, including countries and cities:</p>
+                    <ul>
+                        <li><a href="/api/v1/countries" target="_blank">/api/v1/countries</a> (List of countries)</li>
+                        <li><a href="/api/v1/cities" target="_blank">/api/v1/cities</a> (List of cities)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock my_content %}
