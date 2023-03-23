@@ -11,7 +11,7 @@ There are 5 stages to this project:
 
 Data sources:
 1. United Nations Database
-2. Numby
+2. Numbeo
 
 Instructions to run the programme:
 1. Activate your virtual environment
