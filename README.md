@@ -10,8 +10,17 @@ There are 5 stages to this project:
 5. We also designed an interactive map using Leaflet that allows the user to further explore the data for each country and city.
 
 Data sources:
-1. United Nations Database
+1. United Nations Database (HDI)
 2. Numbeo
+
+File Structure:
+- dataset -> Contains all the CSV files used to curate our dataset
+- output -> output files from the data cleaning/processing stage (from cleaning.ipynb)
+- static -> contains bootstrap plugins + geojson data (data)
+- templates -> html files for website structure
+- app.py = python code that contains Flask routes
+- cleaning.ipynb = jupyter notebook containing data cleaning process
+- schema.py = python code to create the SQLite database.
 
 Instructions to run the programme:
 1. Activate your virtual environment
