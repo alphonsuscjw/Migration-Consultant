@@ -1,4 +1,4 @@
-# Project-3
+# Migration Consultant
 
 This project designs a webpage which helps people decide which country is the best to migrate to. The webpage has a dashboard and a map that display data for countries and cities that are relevant to making migration decisions.
 
